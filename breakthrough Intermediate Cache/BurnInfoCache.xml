@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBurnInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\locale\english\english.ucs</FileName>
+		<FileHash>f3b25701fe362ec84616a93a45ce9998</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\info\82ae9fa5997e4dcdaac301f29d6d356d.info</FileName>
+		<FileHash>e8ff4cf649b8e2dbb847f40002d96d79</FileHash>
+	</BurnInfo>
+</ArrayOfBurnInfo>
