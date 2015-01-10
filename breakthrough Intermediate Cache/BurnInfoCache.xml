@@ -157,6 +157,10 @@
 		<FileHash>3b7155c5af8283521626aa9c7d2996c8</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\west_german\soldiers\obersoldaten\obersoldaten_mp_remake_with_mg34.xml</FileName>
+		<FileHash>2f548c2a708456215ced7d57a560a0b1</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\west_german\soldiers\panzerfusilier\panzerfusilier_mp_remake.xml</FileName>
 		<FileHash>8c57a45abe5f0a1c13e38cee272d589c</FileHash>
 	</BurnInfo>
@@ -270,7 +274,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\west_german\soldiers\obersoldaten\obersoldaten__large_squad_mp.xml</FileName>
-		<FileHash>415b19a3efaf3f845ff06aa8e97f268b</FileHash>
+		<FileHash>b801f673752f4bb80363ca191f1e7119</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\west_german\soldiers\panzerfusilier_squad\panzerfusilier_large_squad_mp.xml</FileName>
@@ -374,7 +378,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\single_fire\rifle\m1a1_carbine_mp_increased.xml</FileName>
-		<FileHash>a20581a2236c2d3b3ebda7fedbf265ae</FileHash>
+		<FileHash>1db97900f418be07f95d995e653bd406</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\single_fire\rifle\m1a1_carbine_paratrooper_mp_increased.xml</FileName>
@@ -394,7 +398,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\single_fire\rifle\m1_garand_mp_increased.xml</FileName>
-		<FileHash>dafab171ac06d297e3fa6c59d922bf4d</FileHash>
+		<FileHash>7351a74ec17a66029faded820a14d580</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\single_fire\rifle\m1_garand_rifle_mortar_crew_mp_increased.xml</FileName>
@@ -446,7 +450,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\g43_rifle_mp_increased.xml</FileName>
-		<FileHash>39126a55192311225974bf330ca394d4</FileHash>
+		<FileHash>649a289147bc81a3455ecacc42c718ec</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_explosive_mp_increased.xml</FileName>
@@ -470,7 +474,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\kar_98k_rifle_mp_increased.xml</FileName>
-		<FileHash>c5ad7914f712b8c65b0a44c61e147c2b</FileHash>
+		<FileHash>8b3f05176107e140857c820407e7a027</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\repair_pioneer_kar_98k_rifle_mp_increased.xml</FileName>
@@ -538,7 +542,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\single_fire\rifle\g43_remake.xml</FileName>
-		<FileHash>51065a3c9d0ad7791e504fe6ee3df39a</FileHash>
+		<FileHash>330a5382cd4bcae776db42e9c1e6726f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\single_fire\rifle\jaeger_light_recon_g43_remake.xml</FileName>
@@ -546,7 +550,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\single_fire\rifle\kar_98k_rifle_mp_remake.xml</FileName>
-		<FileHash>51d66b4b92b5a2dc14aa4ab70d9ebb2f</FileHash>
+		<FileHash>10fd5b49d7511bbc3bc956d5cde80522</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\single_fire\rifle\mg34_kar_98k_rifle_mp_remake.xml</FileName>

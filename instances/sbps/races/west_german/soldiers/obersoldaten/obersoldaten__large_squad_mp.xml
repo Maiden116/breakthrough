@@ -384,7 +384,11 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="5" />
+					<float name="num" value="4" />
+					<instance_reference name="type" value="ebps\races\west_german\soldiers\obersoldaten\obersoldaten_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="loadout_data">
+					<float name="num" value="1" />
 					<instance_reference name="type" value="ebps\races\west_german\soldiers\obersoldaten\obersoldaten_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
@@ -408,119 +412,6 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
 			<list name="actions">
-				<template_reference name="action" value="action\slot_item_add">
-					<instance_reference name="slot_item" value="slot_item\west_german\small_arms\obersoldaten_mg34_lmg_moving_no_prone_mp" />
-					<bool name="permanent" value="True" />
-					<uniqueid name="id" value="1073742325" />
-				</template_reference>
-				<template_reference name="action" value="action\apply_modifiers_action">
-					<float name="duration" value="0" />
-					<bool name="permanent" value="False" />
-					<list name="modifiers">
-						<template_reference name="modifier" value="modifiers\accuracy_weapon_modifier">
-							<enum name="application_type" value="apply_to_weapon" />
-							<bool name="exclusive" value="False" />
-							<string name="modifier_id" value="" />
-							<string name="target_type_name" value="hardpoint_01" />
-							<enum name="usage_type" value="multiplication" />
-							<float name="value" value="1.15" />
-							<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073742326" />
-				</template_reference>
-				<template_reference name="action" value="action\apply_modifiers_action">
-					<float name="duration" value="0" />
-					<bool name="permanent" value="False" />
-					<list name="modifiers">
-						<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
-							<enum name="application_type" value="apply_to_squad" />
-							<bool name="exclusive" value="False" />
-							<string name="modifier_id" value="" />
-							<string name="target_type_name" value="" />
-							<enum name="usage_type" value="multiplication" />
-							<float name="value" value="0.7" />
-							<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073742327" />
-				</template_reference>
-				<template_reference name="action" value="action\requirement_action">
-					<bool name="check_self" value="False" />
-					<bool name="global_fire_and_forget_on_success" value="False" />
-					<bool name="instant_requirement_check" value="False" />
-					<bool name="kill_action_on_failed_requirements" value="False" />
-					<bool name="no_retrigger" value="False" />
-					<bool name="validate_all_sub_actions" value="True" />
-					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_not">
-							<enum name="reason" value="usage" />
-							<locstring name="ui_name" value="0" />
-							<list name="requirement_table">
-								<template_reference name="required" value="requirements\required_in_state">
-									<enum name="reason" value="usage" />
-									<locstring name="ui_name" value="0" />
-									<bool name="garrisoned" value="False" />
-									<bool name="healed" value="False" />
-									<float name="in_combat_since" value="10" />
-									<bool name="injured" value="False" />
-									<bool name="leader" value="False" />
-									<bool name="not_moving" value="False" />
-									<bool name="not_retreating" value="False" />
-									<bool name="pinned" value="False" />
-									<bool name="suppressed" value="False" />
-								</template_reference>
-							</list>
-						</template_reference>
-						<template_reference name="required" value="requirements\required_squad_veterancy">
-							<enum name="reason" value="usage" />
-							<locstring name="ui_name" value="11073127" />
-							<float name="veterancy_rank" value="3" />
-						</template_reference>
-					</list>
-					<list name="action_table">
-						<template_reference name="action" value="action\apply_modifiers_action">
-							<float name="duration" value="0" />
-							<bool name="permanent" value="False" />
-							<list name="modifiers">
-								<template_reference name="modifier" value="modifiers\health_regeneration_modifier">
-									<enum name="application_type" value="apply_to_entity" />
-									<bool name="exclusive" value="False" />
-									<string name="modifier_id" value="" />
-									<string name="target_type_name" value="" />
-									<enum name="usage_type" value="addition" />
-									<float name="value" value="0.33" />
-									<instance_reference name="tooltip" value="modifier_tooltip\health_regeneration_modifier" />
-								</template_reference>
-							</list>
-							<uniqueid name="id" value="1073742328" />
-						</template_reference>
-						<template_reference name="action" value="action\animator_set_state">
-							<bool name="apply_to_leader_only" value="True" />
-							<string name="do_action_state_name" value="on" />
-							<bool name="retrigger" value="True" />
-							<string name="state_machine_name" value="ability_heal_state" />
-							<string name="undo_action_state_name" value="off" />
-							<uniqueid name="id" value="1073742329" />
-						</template_reference>
-						<template_reference name="action" value="action\ui_unit_modifier_action">
-							<bool name="die_with_creator" value="False" />
-							<template_reference name="ui_info" value="tables\ui_info">
-								<locstring name="screen_name" value="11069235" />
-								<locstring name="help_text" value="11069236" />
-								<string name="icon_name" value="Icons_abilities_ability_west_german_medical_field_kit" />
-								<string name="hotkey_name" value="" />
-							</template_reference>
-							<uniqueid name="id" value="1073742330" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073742331" />
-					<bool name="fire_and_forget_non_global" value="False" />
-					<template_reference name="ui_help_text" value="tables\help_text_phrase">
-						<int name="phrase_order" value="0" />
-						<locstring name="phrase" value="0" />
-					</template_reference>
-				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">

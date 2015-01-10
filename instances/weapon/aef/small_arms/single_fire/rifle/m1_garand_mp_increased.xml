@@ -2,7 +2,7 @@
 	<group name="weapon_bag">
 		<group name="accuracy">
 			<float name="near" value="0.3" />
-			<float name="far" value="0.6" />
+			<float name="far" value="0.7" />
 			<float name="mid" value="0.5" />
 		</group>
 		<group name="aim">
@@ -352,7 +352,7 @@
 			</group>
 			<group name="frequency">
 				<float name="max" value="9" />
-				<float name="min" value="8" />
+				<float name="min" value="9" />
 			</group>
 			<list name="on_reload_actions">
 			</list>
