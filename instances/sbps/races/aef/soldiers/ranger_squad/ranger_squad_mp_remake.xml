@@ -175,7 +175,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\ranger_bazooka_lmg_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\ranger_bazooka_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -918,7 +918,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\aef\toggle_ability\bazooka_deploy_mp" />
-				<instance_reference name="ability" value="abilities\aef\timed_ability\ranger_sprint_mp" />
+				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">

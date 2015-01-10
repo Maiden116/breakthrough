@@ -43,14 +43,19 @@
 		<bool name="validate_actions" value="True" />
 		<list name="actions">
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\aef\small_arms\grace_gun_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="slot_item" value="slot_item\aef\small_arms\rifleman_greacegun_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073743066" />
 			</template_reference>
 			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\aef\small_arms\grace_gun_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="slot_item" value="slot_item\aef\small_arms\rifleman_greacegun_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073743067" />
+			</template_reference>
+			<template_reference name="action" value="action\slot_item_add">
+				<instance_reference name="slot_item" value="slot_item\aef\small_arms\rifleman_greacegun_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<bool name="permanent" value="True" />
+				<uniqueid name="id" value="1073743138" />
 			</template_reference>
 		</list>
 		<list name="requirements">
@@ -61,7 +66,7 @@
 				<bool name="display_requirement" value="True" />
 				<float name="max_owned" value="0" />
 				<float name="min_owned" value="0" />
-				<instance_reference name="slot_item" value="slot_item\aef\small_arms\grace_gun_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="slot_item" value="" />
 			</template_reference>
 		</list>
 		<string name="ui_kicker_icon_name" value="" />

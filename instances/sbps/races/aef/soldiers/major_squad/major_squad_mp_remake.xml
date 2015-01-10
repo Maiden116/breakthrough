@@ -626,6 +626,7 @@
 				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\artillery_barrage_ability\major_artillery_fake" />
 				<instance_reference name="ability" value="abilities\aef\timed_ability\officer_stop_retreat_mp" />
+				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">

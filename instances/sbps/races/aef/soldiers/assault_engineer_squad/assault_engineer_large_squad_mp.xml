@@ -16,7 +16,7 @@
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="0" />
+						<locstring name="screen_name" value="18" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="selection_group" value="assault_engineer" />
 						<group name="speaker_generic">
 							<string name="code_1" value="en" />
@@ -722,6 +722,7 @@
 				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\refuel_tank_sp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_ability_rear_echelon_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\out_of_fuel_sp" />
+				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">

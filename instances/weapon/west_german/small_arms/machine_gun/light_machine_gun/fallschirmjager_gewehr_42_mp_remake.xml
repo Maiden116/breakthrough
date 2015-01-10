@@ -1,8 +1,8 @@
 <instance description="" template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="near" value="0.5" />
-			<float name="far" value="0.4" />
+			<float name="near" value="0.4" />
+			<float name="far" value="0.5" />
 			<float name="mid" value="0.45" />
 		</group>
 		<group name="aim">
@@ -352,8 +352,8 @@
 				<float name="mid" value="1" />
 			</group>
 			<group name="frequency">
-				<float name="max" value="3" />
-				<float name="min" value="3" />
+				<float name="max" value="8" />
+				<float name="min" value="8" />
 			</group>
 			<list name="on_reload_actions">
 			</list>

@@ -16,7 +16,7 @@
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051147" />
+						<locstring name="screen_name" value="16" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="selection_group" value="paratrooper" />
 						<group name="speaker_generic">
 							<string name="code_1" value="pa" />
@@ -175,9 +175,6 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\paratrooper_thompson_sub_machine_gun_upgrade_mp" />
-				<instance_reference name="upgrade" value="upgrade\aef\items\paratrooper_m1919a6_lmg_mp" />
-				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -686,6 +683,7 @@
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\paratrooper_timed_demo_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\refuel_tank_sp" />
+				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
