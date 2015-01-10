@@ -5,56 +5,120 @@
 		<FileHash>415310a42eb5e7c7f1345a0ec85b93c6</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\abilities\german\timed_ability\german_sprint_mp.xml</FileName>
+		<FileHash>e13bd21dc38405b201fa637b676baf8a</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\buildings\base_building\hq\german_hq_mp.xml</FileName>
+		<FileHash>715eccb1a3c6de38ee4b19ae242f2345</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\soldiers\grenadiers\assault_grenadiers_leader_mp_remake.xml</FileName>
+		<FileHash>0751ce4d827d3cda051b056a565ccd31</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\soldiers\grenadiers\assault_grenadiers_mp_remake.xml</FileName>
+		<FileHash>714dbba9d4562c1c026e59b1dd1e4fbe</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\soldiers\grenadiers\grenadiers_mp_remake.xml</FileName>
+		<FileHash>9816369e21a0f396ddbf8d086426f64d</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\soldiers\panzer_grenadiers\panzer_grenadiers_mp_remake.xml</FileName>
+		<FileHash>b591f40d526674d1a6fb066060ae7665</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\soldiers\pioneer\pioneer_mp_remake.xml</FileName>
+		<FileHash>f09989008521fbe58a9dedd68e0e71ea</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\soldiers\stormtroopers\german_at_members_mp.xml</FileName>
+		<FileHash>f090005f6ff441764d1f43e02bd6b80d</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\soldiers\stormtroopers\stormtroopers_mp_remake.xml</FileName>
+		<FileHash>e53ab3d83ec766da99ede476d8b5ad0c</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\grenadier_squad\assault_grenadier_large_squad_mp.xml</FileName>
+		<FileHash>fe89c2132d405fc9c46a43a4a736205c</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\grenadier_squad\grenadier_large_squad_mg42lmg_mp.xml</FileName>
+		<FileHash>5e57a3b66356174c70fa89d74648e7b6</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\grenadier_squad\grenadier_large_squad_mp.xml</FileName>
+		<FileHash>cf6cb4c6c01be018df4f436a0d350a44</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\pioneer_squad\pioneer_large_squad_mp.xml</FileName>
+		<FileHash>9541487389369dfc5d6bb875ce8a20f7</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\stormtrooper_squad\german_at_squad_mp.xml</FileName>
+		<FileHash>76e46959a7d8c0850e34c6cacb21d4a5</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\stormtrooper_squad\stormtrooper_large_squad_mp.xml</FileName>
+		<FileHash>bcdeb3c683be57395d57829694b5af58</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\ballistic_weapon\infantry_anti_tank_weapon\panzerschreck_atw_mp_remake.xml</FileName>
+		<FileHash>221885809e96e5a974bb5907cba5fb96</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\machine_gun\sub_machine_gun\assault_grenadier_mp40_increased.xml</FileName>
 		<FileHash>f551d3fe5ae262cb620a499d708d6ae9</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\machine_gun\sub_machine_gun\eg_pioneer_mp40_smg_mp_increased.xml</FileName>
-		<FileHash>564c0e6f47c8c31b64d02581336b7583</FileHash>
+		<FileHash>0ffaaa8c76283e54bc8ce95e996e8310</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\machine_gun\sub_machine_gun\panzer_grenadier_mp44_smg_mp_increased.xml</FileName>
-		<FileHash>cea2bd5d5a6eea0c0b61dfc88b881d9f</FileHash>
+		<FileHash>3b5102529bed8e9272ef929b0db66262</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\machine_gun\sub_machine_gun\sturm_pioneer_mp44_smg_mp_increased.xml</FileName>
-		<FileHash>77ab4381abaf82aa2b4fb8966e19c71a</FileHash>
+		<FileHash>6bfc71e68b404b329f05c88b3800eff0</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\machine_gun\sub_machine_gun\weapon_crew_&amp;_pioneer_mp40_smg_mp_increased.xml</FileName>
-		<FileHash>4eda5c5cce46455a0b94b3de87c5738e</FileHash>
+		<FileHash>2696ceb213198389c46c19e96e7f124f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_explosive_mp_increased.xml</FileName>
-		<FileHash>c54cb7a5b80b709778e4ddc7260a928e</FileHash>
+		<FileHash>edaa1078a7b1cdd418f960d320c12368</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_incendiary_mp_increased.xml</FileName>
-		<FileHash>7da2790c35733ec9ad536964458ec454</FileHash>
+		<FileHash>cb068fcc1334f986d4555ca1e8c45e1b</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\g43_sniper_sniper_mp_increased.xml</FileName>
-		<FileHash>a581b1634a9d03b7c7e0adbbffea4c26</FileHash>
+		<FileHash>18e62716e5cc9a6e4cd87a20f65c6fa4</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\grenadier_kar_98k_rifle_mp_increased.xml</FileName>
-		<FileHash>f940c5029a59107ffb39245b0640b17b</FileHash>
+		<FileHash>5c526f0a931c1e8de120157a70457942</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\jaeger_g43_rifle_mp_increased.xml</FileName>
-		<FileHash>7ae95ecdfbc9f521a057712ace2a2097</FileHash>
+		<FileHash>20eca6e2a2f9056e2c0c5fba3c95c482</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\repair_pioneer_kar_98k_rifle_mp_increased.xml</FileName>
-		<FileHash>5486eb4ddc4a9cc01d85036f15a358e7</FileHash>
+		<FileHash>25b3293ee015a7ae61cc33a0f47ffc07</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\stormtrooper_g43_increased.xml</FileName>
-		<FileHash>b35c8cd858d906fe7f482f3e87955501</FileHash>
+		<FileHash>29b5e44d4e631ef9467786fbe0a9c47b</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\locale\english\english.ucs</FileName>
-		<FileHash>f3b25701fe362ec84616a93a45ce9998</FileHash>
+		<FileHash>c9ffaaa8ccf12d54d58a7684663c63c3</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\info\82ae9fa5997e4dcdaac301f29d6d356d.info</FileName>

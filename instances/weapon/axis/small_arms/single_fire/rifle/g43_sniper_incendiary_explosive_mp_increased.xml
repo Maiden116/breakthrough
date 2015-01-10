@@ -546,9 +546,9 @@
 		<instance_reference name="ui_range" value="ui_reticule\range_sniper" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
-			<float name="near" value="2.5" />
-			<float name="far" value="2.5" />
-			<float name="mid" value="2.5" />
+			<float name="near" value="0" />
+			<float name="far" value="0" />
+			<float name="mid" value="0" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />
