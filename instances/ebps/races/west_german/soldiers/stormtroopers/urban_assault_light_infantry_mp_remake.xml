@@ -18,6 +18,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\accessory_weapons\fallschirmjaeger_panzerfaust" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\urban_assault_smoke_grenade_2" />
+				<instance_reference name="ability" value="abilities\west_german\timed_ability\west_german_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">

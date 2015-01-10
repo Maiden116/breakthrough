@@ -4,6 +4,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\timed_ability\german_sprint_mp.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\west_german\timed_ability\west_german_sprint_mp.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\base_building\rifle_command_mp.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\base_building\rifle_command_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\assault_engineer\assault_engineer_mp_remake.rgd
@@ -69,6 +70,9 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\soldiers\stormtrooper_squad\urban_assault_light_infantry_large_squad_mp.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\soldiers\volksgrenadier_squad\volksgrenadier_large_squad_mp.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\soldiers\volksgrenadier_squad\west_german_at_squad_mp_remake.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\upgrade\aef\items\ranger_bazooka_lmg_mp.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\ballistic_weapon\infantry_anti_tank_weapon\m9_bazooka_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\machine_gun\light_machine_gun\paratrooper_m1919a6_lmg_moving_mp_increased.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\machine_gun\light_machine_gun\paratrooper_m1919a6_lmg_moving_no_prone_mp_increased.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\weapon\aef\small_arms\machine_gun\light_machine_gun\riflemen_30cal_lmg_mp_increased.rgd

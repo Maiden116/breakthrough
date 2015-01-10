@@ -19,6 +19,7 @@
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\accessory_weapons\panzerfusilier_at_rifle_grenade" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\panzerfusiliers_flare" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\panzerfusilier_grenade" />
+				<instance_reference name="ability" value="abilities\west_german\timed_ability\west_german_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
