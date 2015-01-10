@@ -465,11 +465,6 @@
 			<bool name="spawn_at_map_entry_point" value="True" />
 			<list name="spawn_items">
 				<group name="spawn_item">
-					<int name="ui_position" value="11" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\german\soldiers\pioneer_squad\pioneer_squad_mp" />
-				</group>
-				<group name="spawn_item">
 					<int name="ui_position" value="10" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\german\soldiers\grenadier_squad\assault_grenadier_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
@@ -497,7 +492,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="11" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\german\soldiers\german_volksgrenadier_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\german\soldiers\volksgrenadiers\german_volksgrenadier_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">

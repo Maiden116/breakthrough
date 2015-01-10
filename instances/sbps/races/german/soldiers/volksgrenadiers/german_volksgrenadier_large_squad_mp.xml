@@ -514,7 +514,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\move_enable_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743077" />
+						<uniqueid name="id" value="1073743114" />
 					</template_reference>
 					<template_reference name="action" value="action\delay">
 						<float name="delay" value="10" />
@@ -536,10 +536,10 @@
 										<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073743078" />
+								<uniqueid name="id" value="1073743115" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743079" />
+						<uniqueid name="id" value="1073743116" />
 						<bool name="can_prevent_refund" value="True" />
 					</template_reference>
 					<template_reference name="action" value="action\animator_set_state">
@@ -548,7 +548,7 @@
 						<bool name="retrigger" value="False" />
 						<string name="state_machine_name" value="suppression" />
 						<string name="undo_action_state_name" value="normal" />
-						<uniqueid name="id" value="1073743080" />
+						<uniqueid name="id" value="1073743117" />
 					</template_reference>
 				</list>
 				<list name="suppressed_activate_actions">
@@ -593,7 +593,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743081" />
+						<uniqueid name="id" value="1073743118" />
 					</template_reference>
 				</list>
 			</group>
@@ -639,7 +639,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743082" />
+					<uniqueid name="id" value="1073743119" />
 				</template_reference>
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
@@ -689,7 +689,7 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\health_regeneration_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073743083" />
+							<uniqueid name="id" value="1073743120" />
 						</template_reference>
 						<template_reference name="action" value="action\animator_set_state">
 							<bool name="apply_to_leader_only" value="True" />
@@ -697,7 +697,7 @@
 							<bool name="retrigger" value="True" />
 							<string name="state_machine_name" value="ability_heal_state" />
 							<string name="undo_action_state_name" value="off" />
-							<uniqueid name="id" value="1073743084" />
+							<uniqueid name="id" value="1073743121" />
 						</template_reference>
 						<template_reference name="action" value="action\ui_unit_modifier_action">
 							<bool name="die_with_creator" value="False" />
@@ -707,10 +707,10 @@
 								<string name="icon_name" value="Icons_abilities_ability_west_german_medical_field_kit" />
 								<string name="hotkey_name" value="" />
 							</template_reference>
-							<uniqueid name="id" value="1073743085" />
+							<uniqueid name="id" value="1073743122" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073743086" />
+					<uniqueid name="id" value="1073743123" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -759,7 +759,7 @@
 			<list name="actions">
 				<template_reference name="action" value="action\suppression">
 					<float name="suppression" value="0" />
-					<uniqueid name="id" value="1073743087" />
+					<uniqueid name="id" value="1073743124" />
 					<float name="supressionrecovertime" value="0" />
 				</template_reference>
 			</list>
@@ -878,7 +878,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743088" />
+										<uniqueid name="id" value="1073743125" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -894,7 +894,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743089" />
+										<uniqueid name="id" value="1073743126" />
 									</template_reference>
 								</list>
 							</group>
@@ -931,7 +931,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\cooldown_weapon_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743090" />
+										<uniqueid name="id" value="1073743127" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -947,7 +947,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743091" />
+										<uniqueid name="id" value="1073743128" />
 									</template_reference>
 								</list>
 							</group>
@@ -984,7 +984,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743092" />
+										<uniqueid name="id" value="1073743129" />
 									</template_reference>
 								</list>
 							</group>
@@ -1021,7 +1021,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743093" />
+										<uniqueid name="id" value="1073743130" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -1037,7 +1037,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743094" />
+										<uniqueid name="id" value="1073743131" />
 									</template_reference>
 								</list>
 							</group>
@@ -1065,7 +1065,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743095" />
+										<uniqueid name="id" value="1073743132" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -1081,7 +1081,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743096" />
+										<uniqueid name="id" value="1073743133" />
 									</template_reference>
 								</list>
 							</group>
@@ -1128,5 +1128,5 @@
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1073741852" />
+	<uniqueid name="pbgid" value="1073741853" />
 </instance>

@@ -384,7 +384,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="3" />
+					<float name="num" value="2" />
 					<instance_reference name="type" value="ebps\races\west_german\soldiers\volksgrenadier\volksgrenadier_mp" />
 				</group>
 				<group name="loadout_data">
