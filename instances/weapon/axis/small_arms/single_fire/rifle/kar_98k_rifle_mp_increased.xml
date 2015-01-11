@@ -1,9 +1,9 @@
 <instance description="rifle for ostruppen.&#xA;Multiplayer Clone." template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="near" value="0.2" />
+			<float name="near" value="0.3" />
 			<float name="far" value="0.8" />
-			<float name="mid" value="0.5" />
+			<float name="mid" value="0.7" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
@@ -269,8 +269,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="28" />
-			<float name="min" value="28" />
+			<float name="max" value="30" />
+			<float name="min" value="30" />
 			<list name="on_penetrated_actions">
 			</list>
 		</group>
@@ -352,8 +352,8 @@
 				<float name="near" value="1" />
 			</group>
 			<group name="frequency">
-				<float name="max" value="6" />
-				<float name="min" value="6" />
+				<float name="max" value="4" />
+				<float name="min" value="4" />
 			</group>
 			<list name="on_reload_actions">
 			</list>
