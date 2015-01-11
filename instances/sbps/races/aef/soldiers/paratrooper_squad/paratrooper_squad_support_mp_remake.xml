@@ -500,57 +500,6 @@
 					</list>
 					<uniqueid name="id" value="1073742913" />
 				</template_reference>
-				<template_reference name="action" value="action\random_action">
-					<bool name="instant" value="False" />
-					<list name="random_actions">
-						<group name="action_choice">
-							<list name="actions">
-								<template_reference name="action" value="action\slot_item_add">
-									<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp" />
-									<bool name="permanent" value="True" />
-									<uniqueid name="id" value="1073742914" />
-								</template_reference>
-								<template_reference name="action" value="action\slot_item_add">
-									<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp" />
-									<bool name="permanent" value="True" />
-									<uniqueid name="id" value="1073742915" />
-								</template_reference>
-							</list>
-							<int name="weight" value="50" />
-						</group>
-						<group name="action_choice">
-							<list name="actions">
-								<template_reference name="action" value="action\slot_item_add">
-									<instance_reference name="slot_item" value="slot_item\aef\small_arms\paratrooper_thompson_mp" />
-									<bool name="permanent" value="True" />
-									<uniqueid name="id" value="1073742916" />
-								</template_reference>
-								<template_reference name="action" value="action\slot_item_add">
-									<instance_reference name="slot_item" value="slot_item\aef\small_arms\paratrooper_thompson_mp" />
-									<bool name="permanent" value="True" />
-									<uniqueid name="id" value="1073742917" />
-								</template_reference>
-								<template_reference name="action" value="action\slot_item_add">
-									<instance_reference name="slot_item" value="slot_item\aef\small_arms\paratrooper_thompson_mp" />
-									<bool name="permanent" value="True" />
-									<uniqueid name="id" value="1073742918" />
-								</template_reference>
-							</list>
-							<int name="weight" value="25" />
-						</group>
-						<group name="action_choice">
-							<list name="actions">
-								<template_reference name="action" value="action\slot_item_add">
-									<instance_reference name="slot_item" value="slot_item\aef\small_arms\paratrooper_m1919a6_lmg_mp" />
-									<bool name="permanent" value="True" />
-									<uniqueid name="id" value="1073742919" />
-								</template_reference>
-							</list>
-							<int name="weight" value="25" />
-						</group>
-					</list>
-					<uniqueid name="id" value="1073742920" />
-				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_attention_ext">

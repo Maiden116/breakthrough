@@ -422,11 +422,6 @@
 					</list>
 					<uniqueid name="id" value="1073742807" />
 				</template_reference>
-				<template_reference name="action" value="action\slot_item_add">
-					<instance_reference name="slot_item" value="slot_item\aef\small_arms\riflemen_m1918_bar_mp" />
-					<bool name="permanent" value="True" />
-					<uniqueid name="id" value="1073742808" />
-				</template_reference>
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
 					<bool name="global_fire_and_forget_on_success" value="False" />
