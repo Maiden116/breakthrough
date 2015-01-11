@@ -451,21 +451,6 @@
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\volksgrenadier_squad\volksgrenadier_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="13" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="14" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\at_gun_squad\raketenwerfer43_88mm_puppchen_antitank_gun_squad_mp" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="21" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\vehicles\king_tiger_squad\king_tiger_squad_mp" />
-				</group>
-				<group name="spawn_item">
 					<int name="ui_position" value="15" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\fallschirmjager_squad\fallschirmjager_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
@@ -488,7 +473,12 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="19" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\soldiers\volksgrenadier_squad\west_german_at_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\mg34_heavy_machine_gun_squad\mg34_heavy_machine_gun_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="20" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\mg42_heavy_machine_gun_squad\mg42_heavy_machine_gun_squad_wg_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">

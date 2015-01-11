@@ -41,6 +41,11 @@
 					<string name="undo_action_state_name" value="" />
 					<uniqueid name="id" value="1073742741" />
 				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\small_arms\m1919a6_lmg_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073743601" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\cost_ext">

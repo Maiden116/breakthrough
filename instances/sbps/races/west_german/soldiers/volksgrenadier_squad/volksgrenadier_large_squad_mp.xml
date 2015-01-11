@@ -717,6 +717,11 @@
 						<locstring name="phrase" value="0" />
 					</template_reference>
 				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\west_german\small_arms\mg34_lmg_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073743602" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_attention_ext">
