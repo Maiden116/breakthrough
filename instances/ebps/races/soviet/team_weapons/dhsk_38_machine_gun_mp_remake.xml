@@ -625,7 +625,7 @@
 				<float name="tp_mine" value="0" />
 			</group>
 			<bool name="extended_sight" value="False" />
-			<float name="extended_sight_radius" value="70" />
+			<float name="extended_sight_radius" value="100" />
 			<group name="extended_sight_target_info">
 				<template_reference name="extended_sight_target_info" value="type_ability_target_type\all">
 				</template_reference>

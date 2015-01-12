@@ -471,12 +471,12 @@
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\stormtrooper_squad\urban_assault_light_infantry_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="-1" />
+					<int name="ui_position" value="32" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\mg34_heavy_machine_gun_squad\mg34_heavy_machine_gun_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="-1" />
+					<int name="ui_position" value="31" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\mg42_heavy_machine_gun_squad\mg42_heavy_machine_gun_squad_wg_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>

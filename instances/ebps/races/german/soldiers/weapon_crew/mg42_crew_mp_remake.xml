@@ -304,7 +304,7 @@
 				<float name="tp_mine" value="0" />
 			</group>
 			<bool name="extended_sight" value="False" />
-			<float name="extended_sight_radius" value="70" />
+			<float name="extended_sight_radius" value="100" />
 			<float name="reveal_area_on_death_time" value="6" />
 			<group name="sight_package">
 				<float name="inner_height" value="2.5" />
