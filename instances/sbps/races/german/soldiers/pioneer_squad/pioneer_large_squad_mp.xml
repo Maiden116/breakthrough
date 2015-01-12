@@ -746,48 +746,6 @@
 			</list>
 			<list name="construction_groups">
 				<group name="construction_group">
-					<instance_reference name="construction_menu" value="construction_menu\basic" />
-					<list name="construction_items">
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\team_weapons\at_gun\pak43_88mm_at_gun_mp" />
-							<int name="ui_position" value="22" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\team_weapons\german_field_artillery\howitzer_105mm_le_fh18_mp" />
-							<int name="ui_position" value="21" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\slit_trench_german_mp" />
-							<int name="ui_position" value="21" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" />
-							<int name="ui_position" value="11" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />
-							<int name="ui_position" value="22" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\mine_field_mp" />
-							<int name="ui_position" value="14" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" />
-							<int name="ui_position" value="12" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\german_mine_mp" />
-							<int name="ui_position" value="13" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\tank_trap" />
-							<int name="ui_position" value="23" />
-						</group>
-					</list>
-					<enum name="construction_type" value="tp_construction_german_pioneer_basic" />
-				</group>
-				<group name="construction_group">
 					<instance_reference name="construction_menu" value="construction_menu\advanced" />
 					<list name="construction_items">
 						<group name="construction_item">
@@ -820,6 +778,48 @@
 						</group>
 					</list>
 					<enum name="construction_type" value="tp_construction_german_pioneer_advanced" />
+				</group>
+				<group name="construction_group">
+					<instance_reference name="construction_menu" value="construction_menu\basic" />
+					<list name="construction_items">
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\team_weapons\at_gun\pak43_88mm_at_gun_mp" />
+							<int name="ui_position" value="22" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\team_weapons\german_field_artillery\howitzer_105mm_le_fh18_mp" />
+							<int name="ui_position" value="21" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\slit_trench_german_mp" />
+							<int name="ui_position" value="21" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" />
+							<int name="ui_position" value="11" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />
+							<int name="ui_position" value="22" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\mine_field_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="14" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" />
+							<int name="ui_position" value="12" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\german_mine_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="13" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\tank_trap" />
+							<int name="ui_position" value="23" />
+						</group>
+					</list>
+					<enum name="construction_type" value="tp_construction_german_pioneer_basic" />
 				</group>
 			</list>
 		</template_reference>

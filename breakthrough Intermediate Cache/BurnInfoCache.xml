@@ -141,6 +141,26 @@
 		<FileHash>51a54b4da11281e8ff0465fefbacc934</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\buildings\defensive_structure\german_mine_mp_remake.xml</FileName>
+		<FileHash>92ed80cc694041b6b9be00b924829b66</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\buildings\defensive_structure\mine_field_border_mp_remake.xml</FileName>
+		<FileHash>5ee5c054af07b9175ced6756f686aa46</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\buildings\defensive_structure\mine_field_mine_mp_remake.xml</FileName>
+		<FileHash>eb822aef16f3f8cf4c42cded897552f4</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\buildings\defensive_structure\mine_field_mp_remake.xml</FileName>
+		<FileHash>7ceab592753e805740cc7fc2565ecfec</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\buildings\defensive_structure\riegel_43_mine_mp_remake.xml</FileName>
+		<FileHash>6b9870bf05ba298df0581c89dbc35696</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\soldiers\grenadiers\assault_grenadiers_leader_mp_remake.xml</FileName>
 		<FileHash>af992db984aa6bc9f63e5970b702d273</FileHash>
 	</BurnInfo>
@@ -442,7 +462,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\pioneer_squad\pioneer_large_squad_mp.xml</FileName>
-		<FileHash>9541487389369dfc5d6bb875ce8a20f7</FileHash>
+		<FileHash>677023f8269e6f4e571cbb6409ceb614</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\stormtrooper_squad\german_at_squad_mp.xml</FileName>
@@ -613,6 +633,14 @@
 		<FileHash>92bf992fb2ad465c82038972552ae485</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mine\aef_assault_engineer_demoliion_increased.xml</FileName>
+		<FileHash>f99abf08b7cb527ee034dd48fc9c378f</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mines\m20_m6_mine_mp_increased.xml</FileName>
+		<FileHash>cb2773d74b7e0e02e6afc2b6b076ef47</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_mp_increased.xml</FileName>
 		<FileHash>e7c0c1c47228ac449a774cb9b077dc94</FileHash>
 	</BurnInfo>
@@ -647,6 +675,18 @@
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m2_60mm_mortar_team_smoke_mp_increased.xml</FileName>
 		<FileHash>30c3c27e124a3139b4f5e18d212e10ca</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\pm\explosive_weapons\mines\aef_airdropped_mine_at_mp_increased.xml</FileName>
+		<FileHash>9ec004304d15096d726b1bdb24db30e6</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\pm\explosive_weapons\mines\aef_airdropped_mine_large_aoe_mp_increased.xml</FileName>
+		<FileHash>9350fe0f3cf2faae27a7329936736f1e</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\pm\explosive_weapons\mines\aef_airdropped_mine_mp_increased.xml</FileName>
+		<FileHash>f6f15fde218f698021b3f68e84eb6b99</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m1919a4_30cal_mp_increased.xml</FileName>
