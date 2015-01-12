@@ -126,11 +126,15 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\team_weapons\m1_81mm_mortar_mp_remake.xml</FileName>
-		<FileHash>6143ababd9e4c628c8f4aee5572d5f5c</FileHash>
+		<FileHash>97a235f542f53231ea3deb414c128d86</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\team_weapons\m2hb_50cal_machine_gun_mp_remake.xml</FileName>
 		<FileHash>1ae2837655dbfcc71f0ea5f5b3ffb121</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\team_weapons\m2_60mm_mortar_mp_remake.xml</FileName>
+		<FileHash>98c1698b0fe2669333e3c41c723838ba</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\buildings\base_building\hq\german_hq_mp.xml</FileName>
@@ -178,7 +182,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\team_weapons\granatewerfer_34_81mm_mortar_mp_remake.xml</FileName>
-		<FileHash>001f9122b00766f52538e4319a74f28d</FileHash>
+		<FileHash>a1da451ae191271a853454444e40216c</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\team_weapons\mg42_hmg_mp_remake.xml</FileName>
@@ -266,7 +270,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\team_weapons\hm-120_38_mortar_mp_remake.xml</FileName>
-		<FileHash>d32511f40d5d3520bccda342ac443ade</FileHash>
+		<FileHash>04f61f86def5c195fce3acdfa2185291</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\team_weapons\m1910_maxim_heavy_machine_gun_mp_remake.xml</FileName>
@@ -274,7 +278,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\team_weapons\pm41_82mm_mortar_mp_remake.xml</FileName>
-		<FileHash>a9efb05252758f1f5fb0df58e7a9e985</FileHash>
+		<FileHash>4931a64c897cf7aac09807ef4c30ff9b</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp.xml</FileName>
@@ -330,7 +334,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\west_german\team_weapons\granatwerfer_34_81mm_mortar_wg_mp_remake.xml</FileName>
-		<FileHash>5b8ebf87f153b84126e8727d69cfb101</FileHash>
+		<FileHash>d5f7184b2f44ff879d56420935023d41</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\west_german\team_weapons\mg34_hmg_mp_increased.xml</FileName>
@@ -407,6 +411,10 @@
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\team_weapons\m2hb_50cal_hmg_squad\m2hb_50cal_hmg_squad_mp_remake.xml</FileName>
 		<FileHash>dcfc73d5f6d49edf048065d88a9a901e</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\team_weapons\m2_60_mm_mortar_squad\m2_60mm_mortar_squad_mp_remake.xml</FileName>
+		<FileHash>26d6e2868161c2e2b680058263463609</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\grenadier_squad\assault_grenadier_large_squad_mp.xml</FileName>
@@ -605,8 +613,40 @@
 		<FileHash>92bf992fb2ad465c82038972552ae485</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_mp_increased.xml</FileName>
+		<FileHash>e7c0c1c47228ac449a774cb9b077dc94</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_victor_target_mp_increased.xml</FileName>
+		<FileHash>5514fc4a7db8d63e97149f9706dd19d1</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_mp_increased.xml</FileName>
 		<FileHash>4af864203e47c554e0814ddebf4cee98</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_short_delay_barrage_mp_increased.xml</FileName>
+		<FileHash>8266bc5e9fbef74cd18497b05eaf2493</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_white_phosphorous_barrage_mp_increased.xml</FileName>
+		<FileHash>d063a02f2bfe186661ec757c3546682f</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m2_60mm_mortar_barrage_mp_increased.xml</FileName>
+		<FileHash>8a49460a4c24ceb2533456327c2338e7</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m2_60mm_mortar_counter_barrage_mp_increased.xml</FileName>
+		<FileHash>45c3b50f615e254aad09f503a3d6058e</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m2_60mm_mortar_mp_increased.xml</FileName>
+		<FileHash>7600f47fee6d80f9e786b3d1519112ab</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\explosive_weapons\mortar\m2_60mm_mortar_team_smoke_mp_increased.xml</FileName>
+		<FileHash>30c3c27e124a3139b4f5e18d212e10ca</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m1919a4_30cal_mp_increased.xml</FileName>
@@ -721,8 +761,24 @@
 		<FileHash>221885809e96e5a974bb5907cba5fb96</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_barrage_mp_increased.xml</FileName>
+		<FileHash>5a9038c84dc7dd83cb34a9e830485429</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_counter_barrage_mp_increased.xml</FileName>
+		<FileHash>22ce5b82554a736550a928f4559a7be9</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_mp_increased.xml</FileName>
 		<FileHash>81a2f8e8c235c6abda179d9c47ad6c24</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_mortar_team_smoke_mp_increased.xml</FileName>
+		<FileHash>dcc3d4d4f23ce0ea83ae3e06feaf0810</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\explosive_weapons\mortar\grw34_81mm_victor_target_mortar_mp_increased.xml</FileName>
+		<FileHash>df130db7b858fcaffab11138f1eae84e</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\machine_gun\heavy_machine_gun\hmg_team_mg42_mp_increased.xml</FileName>
@@ -793,12 +849,44 @@
 		<FileHash>b35c8cd858d906fe7f482f3e87955501</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_mp_increased.xml</FileName>
+		<FileHash>4f5a262f7844b2fdf5aa3086d1554187</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_victortarget_mp_increased.xml</FileName>
+		<FileHash>5f57c79815cf05bcf48673e7a6dcecc5</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_mp_increased.xml</FileName>
 		<FileHash>93c99798ca577dfc8fd730a7b4de646f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_precision_barrage_mp_increased.xml</FileName>
+		<FileHash>fd3d5d46bfdd6724704c8ec6586d87b0</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_smoke_mp_increased.xml</FileName>
+		<FileHash>986bd27fa5ee97bdc363372660a39abb</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_barrage_mp_increased.xml</FileName>
+		<FileHash>fdb1fb541c08235cccf93210d07107aa</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_barrage_victortarget_mp_increased.xml</FileName>
+		<FileHash>518557d96a69b98bb3a82a1291cf6314</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_mp_increased.xml</FileName>
 		<FileHash>60435e57e92e92f6f9ad9d224bbdc59a</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_precision_barrage_mp_increased.xml</FileName>
+		<FileHash>9ec255ad192cc510eb6680284901bd39</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\pm41_82mm_mortar_smoke_mp_increased.xml</FileName>
+		<FileHash>5108a0a005ba59bebb09d3d0e516a336</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\small_arms\machine_gun\heavy_machine_gun\dshk_38_sokolov_mp_increased.xml</FileName>
@@ -841,8 +929,24 @@
 		<FileHash>39e98c842a71ad4aae047e2a92fb2d6f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\explosive_weapons\mortar\grw34_81mm_mortar_barrage_wg_mp_increased.xml</FileName>
+		<FileHash>219d2cc296dc4a51c7143df46ca24e6c</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\explosive_weapons\mortar\grw34_81mm_mortar_counter_barrage_wg_mp_increased.xml</FileName>
+		<FileHash>a7a2e5224bfce5003c3d7468241ec648</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\explosive_weapons\mortar\grw34_81mm_mortar_team_smoke_wg_mp_increased.xml</FileName>
+		<FileHash>0bf25f37e61c5d7140288a05ea33efbc</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\explosive_weapons\mortar\grw34_81mm_mortar_wg_mp_increased.xml</FileName>
 		<FileHash>ad5d7eaebb50a5baae98eac514a4ee47</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\explosive_weapons\mortar\grw34_81mm_victor_target_mortar_wg_mp_increased.xml</FileName>
+		<FileHash>328c8acf1ea913de300ae2f5d7240f35</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\machine_gun\heavy_machine_gun\hmg_team_mg34_mp_increased.xml</FileName>

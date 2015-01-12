@@ -226,7 +226,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -247,7 +247,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_smoke_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_smoke_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -268,7 +268,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_precision_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_precision_barrage_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -289,7 +289,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_victortarget_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_victortarget_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
