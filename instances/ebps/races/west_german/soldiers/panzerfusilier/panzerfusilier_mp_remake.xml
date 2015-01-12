@@ -18,7 +18,6 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\accessory_weapons\panzerfusilier_at_rifle_grenade" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\panzerfusiliers_flare" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\panzerfusilier_grenade" />
 				<instance_reference name="ability" value="abilities\west_german\timed_ability\west_german_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
@@ -436,7 +435,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\west_german\small_arms\single_fire\rifle\kar_98k_rifle_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<instance_reference name="weapon" value="weapon\west_german\small_arms\single_fire\rifle\west_german_kar_98k_rifle_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

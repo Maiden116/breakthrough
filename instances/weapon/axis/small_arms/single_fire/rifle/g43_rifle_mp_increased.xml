@@ -1,8 +1,8 @@
 <instance description="G43 for sniper squad&#xA;Multiplayer Clone." template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="near" value="0.3" />
-			<float name="far" value="0.8" />
+			<float name="near" value="0.4" />
+			<float name="far" value="0.6" />
 			<float name="mid" value="0.7" />
 		</group>
 		<group name="aim">

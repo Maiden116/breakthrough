@@ -17,7 +17,6 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\grenades\ranger_mk2_fragmentation_grenade_mp" />
 				<instance_reference name="ability" value="abilities\pm\american\modal_ability\grenades\ranger_smoke_grenade_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\ranger_limited_demo_mp" />
 			</list>
