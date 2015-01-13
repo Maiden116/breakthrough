@@ -269,8 +269,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="22" />
-			<float name="min" value="22" />
+			<float name="max" value="22.5" />
+			<float name="min" value="22.5" />
 			<list name="on_penetrated_actions">
 			</list>
 		</group>
@@ -390,7 +390,7 @@
 			<float name="suppressed_reload_multiplier" value="1" />
 		</group>
 		<group name="suppression">
-			<float name="nearby_suppression_multiplier" value="0.8" />
+			<float name="nearby_suppression_multiplier" value="0.75" />
 			<float name="nearby_suppression_radius" value="20" />
 			<group name="target_pinned_multipliers">
 				<float name="accuracy_multiplier" value="0.25" />

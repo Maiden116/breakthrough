@@ -390,7 +390,7 @@
 			<float name="suppressed_reload_multiplier" value="1" />
 		</group>
 		<group name="suppression">
-			<float name="nearby_suppression_multiplier" value="0.4" />
+			<float name="nearby_suppression_multiplier" value="0.75" />
 			<float name="nearby_suppression_radius" value="20" />
 			<group name="target_pinned_multipliers">
 				<float name="accuracy_multiplier" value="0.25" />
@@ -404,7 +404,7 @@
 				<float name="penetration_multiplier" value="1" />
 				<float name="suppression_multiplier" value="1" />
 			</group>
-			<float name="amount" value="0.02" />
+			<float name="amount" value="0.04" />
 		</group>
 		<group name="teardown">
 			<float name="duration" value="0" />
