@@ -3,7 +3,7 @@
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
 			<string name="alternate_sua" value="armies\common\base\commonhuman\commonhuman" />
 			<bool name="always_revealed_in_fow" value="False" />
-			<file name="animator" value="armies\aef\soldiers\paratrooper\paratrooper" />
+			<file name="animator" value="armies\aef\soldiers\pathfinder\pathfinder" />
 			<bool name="is_visible_in_game" value="True" />
 			<float name="precise_size" value="-1" />
 		</template_reference>
@@ -268,7 +268,7 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\population_ext">
 			<float name="medic_pop" value="0" />
-			<float name="personnel_pop" value="1.5" />
+			<float name="personnel_pop" value="2" />
 			<float name="vehicle_pop" value="0" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\sight_ext">
@@ -283,7 +283,7 @@
 				<float name="inner_height" value="2.5" />
 				<float name="inner_radius" value="1" />
 				<float name="outer_height" value="-3" />
-				<float name="outer_radius" value="40" />
+				<float name="outer_radius" value="50" />
 				<float name="cone_angle" value="360" />
 				<float name="cone_start_radius" value="0" />
 			</group>
@@ -302,17 +302,17 @@
 		<template_reference name="exts" value="ebpextensions\type_ext">
 			<group name="unit_type_list">
 				<enum name="unit_type00" value="infantry" />
-				<enum name="unit_type01" value="lmg_user_fires_on_the_move" />
+				<enum name="unit_type01" value="" />
 				<enum name="unit_type02" value="soldier" />
 				<enum name="unit_type03" value="infantry_rifle" />
 				<enum name="unit_type04" value="" />
-				<enum name="unit_type05" value="aef_paratroopers" />
+				<enum name="unit_type05" value="" />
 				<enum name="unit_type06" value="mp_unit" />
 				<enum name="unit_type07" value="aef_infantry" />
 				<enum name="unit_type08" value="aef_infantry_not_officer" />
 				<enum name="unit_type09" value="aef_infantry_not_captain" />
 				<enum name="unit_type10" value="" />
-				<enum name="unit_type11" value="" />
+				<enum name="unit_type11" value="aef_pathfinder" />
 				<enum name="unit_type12" value="" />
 				<enum name="unit_type13" value="" />
 				<enum name="unit_type14" value="" />
@@ -347,17 +347,17 @@
 			<enum name="selection_type" value="squad_select" />
 			<bool name="sloppy_selectable" value="True" />
 			<group name="speaker">
-				<string name="code_1" value="pa" />
-				<string name="code_2" value="pa" />
+				<string name="code_1" value="pt" />
+				<string name="code_2" value="pt" />
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_2">
-				<string name="code_1" value="pa" />
-				<string name="code_2" value="in" />
+				<string name="code_1" value="in" />
+				<string name="code_2" value="" />
 				<string name="code_3" value="" />
 			</group>
 			<group name="speech_code_3">
-				<string name="code_1" value="par" />
+				<string name="code_1" value="pth" />
 				<string name="code_2" value="inf" />
 				<string name="code_3" value="" />
 			</group>
@@ -436,11 +436,11 @@
 							<float name="length" value="0" />
 							<group name="origin">
 								<float name="x" value="0.25" />
-								<float name="y" value="1.7" />
+								<float name="y" value="1.5" />
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\small_arms\single_fire\rifle\m1a1_carbine_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\single_fire\rifle\m1garand_scope_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -505,7 +505,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742592" />
+						<uniqueid name="id" value="1073744479" />
 					</template_reference>
 				</list>
 			</group>
@@ -523,7 +523,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742593" />
+						<uniqueid name="id" value="1073744480" />
 					</template_reference>
 				</list>
 			</group>
@@ -541,7 +541,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742594" />
+						<uniqueid name="id" value="1073744481" />
 					</template_reference>
 				</list>
 			</group>
@@ -559,7 +559,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742595" />
+						<uniqueid name="id" value="1073744482" />
 					</template_reference>
 				</list>
 			</group>
@@ -577,7 +577,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742596" />
+						<uniqueid name="id" value="1073744483" />
 					</template_reference>
 				</list>
 			</group>
@@ -605,7 +605,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742597" />
+						<uniqueid name="id" value="1073744484" />
 					</template_reference>
 					<template_reference name="action" value="action\apply_modifiers_action">
 						<float name="duration" value="0" />
@@ -621,7 +621,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\posture_speed_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073742598" />
+						<uniqueid name="id" value="1073744485" />
 					</template_reference>
 				</list>
 			</group>
@@ -653,7 +653,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742599" />
+						<uniqueid name="id" value="1073744486" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -671,7 +671,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742600" />
+						<uniqueid name="id" value="1073744487" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -744,7 +744,7 @@
 							<float name="deceleration_multiplier" value="0.3" />
 							<float name="pathfinding_size_x" value="0" />
 							<float name="pathfinding_size_y" value="0" />
-							<uniqueid name="id" value="1073742601" />
+							<uniqueid name="id" value="1073744488" />
 						</template_reference>
 						<template_reference name="action" value="action\apply_modifiers_action">
 							<float name="duration" value="1" />
@@ -760,10 +760,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073742602" />
+							<uniqueid name="id" value="1073744489" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742603" />
+					<uniqueid name="id" value="1073744490" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -777,7 +777,7 @@
 		<template_reference name="exts" value="ebpextensions\camouflage_ext">
 			<float name="attack_priority" value="5" />
 			<enum name="camouflage_type" value="tp_global" />
-			<bool name="chain_revealer" value="True" />
+			<bool name="chain_revealer" value="False" />
 			<float name="detection_radius" value="1" />
 			<bool name="must_be_fully_constructed" value="False" />
 			<bool name="permanently_activated" value="False" />
@@ -796,7 +796,7 @@
 						<string name="icon_name" value="Icons_abilities_ability_german_ambush_camo_on" />
 						<string name="hotkey_name" value="" />
 					</template_reference>
-					<uniqueid name="id" value="1073742604" />
+					<uniqueid name="id" value="1073744491" />
 				</template_reference>
 			</list>
 			<list name="first_strike_actions">
@@ -859,10 +859,10 @@
 											<instance_reference name="tooltip" value="modifier_tooltip\damage_weapon_modifier" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073742605" />
+									<uniqueid name="id" value="1073744492" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073742606" />
+							<uniqueid name="id" value="1073744493" />
 						</template_reference>
 						<template_reference name="action" value="action\timed_action">
 							<float name="duration" value="3" />
@@ -882,13 +882,13 @@
 											<instance_reference name="tooltip" value="modifier_tooltip\weapon_burst_rate_of_fire_modifier" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073742607" />
+									<uniqueid name="id" value="1073744494" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073742608" />
+							<uniqueid name="id" value="1073744495" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742609" />
+					<uniqueid name="id" value="1073744496" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -896,57 +896,6 @@
 					</template_reference>
 				</template_reference>
 			</list>
-		</template_reference>
-		<template_reference name="exts" value="ebpextensions\paradrop_ext">
-			<float name="decoy_priority_increase" value="0" />
-			<float name="drop_speed" value="6" />
-			<float name="land_seconds" value="4" />
-			<bool name="make_dead_on_drop" value="False" />
-			<bool name="reserve_sparse_grid_entry" value="True" />
-			<list name="ground_actions">
-				<template_reference name="action" value="action\change_target_action">
-					<list name="actions">
-						<template_reference name="action" value="action\requirement_action">
-							<bool name="check_self" value="False" />
-							<bool name="global_fire_and_forget_on_success" value="False" />
-							<bool name="instant_requirement_check" value="False" />
-							<bool name="kill_action_on_failed_requirements" value="False" />
-							<bool name="no_retrigger" value="False" />
-							<bool name="validate_all_sub_actions" value="True" />
-							<list name="requirement_table">
-								<template_reference name="required" value="requirements\required_squad_upgrade">
-									<enum name="reason" value="usage" />
-									<locstring name="ui_name" value="0" />
-									<bool name="include_queued" value="False" />
-									<bool name="is_present" value="False" />
-									<instance_reference name="upgrade_name" value="upgrade\aef\ability_lock_out\ability_lock_out_paratroopers_landed" />
-								</template_reference>
-							</list>
-							<list name="action_table">
-								<template_reference name="action" value="action\upgrade_add">
-									<bool name="apply_to_entities_in_squad" value="False" />
-									<bool name="trigger_publish_event" value="False" />
-									<instance_reference name="upgrade" value="upgrade\aef\ability_lock_out\ability_lock_out_paratroopers_landed" />
-									<uniqueid name="id" value="1073742610" />
-								</template_reference>
-							</list>
-							<uniqueid name="id" value="1073742611" />
-							<bool name="fire_and_forget_non_global" value="False" />
-							<template_reference name="ui_help_text" value="tables\help_text_phrase">
-								<int name="phrase_order" value="0" />
-								<locstring name="phrase" value="0" />
-							</template_reference>
-						</template_reference>
-						<template_reference name="action" value="action\scar_function_call">
-							<string name="function_name" value="AE_ParaLandingMove" />
-							<uniqueid name="id" value="1073742612" />
-						</template_reference>
-					</list>
-					<enum name="change_target_type" value="squad" />
-					<uniqueid name="id" value="1073742613" />
-				</template_reference>
-			</list>
-			<float name="sight_start_height" value="30" />
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\upgrade_ext">
 			<bool name="must_be_in_supply" value="False" />
@@ -958,6 +907,28 @@
 			<list name="upgrade_table">
 			</list>
 		</template_reference>
+		<template_reference name="exts" value="ebpextensions\paradrop_ext">
+			<float name="decoy_priority_increase" value="0" />
+			<float name="drop_speed" value="8" />
+			<float name="land_seconds" value="2.5" />
+			<bool name="make_dead_on_drop" value="False" />
+			<bool name="reserve_sparse_grid_entry" value="True" />
+			<list name="ground_actions">
+				<template_reference name="action" value="action\kicker_message_action">
+					<float name="loop_interval" value="0" />
+					<locstring name="message" value="0" />
+					<float name="message_colour_a" value="255" />
+					<float name="message_colour_b" value="0" />
+					<float name="message_colour_g" value="255" />
+					<float name="message_colour_r" value="0" />
+					<float name="message_duration" value="0.5" />
+					<bool name="team_only" value="True" />
+					<bool name="check_fow" value="False" />
+					<uniqueid name="id" value="1073744497" />
+				</template_reference>
+			</list>
+			<float name="sight_start_height" value="-1" />
+		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1073741844" />
+	<uniqueid name="pbgid" value="1073741910" />
 </instance>

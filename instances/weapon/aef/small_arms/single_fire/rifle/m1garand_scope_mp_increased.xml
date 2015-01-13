@@ -1,4 +1,4 @@
-<instance description="G43 for sniper squad&#xA;Multiplayer Clone." template="weapon">
+<instance description="" template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
 			<float name="near" value="2" />
@@ -30,7 +30,7 @@
 			<string name="track_vertical" value="Rifle_Tilt" />
 			<string name="track_vertical_speed" value="" />
 			<string name="variety_name" value="sniper" />
-			<string name="visibility_name" value="G43_Visible" />
+			<string name="visibility_name" value="rifle_garand_visible" />
 			<string name="target_range_name" value="" />
 		</group>
 		<group name="area_effect">
@@ -149,13 +149,13 @@
 		</group>
 		<group name="cooldown">
 			<group name="duration">
-				<float name="max" value="3.2" />
-				<float name="min" value="1.7" />
+				<float name="max" value="3" />
+				<float name="min" value="3" />
 			</group>
 			<group name="duration_multiplier">
-				<float name="near" value="0.75" />
-				<float name="far" value="1.5" />
-				<float name="mid" value="1.125" />
+				<float name="near" value="0.15" />
+				<float name="far" value="1" />
+				<float name="mid" value="0.575" />
 			</group>
 		</group>
 		<group name="cover_table">
@@ -269,8 +269,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="0" />
-			<float name="min" value="0" />
+			<float name="max" value="80" />
+			<float name="min" value="80" />
 			<list name="on_penetrated_actions">
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
@@ -294,10 +294,10 @@
 						<template_reference name="action" value="action\trigger_critical_action">
 							<float name="remove_at_health" value="1" />
 							<instance_reference name="critical" value="critical\soldier_sniped" />
-							<uniqueid name="id" value="1073744350" />
+							<uniqueid name="id" value="1073744542" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744351" />
+					<uniqueid name="id" value="1073744543" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -336,10 +336,10 @@
 						<template_reference name="action" value="action\trigger_critical_action">
 							<float name="remove_at_health" value="1" />
 							<instance_reference name="critical" value="critical\soldier_sniped" />
-							<uniqueid name="id" value="1073744352" />
+							<uniqueid name="id" value="1073744546" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744353" />
+					<uniqueid name="id" value="1073744547" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -349,7 +349,7 @@
 			</list>
 		</group>
 		<group name="fire">
-			<float name="wind_down" value="1.625" />
+			<float name="wind_down" value="1.3" />
 			<float name="wind_up" value="0" />
 			<list name="on_fire_actions">
 			</list>
@@ -373,7 +373,6 @@
 			<float name="moving_end_time" value="0" />
 			<float name="moving_start_time" value="0" />
 		</group>
-		<string name="name" value="G43 sniper" />
 		<group name="offhand">
 			<float name="offhand_end_time" value="0" />
 			<float name="offhand_start_time" value="0" />
@@ -407,17 +406,17 @@
 		</group>
 		<group name="reload">
 			<group name="duration">
-				<float name="max" value="4.5" />
-				<float name="min" value="3" />
+				<float name="max" value="2.8" />
+				<float name="min" value="2.1" />
 			</group>
 			<group name="duration_multiplier">
 				<float name="far" value="1" />
-				<float name="near" value="1" />
-				<float name="mid" value="1" />
+				<float name="near" value="0.5" />
+				<float name="mid" value="0.75" />
 			</group>
 			<group name="frequency">
-				<float name="max" value="9" />
-				<float name="min" value="9" />
+				<float name="max" value="7" />
+				<float name="min" value="7" />
 			</group>
 			<list name="on_reload_actions">
 			</list>
@@ -489,12 +488,13 @@
 		</group>
 		<locstring name="ui_name" value="0" />
 		<enum name="weapon_type" value="small_arms" />
+		<string name="name" value="M1-A1 Carbine (Pathfinder)" />
 		<instance_reference name="ui_range" value="ui_reticule\range_sniper" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
-			<float name="near" value="1" />
-			<float name="far" value="1" />
 			<float name="mid" value="1" />
+			<float name="far" value="1" />
+			<float name="near" value="1" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />
@@ -503,5 +503,5 @@
 			<int name="alpha" value="0" />
 		</group>
 	</group>
-	<uniqueid name="pbgid" value="1073741948" />
+	<uniqueid name="pbgid" value="1073741950" />
 </instance>
