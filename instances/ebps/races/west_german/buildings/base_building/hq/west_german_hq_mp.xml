@@ -201,7 +201,7 @@
 				<float name="inner_height" value="5" />
 				<float name="inner_radius" value="10" />
 				<float name="outer_height" value="-10" />
-				<float name="outer_radius" value="35" />
+				<float name="outer_radius" value="60" />
 				<float name="cone_angle" value="360" />
 				<float name="cone_start_radius" value="0" />
 			</group>
@@ -461,7 +461,7 @@
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\obersoldaten\obersoldaten__large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="21" />
+					<int name="ui_position" value="-1" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\panzerfusilier_squad\panzerfusilier_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
@@ -489,6 +489,16 @@
 					<int name="ui_position" value="24" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\grw34_81mm_mortar_squad\grw34_81mm_mortar_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="33" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\west_german\soldiers\sniper_squad\west_german_sniper_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="11" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\west_german\soldiers\sniper_squad\west_german_sniper_squad_mp_sight_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">
