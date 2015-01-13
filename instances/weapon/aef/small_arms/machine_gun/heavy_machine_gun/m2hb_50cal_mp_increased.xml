@@ -457,7 +457,7 @@
 				<float name="penetration_multiplier" value="1" />
 				<float name="suppression_multiplier" value="1" />
 			</group>
-			<float name="amount" value="0.06" />
+			<float name="amount" value="0.08" />
 		</group>
 		<group name="teardown">
 			<float name="duration" value="0" />
