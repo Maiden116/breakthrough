@@ -379,7 +379,7 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_item_slot_ext">
 			<bool name="can_pick_up" value="True" />
-			<float name="num_slots" value="2" />
+			<float name="num_slots" value="3" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
@@ -403,7 +403,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\west_german\items\panzerfusilier_g43" />
+				<instance_reference name="upgrade" value="upgrade\west_german\items\panzerfusilier_g43_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
@@ -1112,7 +1112,11 @@
 					<list name="construction_items">
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />
-							<int name="ui_position" value="12" />
+							<int name="ui_position" value="11" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\wg_sandbag_fence_mp" />
+							<int name="ui_position" value="11" />
 						</group>
 					</list>
 					<enum name="construction_type" value="tp_construction_german_grenadier" />

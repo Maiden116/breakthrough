@@ -385,7 +385,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="5" />
-					<instance_reference name="type" value="ebps\races\west_german\soldiers\assault_pioneer\west_germen_pioneer_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="type" value="ebps\races\west_german\soldiers\assault_pioneer\west_german_pioneer_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />

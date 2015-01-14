@@ -7,16 +7,16 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11051556" />
+						<locstring name="extra_text" value="0" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11051557" />
+						<locstring name="help_text" value="0" />
 						<string name="hotkey_name" value="S" />
 						<string name="icon_name" value="Icons_units_unit_west_german_sturmpioneers" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051162" />
+						<locstring name="screen_name" value="47" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="selection_group" value="pioneer" />
 						<group name="speaker_generic">
 							<string name="code_1" value="we" />
@@ -49,7 +49,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_west_german_assault_pioneer_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="11051555" />
+						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
@@ -63,16 +63,16 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11051556" />
+						<locstring name="extra_text" value="0" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11051557" />
+						<locstring name="help_text" value="0" />
 						<string name="hotkey_name" value="A" />
 						<string name="icon_name" value="Icons_units_unit_west_german_sturmpioneers" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051162" />
+						<locstring name="screen_name" value="0" />
 						<string name="selection_group" value="pioneer" />
 						<group name="speaker_generic">
 							<string name="code_1" value="xs" />
@@ -105,7 +105,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_german_pioneer_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="11051555" />
+						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
@@ -119,16 +119,16 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11051556" />
+						<locstring name="extra_text" value="0" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11051557" />
+						<locstring name="help_text" value="0" />
 						<string name="hotkey_name" value="A" />
 						<string name="icon_name" value="Icons_units_unit_west_german_sturmpioneers" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051162" />
+						<locstring name="screen_name" value="0" />
 						<string name="selection_group" value="pioneer" />
 						<group name="speaker_generic">
 							<string name="code_1" value="xs" />
@@ -161,7 +161,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_german_pioneer_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="11051555" />
+						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
@@ -175,16 +175,16 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11051556" />
+						<locstring name="extra_text" value="0" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11051557" />
+						<locstring name="help_text" value="0" />
 						<string name="hotkey_name" value="A" />
 						<string name="icon_name" value="Icons_units_unit_west_german_sturmpioneers" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051162" />
+						<locstring name="screen_name" value="0" />
 						<string name="selection_group" value="pioneer" />
 						<group name="speaker_generic">
 							<string name="code_1" value="xs" />
@@ -217,7 +217,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_german_pioneer_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="11051555" />
+						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
@@ -231,16 +231,16 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11051556" />
+						<locstring name="extra_text" value="0" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11051557" />
+						<locstring name="help_text" value="0" />
 						<string name="hotkey_name" value="S" />
 						<string name="icon_name" value="Icons_units_unit_west_german_sturmpioneers" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051162" />
+						<locstring name="screen_name" value="0" />
 						<string name="selection_group" value="pioneer" />
 						<group name="speaker_generic">
 							<string name="code_1" value="we" />
@@ -273,7 +273,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_west_german_assault_pioneer_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="11051555" />
+						<locstring name="brief_text" value="0" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
@@ -422,7 +422,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744815" />
+					<uniqueid name="id" value="1073744763" />
 				</template_reference>
 				<template_reference name="action" value="action\apply_modifiers_action">
 					<float name="duration" value="0" />
@@ -438,7 +438,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744816" />
+					<uniqueid name="id" value="1073744764" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -549,7 +549,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\move_enable_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073744817" />
+						<uniqueid name="id" value="1073744765" />
 					</template_reference>
 					<template_reference name="action" value="action\delay">
 						<float name="delay" value="10" />
@@ -571,10 +571,10 @@
 										<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073744818" />
+								<uniqueid name="id" value="1073744766" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073744819" />
+						<uniqueid name="id" value="1073744767" />
 						<bool name="can_prevent_refund" value="True" />
 					</template_reference>
 					<template_reference name="action" value="action\animator_set_state">
@@ -583,7 +583,7 @@
 						<bool name="retrigger" value="False" />
 						<string name="state_machine_name" value="suppression" />
 						<string name="undo_action_state_name" value="normal" />
-						<uniqueid name="id" value="1073744820" />
+						<uniqueid name="id" value="1073744768" />
 					</template_reference>
 				</list>
 				<list name="suppressed_activate_actions">
@@ -628,7 +628,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073744821" />
+						<uniqueid name="id" value="1073744769" />
 					</template_reference>
 				</list>
 			</group>
@@ -706,14 +706,14 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744822" />
+										<uniqueid name="id" value="1073744770" />
 									</template_reference>
 								</list>
 							</group>
 							<group name="veterancy_rank">
 								<float name="experience_value" value="1280" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11071313" />
+								<locstring name="screen_name" value="49" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -743,7 +743,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744823" />
+										<uniqueid name="id" value="1073744771" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -759,14 +759,14 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744824" />
+										<uniqueid name="id" value="1073744772" />
 									</template_reference>
 								</list>
 							</group>
 							<group name="veterancy_rank">
 								<float name="experience_value" value="2560" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11071314" />
+								<locstring name="screen_name" value="0" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -787,7 +787,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\construction_rate" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744825" />
+										<uniqueid name="id" value="1073744773" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -803,14 +803,14 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744826" />
+										<uniqueid name="id" value="1073744774" />
 									</template_reference>
 								</list>
 							</group>
 							<group name="veterancy_rank">
 								<float name="experience_value" value="3405" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11071315" />
+								<locstring name="screen_name" value="0" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -840,7 +840,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744827" />
+										<uniqueid name="id" value="1073744775" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -856,14 +856,14 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744828" />
+										<uniqueid name="id" value="1073744776" />
 									</template_reference>
 								</list>
 							</group>
 							<group name="veterancy_rank">
 								<float name="experience_value" value="4256" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11071316" />
+								<locstring name="screen_name" value="0" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -884,7 +884,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744829" />
+										<uniqueid name="id" value="1073744777" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -900,7 +900,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073744830" />
+										<uniqueid name="id" value="1073744778" />
 									</template_reference>
 								</list>
 							</group>
@@ -937,12 +937,12 @@
 			</group>
 			<group name="ui_info">
 				<locstring name="extra_text" value="0" />
-				<locstring name="help_text" value="11071790" />
+				<locstring name="help_text" value="46" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<string name="hotkey_name" value="reinforce" />
 				<string name="icon_name" value="Icons_odds_reinforce" />
 				<string name="overlay_name" value="" />
 				<bool name="reveal_for_decryption" value="False" />
-				<locstring name="screen_name" value="11071801" />
+				<locstring name="screen_name" value="0" />
 			</group>
 			<list name="paradrop_requirements">
 			</list>
@@ -958,7 +958,7 @@
 			<list name="actions">
 				<template_reference name="action" value="action\suppression">
 					<float name="suppression" value="0" />
-					<uniqueid name="id" value="1073744831" />
+					<uniqueid name="id" value="1073744779" />
 					<float name="supressionrecovertime" value="0" />
 				</template_reference>
 			</list>
@@ -1048,7 +1048,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744832" />
+					<uniqueid name="id" value="1073744780" />
 				</template_reference>
 			</list>
 			<list name="construction_groups">
@@ -1088,5 +1088,5 @@
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="2656" />
+	<uniqueid name="pbgid" value="1073741889" />
 </instance>
