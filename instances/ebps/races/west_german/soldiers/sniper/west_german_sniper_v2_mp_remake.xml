@@ -29,11 +29,11 @@
 					<float name="action" value="0" />
 					<float name="command" value="0" />
 					<float name="fuel" value="0" />
-					<float name="manpower" value="360" />
+					<float name="manpower" value="0" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="36" />
+				<float name="time_seconds" value="1" />
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\health_ext">
@@ -320,7 +320,7 @@
 			<bool name="obb_selectable" value="False" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="True" />
-			<locstring name="screen_name" value="0" />
+			<locstring name="screen_name" value="42" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<enum name="selection_name" value="soldier" />
 			<float name="selection_scale" value="1" />
 			<enum name="selection_type" value="squad_select" />

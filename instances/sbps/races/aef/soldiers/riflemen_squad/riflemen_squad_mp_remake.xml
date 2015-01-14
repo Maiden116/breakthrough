@@ -175,9 +175,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\riflemen_carbine_specialization\riflemen_carbine_dispatch_upg" />
-				<instance_reference name="upgrade" value="upgrade\aef\items\riflemen_flamethrower" />
-				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\riflemen_bar_lmg_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -809,8 +807,7 @@
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\refuel_tank_sp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\commander_ability\passive_ability\forward_observers_always_on" />
-				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\grenades\mk2_fragmentation_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\aef\timed_ability\volley_fire_ability_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
@@ -939,20 +936,8 @@
 					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
 					<list name="construction_items">
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\fighting_position\fighting_position_riflemen_mp" />
-							<int name="ui_position" value="13" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\aef_mine_riflemen_mp" />
+							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\sandbag_fence_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 							<int name="ui_position" value="11" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\aef\pm\buildings\defensive_structures\aef_sandbagwall_cover_specialization" />
-							<int name="ui_position" value="23" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\wg_sandbag_fence_mp" />
-							<int name="ui_position" value="0" />
 						</group>
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />

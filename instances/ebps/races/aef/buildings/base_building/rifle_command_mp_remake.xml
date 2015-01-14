@@ -398,7 +398,6 @@
 			<list name="standard_upgrades">
 				<instance_reference name="upgrade" value="upgrade\aef\research\rifle_command_grenade_mp" />
 				<instance_reference name="upgrade" value="upgrade\aef\research\bazooka_upgrade_mp" />
-				<instance_reference name="upgrade" value="upgrade\aef\research\bar_upgrade_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">

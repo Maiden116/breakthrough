@@ -16,7 +16,7 @@
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051162" />
+						<locstring name="screen_name" value="23" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="selection_group" value="pioneer" />
 						<group name="speaker_generic">
 							<string name="code_1" value="we" />
@@ -1070,20 +1070,36 @@
 							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\flak_emplacement" />
-							<int name="ui_position" value="31" />
-						</group>
-						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\tank_trap" />
-							<int name="ui_position" value="0" />
+							<int name="ui_position" value="12" />
 						</group>
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\slit_trench_german_mp" />
-							<int name="ui_position" value="0" />
+							<int name="ui_position" value="13" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\team_weapons\at_gun\pak43_88mm_at_gun_westgerman_mp" />
-							<int name="ui_position" value="0" />
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\slit_trench_german_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="21" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\axis_bunker_starting_position_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="22" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="23" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_of_death_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="24" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\hulldown_sandbag_wall_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="31" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\sniper_cover" />
+							<int name="ui_position" value="32" />
 						</group>
 					</list>
 					<enum name="construction_type" value="tp_construction_soviet_engineer_basic" />

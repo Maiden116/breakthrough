@@ -15,10 +15,10 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\german\modal_ability\pioneer_barbed_wire_cutting_ability_mp" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\pioneer_barbed_wire_cutting_ability_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\german_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\german\timed_ability\german_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
