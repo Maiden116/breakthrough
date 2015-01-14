@@ -352,8 +352,8 @@
 				<float name="mid" value="1" />
 			</group>
 			<group name="frequency">
-				<float name="max" value="8" />
-				<float name="min" value="8" />
+				<float name="max" value="5" />
+				<float name="min" value="5" />
 			</group>
 			<list name="on_reload_actions">
 			</list>
