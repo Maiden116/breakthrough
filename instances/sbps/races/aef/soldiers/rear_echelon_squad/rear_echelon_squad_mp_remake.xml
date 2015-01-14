@@ -176,7 +176,6 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\aef\items\minesweeper_upgrade_mp" />
-				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -738,10 +737,8 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\repair_ability\aef_repair_ability_rear_echelon_mp" />
-				<instance_reference name="ability" value="abilities\aef\timed_ability\rear_echelon_volley_fire_ability_mp" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\refuel_tank_sp" />
-				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
@@ -906,6 +903,14 @@
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\aef_tank_trap_mp" />
 							<int name="ui_position" value="12" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\aef_mine_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="31" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\m20_m6_at_mine_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="32" />
 						</group>
 					</list>
 					<enum name="construction_type" value="tp_construction_soviet_engineer_basic" />
