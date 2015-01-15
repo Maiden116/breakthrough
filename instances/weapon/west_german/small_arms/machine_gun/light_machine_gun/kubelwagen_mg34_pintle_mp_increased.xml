@@ -7,13 +7,13 @@
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
-				<float name="max" value="0.375" />
+				<float name="max" value="0.125" />
 				<float name="min" value="0.125" />
 			</group>
 			<float name="post_firing_aim_time" value="1" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
-				<float name="max" value="0.375" />
+				<float name="max" value="0.125" />
 				<float name="min" value="0.125" />
 			</group>
 			<group name="aim_time_multiplier">
