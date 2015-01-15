@@ -2,7 +2,7 @@
 	<group name="weapon_bag">
 		<group name="accuracy">
 			<float name="near" value="0.4" />
-			<float name="far" value="0.6" />
+			<float name="far" value="0.9" />
 			<float name="mid" value="0.7" />
 		</group>
 		<group name="aim">

@@ -409,12 +409,12 @@
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="17" />
+					<int name="ui_position" value="-1" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\paratrooper_squad\paratrooper_combat_group_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="18" />
+					<int name="ui_position" value="-1" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
@@ -424,12 +424,12 @@
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_support_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="20" />
+					<int name="ui_position" value="21" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\ranger_squad\ranger_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="21" />
+					<int name="ui_position" value="22" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
@@ -449,24 +449,29 @@
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_recon_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="31" />
+					<int name="ui_position" value="-1" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\sniper\paratrooper_sniper_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="22" />
+					<int name="ui_position" value="-1" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\team_weapons\m1_81mm_mortar_squad\m1_81mm_mortar_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="32" />
+					<int name="ui_position" value="-1" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\team_weapons\m2_60_mm_mortar_squad\m2_60mm_mortar_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="33" />
+					<int name="ui_position" value="-1" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\team_weapons\m2hb_50cal_hmg_squad\m2hb_50cal_hmg_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="24" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_50cal_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">

@@ -483,7 +483,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="23" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\soldiers\jaeger_light_infantry_squad\jaeger_light_infantry_recon_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="24" />

@@ -45,8 +45,24 @@
 		<FileHash>e13bd21dc38405b201fa637b676baf8a</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\abilities\soviet\modal_ability\fieldcraft_trip_flare_mp_remake.xml</FileName>
+		<FileHash>f04a359f825fe4d5d6d6c89aad153ad6</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\abilities\soviet\modal_ability\soviet_barbed_wire_cutting_ability_mp_remake.xml</FileName>
+		<FileHash>35c767536a91380d8a91ded133dad8f1</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\abilities\soviet\modal_ability\grenades\conscript_molotov_cocktail_mp_remake.xml</FileName>
+		<FileHash>800a497c2bef22c026ca12afa49b7aa9</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\abilities\soviet\timed_ability\conscript_oorah_mp_remake.xml</FileName>
 		<FileHash>f92239315c7d7d0a7cf91e628e0b8ab9</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\abilities\soviet\timed_ability\soviet_sprint_mp.xml</FileName>
+		<FileHash>2061926b962ff8b2b587fb0e2061e1e2</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\abilities\west_german\modal_ability\accessory_weapons\panzerfusilier_at_rifle_grenade_remake.xml</FileName>
@@ -62,7 +78,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\buildings\base_building\rifle_command_mp.xml</FileName>
-		<FileHash>5998a0fe576e95d3ae8804379eafdbe0</FileHash>
+		<FileHash>ba360a0e2632ea23573c7909d71241f2</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\buildings\base_building\rifle_command_mp_remake.xml</FileName>
@@ -189,6 +205,10 @@
 		<FileHash>3318c7e181fc4c5904c88c3f3c05433a</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\vehicles\dodge_wc51\dodge_wc51_50cal_mp_remake.xml</FileName>
+		<FileHash>aac3301ec5d1f668f50e466c9ecaabb7</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\german\buildings\base_building\hq\german_hq_mp.xml</FileName>
 		<FileHash>e58061a2806a9390c98f33b7e87b6b18</FileHash>
 	</BurnInfo>
@@ -294,15 +314,31 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\buildings\base_building\hq\hq_mp.xml</FileName>
-		<FileHash>9358e1899dd1dd5b5b4a57af9fbc4fb3</FileHash>
+		<FileHash>26b80ad39cfcd124856ce9784342a0fe</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\buildings\defensive_structures\anti_personnel_mines_mp_remake.xml</FileName>
+		<FileHash>eac2129983906abb72bf86f46182ff88</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\buildings\defensive_structures\flare_mine_mp_remake.xml</FileName>
-		<FileHash>eb228c6164b48e56acf10f60f0ca8838</FileHash>
+		<FileHash>aaf5eeb3d66739c400da7bce3c097ef2</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\buildings\defensive_structures\light_anti_vehicle_mines_mp_remake.xml</FileName>
+		<FileHash>2f7248f9cf3097b6468620b035117ef4</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\buildings\defensive_structures\machine_gun_nest_mp_remake.xml</FileName>
+		<FileHash>c123ec35a8fd0ad55d8bd96a5a1af817</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\buildings\defensive_structures\soviet_mine_mp_remake.xml</FileName>
+		<FileHash>5540f82abeed0aa4d4e8fe06fad85ba9</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\soldiers\combat_engineer\combat_engineer_mp_remake.xml</FileName>
-		<FileHash>77db182d1866b4ba4a09dc52053b3522</FileHash>
+		<FileHash>9cf365982a2aaddc19029853c8aa8400</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\soldiers\combat_engineer\repair_engineer_mp_remake.xml</FileName>
@@ -330,7 +366,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp_remake.xml</FileName>
-		<FileHash>ea7ff0157d8e396bd6de9ab6b39a172c</FileHash>
+		<FileHash>2b30dd906607df6b5c19e489507c3b8c</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\soldiers\partisan_commander_troops\partisan_troops_antitank_remake.xml</FileName>
@@ -390,7 +426,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\west_german\buildings\base_building\hq\west_german_hq_mp.xml</FileName>
-		<FileHash>f6e27c14e020c06ecc201a8013d62bc5</FileHash>
+		<FileHash>2e11e90c6f328af42a15c1e23eb4dc43</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\west_german\buildings\defensive_structures\assault_pioneers_heavy_mine_mp_remake.xml</FileName>
@@ -477,6 +513,10 @@
 		<FileHash>134d296f844c14646be5e4be373e7d5f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\west_german\vehicles\kubelwagen_type_82\kubelwagen_type_82_mp_remake.xml</FileName>
+		<FileHash>a143a0895c3756db205ecbb9c94ed799</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\soldiers\assault_engineer_squad\assault_engineer_large_squad_mp.xml</FileName>
 		<FileHash>b783e1aca5ef0e21c0bcf207837632fe</FileHash>
 	</BurnInfo>
@@ -521,6 +561,10 @@
 		<FileHash>68e80ec014cb988f75f63348e8f2512f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\soldiers\rear_echelon_squad\starter_rear_echelon_squad_mp.xml</FileName>
+		<FileHash>6cadbcb6cb9e4c59dbe7081accca0a4b</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp_remake.xml</FileName>
 		<FileHash>f6e9d64f8e4699f8b69dc0484ac49928</FileHash>
 	</BurnInfo>
@@ -551,6 +595,10 @@
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\team_weapons\m2_60_mm_mortar_squad\m2_60mm_mortar_squad_mp_remake.xml</FileName>
 		<FileHash>10c89160cdadc16ed850e78f6844560e</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_50cal_squad_mp_remake.xml</FileName>
+		<FileHash>4d482e791d2d7ad2af0498307e3399a2</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\german\soldiers\grenadier_squad\assault_grenadier_large_squad_mp.xml</FileName>
@@ -598,7 +646,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp_remake.xml</FileName>
-		<FileHash>dd32ae2541d5336d7428617fc093a81c</FileHash>
+		<FileHash>a7d0098f1925560f043f7cf461191956</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\conscript_squad\base_conscript_squad_mp_remake.xml</FileName>
@@ -606,7 +654,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp_remake.xml</FileName>
-		<FileHash>201d0fafbc233a5223cb7c37d035278d</FileHash>
+		<FileHash>c2407691d670cc57340a4b3c782dc708</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\dshk_38_hmg_squad\dshk_38_hmg_squad_mp_remake.xml</FileName>
@@ -658,11 +706,11 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\troops\guards_troops_assault_mp_remake.xml</FileName>
-		<FileHash>3c7010d0f1b9b4b85c0b22763b96a763</FileHash>
+		<FileHash>5c6182afed2dab42d649ebb7f096665f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\troops\guards_troops_mp_remake.xml</FileName>
-		<FileHash>daf2a4c5c696815b760849293c7ef170</FileHash>
+		<FileHash>b3f22a93a7749397aeb2627d1ce27610</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp_remake.xml</FileName>
@@ -670,7 +718,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\troops\shock_troops_mp_remake.xml</FileName>
-		<FileHash>4325e134a3c55188d2996d7630e99d56</FileHash>
+		<FileHash>973c5b418ec5eec974f58f74548a8f08</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\west_german\soldiers\assault_pioneer_squad\assault_pioneer_large_squad_mp.xml</FileName>
@@ -678,11 +726,11 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\west_german\soldiers\assault_pioneer_squad\west_german_pioneer_large_squad_mp.xml</FileName>
-		<FileHash>561277617e4982fd4d885c2a61fcbccd</FileHash>
+		<FileHash>8d1078357fd082562c6d3357c76cecae</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\west_german\soldiers\assault_pioneer_squad\west_german_pioneer_squad_mp.xml</FileName>
-		<FileHash>7d83bcb61f92910959eaba55efdf4173</FileHash>
+		<FileHash>a62202839ddad273599676efba1138fd</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\west_german\soldiers\fallschirmjager_squad\fallschirmjager_large_squad_mp.xml</FileName>
@@ -731,6 +779,10 @@
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\west_german\team_weapons\mg42_heavy_machine_gun_squad\mg42_heavy_machine_gun_squad_wg_mp_remake.xml</FileName>
 		<FileHash>05c2f00f9f0e9dfa53203c27609ba35e</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp_remake.xml</FileName>
+		<FileHash>e2782fbae72855d3e75c7e3defbb89cb</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake.xml</FileName>
@@ -839,6 +891,14 @@
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\pm\explosive_weapons\mines\aef_airdropped_mine_mp_increased.xml</FileName>
 		<FileHash>f6f15fde218f698021b3f68e84eb6b99</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m1917_30cal_mp_remake.xml</FileName>
+		<FileHash>53710c70cfbb6803e6fc2602024d9bd7</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m2hb_50cal_mp_remake.xml</FileName>
+		<FileHash>7ecf67fc6b6ce418551b0ddb13371d89</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\aef\small_arms\machine_gun\heavy_machine_gun\m1919a4_30cal_mp_increased.xml</FileName>
@@ -1173,6 +1233,10 @@
 		<FileHash>69600678f9170d8a63a979240e194e2e</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\machine_gun\light_machine_gun\kubelwagen_mg34_pintle_mp_increased.xml</FileName>
+		<FileHash>f25c0ed2c3306611919e8a477574642b</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\machine_gun\light_machine_gun\mg34_lmg_moving_mp_increased.xml</FileName>
 		<FileHash>193faa85d257b0b188a12477cbad983e</FileHash>
 	</BurnInfo>
@@ -1190,7 +1254,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\single_fire\rifle\g43_scoped_increased.xml</FileName>
-		<FileHash>791f99f372bf531a641db3fdd6ee4366</FileHash>
+		<FileHash>a20c8fe48933b5384b711f11f3f055d5</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\west_german\small_arms\single_fire\rifle\west_german_g43_sniper_sniper_mp_increased.xml</FileName>
@@ -1202,7 +1266,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\locale\english\english.ucs</FileName>
-		<FileHash>0fa205cef22d28764abd25c46a44ad1f</FileHash>
+		<FileHash>0b45e0edee7a974c8562b7f162d69e1b</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\info\82ae9fa5997e4dcdaac301f29d6d356d.info</FileName>

@@ -585,8 +585,6 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\repair_ability\soviet_repair_ability_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\fieldcraft_trip_flare_mp" />
-				<instance_reference name="ability" value="abilities\soviet\timed_ability\conscript_oorah_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
@@ -792,12 +790,12 @@
 							<int name="ui_position" value="14" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\soviet_mine_mp" />
-							<int name="ui_position" value="11" />
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\soviet_mine_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="23" />
 						</group>
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\races\soviet\team_weapons\soviet_field_artillery\m1937_152mm_ml_20_artillery_mp" />
-							<int name="ui_position" value="13" />
+							<int name="ui_position" value="32" />
 						</group>
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\barbed_wire_fence_mp" />
@@ -805,23 +803,31 @@
 						</group>
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\races\soviet\team_weapons\soviet_field_artillery\m1931_203mm_b-4_howitzer_artillery_commander_mp" />
-							<int name="ui_position" value="0" />
+							<int name="ui_position" value="33" />
 						</group>
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\repair_station_mp" />
-							<int name="ui_position" value="21" />
+							<int name="ui_position" value="31" />
 						</group>
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\tanktrap" />
 							<int name="ui_position" value="13" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\anti_personnel_mines" />
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\anti_personnel_mines_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 							<int name="ui_position" value="21" />
 						</group>
 						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\light_anti_vehicle_mines" />
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\light_anti_vehicle_mines_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 							<int name="ui_position" value="22" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\sand_bag_soviet_mp" />
+							<int name="ui_position" value="11" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\soviet\buildings\defensive_structures\machine_gun_nest_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="34" />
 						</group>
 					</list>
 					<enum name="construction_type" value="tp_construction_soviet_engineer_basic" />
