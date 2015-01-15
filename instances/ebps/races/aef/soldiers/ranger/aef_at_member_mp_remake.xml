@@ -38,6 +38,11 @@
 					</list>
 					<uniqueid name="id" value="1073745040" />
 				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073745152" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\cost_ext">
@@ -450,7 +455,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\infantry_anti_tank_weapon\m9_bazooka_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\sub_machine_gun\m1_thompson_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
