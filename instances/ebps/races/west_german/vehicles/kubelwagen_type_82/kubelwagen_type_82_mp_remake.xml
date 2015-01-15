@@ -443,7 +443,7 @@
 				</group>
 			</list>
 			<float name="weapon_priority" value="0" />
-			<float name="hitpoints" value="190" />
+			<float name="hitpoints" value="160" />
 			<template_reference name="wreck_entity_option" value="options\none">
 			</template_reference>
 		</template_reference>
