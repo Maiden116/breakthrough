@@ -4,12 +4,14 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
 	FileSettingsEnd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\aef_barbed_wire_cutting_ability_mp_remake.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\ranger_limited_demo_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\accessory_weapons\rifleman_at_rifle_grenade_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\grenades\cooked_mk2_fragmentation_grenade_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\grenades\m23_smoke_stream_rifle_grenade_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\modal_ability\grenades\mk2_fragmentation_grenade_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\timed_ability\aef_sprint_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\timed_ability\volley_fire_ability_mp_remake.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\aef\toggle_ability\bazooka_deploy_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\pioneer_barbed_wire_cutting_ability_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\modal_ability\grenades\german_grenade_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\abilities\german\timed_ability\german_sprint_mp_remake.rgd
@@ -36,6 +38,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\paratrooper\paratrooper_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\pathfinder\pathfinder_ir_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\pathfinder\pathfinder_recon_mp_remake.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\ranger\aef_at_member_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\ranger\ranger_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\rear_echelon_troop\rear_echelon_radioman_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\soldiers\rear_echelon_troop\rear_echelon_reserve_troop_mp_remake.rgd
@@ -140,6 +143,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\paratrooper_squad\paratrooper_squad_support_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\pathfinder_squad\pathfinder_squad_recon_mp_remake.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\ranger_squad\aef_at_squad_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\ranger_squad\ranger_squad_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\aef\soldiers\rear_echelon_squad\starter_rear_echelon_squad_mp.rgd
@@ -164,6 +168,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\stormtrooper_squad\stormtrooper_large_squad_mp.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\german\soldiers\volksgrenadiers\german_volksgrenadier_large_squad_mp.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\combat_engineer_squad\combat_engineer_squad_mp_remake.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\combat_engineer_squad\starter_combat_engineer_squad_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\conscript_squad\base_conscript_squad_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\soviet\soldiers\dshk_38_hmg_squad\dshk_38_hmg_squad_mp_remake.rgd
@@ -200,6 +205,7 @@ TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\m1919a6_lmg_mp.rgd
+	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\ranger_thompson_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\rifleman_m1_carabine_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\riflemen_m1918_bar_mp_remake.rgd
 	C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\breakthrough Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\west_german\explosive_weapon\grenade\panzerfusilier_at_rifle_grenade_remake.rgd

@@ -160,7 +160,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="5" />
+					<float name="num" value="7" />
 					<instance_reference name="type" value="ebps\races\soviet\soldiers\combat_engineer\combat_engineer_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
@@ -690,51 +690,6 @@
 			<float name="on_idle_search_distance" value="20" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_can_defuse_charges_ext">
-		</template_reference>
-		<template_reference name="squadexts" value="sbpextensions\squad_plant_demolition_ext">
-			<group name="cost">
-				<float name="action" value="0" />
-				<float name="command" value="0" />
-				<float name="fuel" value="0" />
-				<float name="manpower" value="0" />
-				<float name="munition" value="90" />
-				<float name="popcap" value="0" />
-			</group>
-			<instance_reference name="demo_entity" value="ebps\props\demo_charge" />
-			<bool name="parallel_placement" value="True" />
-			<bool name="place_anywhere" value="True" />
-			<float name="recharge_time" value="0" />
-			<group name="ui_info">
-				<locstring name="extra_text" value="11042785" />
-				<locstring name="help_text" value="11007439" />
-				<string name="hotkey_name" value="D" />
-				<string name="icon_name" value="Icons_abilities_ability_soviet_demo_charge" />
-				<string name="overlay_name" value="" />
-				<bool name="reveal_for_decryption" value="False" />
-				<locstring name="screen_name" value="11006709" />
-			</group>
-			<list name="requirements">
-				<template_reference name="required" value="requirements\required_not">
-					<enum name="reason" value="usage_and_display" />
-					<locstring name="ui_name" value="0" />
-					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_in_state">
-							<enum name="reason" value="usage" />
-							<locstring name="ui_name" value="0" />
-							<bool name="garrisoned" value="True" />
-							<bool name="healed" value="False" />
-							<float name="in_combat_since" value="-1" />
-							<bool name="injured" value="False" />
-							<bool name="leader" value="False" />
-							<bool name="not_moving" value="False" />
-							<bool name="not_retreating" value="False" />
-							<bool name="pinned" value="False" />
-							<bool name="suppressed" value="False" />
-						</template_reference>
-					</list>
-				</template_reference>
-			</list>
-			<int name="ui_position" value="33" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
 			<float name="capture_distance" value="4" />
