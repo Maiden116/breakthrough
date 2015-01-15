@@ -580,54 +580,14 @@
 					<instance_reference name="squad" value="sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="-1" />
+					<int name="ui_position" value="13" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\soviet\soldiers\soviet_officer_squad\commissar_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="-1" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\soviet_officer_squad\soviet_officer_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="23" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\guards_troops_assault_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="24" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\guards_troops_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="31" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\penal_battalion_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="32" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\shock_troops_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="33" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\dshk_38_hmg_squad\dshk_38_hmg_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="34" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\m1910_maxim_hmg_squad\m1910_maxim_heavy_machine_gun_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="13" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\mortar_squad\hm-120_38_mortar_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
 					<int name="ui_position" value="14" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\mortar_squad\pm-82_41_mortar_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\at_rifle_guards_troops_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">

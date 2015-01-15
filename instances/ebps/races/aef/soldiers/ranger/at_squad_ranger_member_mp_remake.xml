@@ -36,7 +36,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\ignore_snow_effects_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742652" />
+					<uniqueid name="id" value="1073745100" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -515,7 +515,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742653" />
+						<uniqueid name="id" value="1073745101" />
 					</template_reference>
 				</list>
 			</group>
@@ -533,7 +533,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742654" />
+						<uniqueid name="id" value="1073745102" />
 					</template_reference>
 				</list>
 			</group>
@@ -551,7 +551,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742655" />
+						<uniqueid name="id" value="1073745103" />
 					</template_reference>
 				</list>
 			</group>
@@ -569,7 +569,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742656" />
+						<uniqueid name="id" value="1073745104" />
 					</template_reference>
 				</list>
 			</group>
@@ -587,7 +587,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742657" />
+						<uniqueid name="id" value="1073745105" />
 					</template_reference>
 				</list>
 			</group>
@@ -615,7 +615,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742658" />
+						<uniqueid name="id" value="1073745106" />
 					</template_reference>
 				</list>
 			</group>
@@ -647,7 +647,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742659" />
+						<uniqueid name="id" value="1073745107" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -665,7 +665,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073742660" />
+						<uniqueid name="id" value="1073745108" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -751,7 +751,7 @@
 							<float name="deceleration_multiplier" value="0.3" />
 							<float name="pathfinding_size_x" value="0" />
 							<float name="pathfinding_size_y" value="0" />
-							<uniqueid name="id" value="1073742661" />
+							<uniqueid name="id" value="1073745109" />
 						</template_reference>
 						<template_reference name="action" value="action\apply_modifiers_action">
 							<float name="duration" value="1" />
@@ -767,10 +767,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073742662" />
+							<uniqueid name="id" value="1073745110" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742663" />
+					<uniqueid name="id" value="1073745111" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -787,7 +787,7 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="1" />
 			<list name="standard_upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\ranger_bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade" value="upgrade\aef\items\aef_at_squad_bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\upgrade_apply_ext">
@@ -795,5 +795,5 @@
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1073741847" />
+	<uniqueid name="pbgid" value="1073741940" />
 </instance>

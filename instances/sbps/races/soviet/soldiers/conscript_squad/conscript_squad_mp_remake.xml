@@ -127,9 +127,9 @@
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="07_soldiers">
-					<float name="units_in_core" value="7" />
-					<float name="units_in_left_flank" value="0" />
-					<float name="units_in_right_flank" value="0" />
+					<float name="units_in_core" value="3" />
+					<float name="units_in_left_flank" value="2" />
+					<float name="units_in_right_flank" value="2" />
 					<float name="units_in_scout" value="0" />
 				</group>
 				<group name="08_soldiers">

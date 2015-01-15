@@ -149,8 +149,12 @@
 		<FileHash>1b445f57e46236896a6ae2636aaac153</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\soldiers\ranger\at_squad_ranger_member_mp_remake.xml</FileName>
+		<FileHash>cc9be398de50f7d3e7c744d7b0172fbb</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\soldiers\ranger\ranger_mp_remake.xml</FileName>
-		<FileHash>5fab62417189e167c497beeec460cfc9</FileHash>
+		<FileHash>294bccfb568f228eb28ebb748ce66145</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\aef\soldiers\rear_echelon_troop\rear_echelon_radioman_mp_remake.xml</FileName>
@@ -326,7 +330,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\buildings\base_building\hq\hq_mp.xml</FileName>
-		<FileHash>26b80ad39cfcd124856ce9784342a0fe</FileHash>
+		<FileHash>7b8ec71e69a63161a8d82ed2092a1b27</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\buildings\defensive_structures\anti_personnel_mines_mp_remake.xml</FileName>
@@ -358,7 +362,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\soldiers\commander_troops\guard_troops_assault_mp_remake.xml</FileName>
-		<FileHash>5bf761790be32559748c091c495a699c</FileHash>
+		<FileHash>ca7cfb46adf72f181a04bf4ccee7ae89</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\soldiers\commander_troops\penal_battalion_troops_mp_remake.xml</FileName>
@@ -378,7 +382,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\soldiers\conscript_soldier\conscript_soldier_mp_remake.xml</FileName>
-		<FileHash>2b30dd906607df6b5c19e489507c3b8c</FileHash>
+		<FileHash>ed57bc1eb32c2c137a5174ceb5001592</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\ebps\races\soviet\soldiers\partisan_commander_troops\partisan_troops_antitank_remake.xml</FileName>
@@ -566,7 +570,7 @@
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\soldiers\ranger_squad\aef_at_squad_mp_remake.xml</FileName>
-		<FileHash>87bcec9b0871f3f07c4dc8df777ac060</FileHash>
+		<FileHash>eee0554564bd755ae011edc46c4a2aa8</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\aef\soldiers\ranger_squad\ranger_squad_mp_remake.xml</FileName>
@@ -725,12 +729,16 @@
 		<FileHash>23b4906dcdc769119866af2ba6ab276f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\troops\at_rifle_guards_troops_mp_remake.xml</FileName>
+		<FileHash>f09ce25202bd6e8185e3be4766082ec0</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\troops\guards_troops_assault_mp_remake.xml</FileName>
 		<FileHash>5c6182afed2dab42d649ebb7f096665f</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\troops\guards_troops_mp_remake.xml</FileName>
-		<FileHash>b3f22a93a7749397aeb2627d1ce27610</FileHash>
+		<FileHash>2082383296a1ee66103a3aa7d895b0e9</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\sbps\races\soviet\soldiers\troops\penal_battalion_mp_remake.xml</FileName>
@@ -825,6 +833,10 @@
 		<FileHash>77941a1f0c67ced8e70b2ebec30163ee</FileHash>
 	</BurnInfo>
 	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_guard_troop_mp_remake.xml</FileName>
+		<FileHash>ed61b823d901102fc3dd6bad5303d7de</FileHash>
+	</BurnInfo>
+	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\slot_item\west_german\explosive_weapon\grenade\panzerfusilier_at_rifle_grenade_remake.xml</FileName>
 		<FileHash>5272c3eadabd32f97f7f1182e07b30f4</FileHash>
 	</BurnInfo>
@@ -837,7 +849,11 @@
 		<FileHash>25a87cfe36517930404775eaf54e2383</FileHash>
 	</BurnInfo>
 	<BurnInfo>
-		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\upgrade\aef\items\ranger_bazooka_mp.xml</FileName>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\upgrade\aef\items\aef_at_squad_bazooka_mp_remake.xml</FileName>
+		<FileHash>ef2924160a22f9994bebb1a94a8f1685</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\upgrade\aef\items\ranger_bazooka_mp_remake.xml</FileName>
 		<FileHash>7b3cb2814a80e3b480979befec0075ef</FileHash>
 	</BurnInfo>
 	<BurnInfo>
@@ -847,6 +863,10 @@
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\upgrade\aef\items\vehicle_crew_thompson_sub_machine_gun_upgrade_mp_remake.xml</FileName>
 		<FileHash>4b54c43d5952c92dcc26106f52d7f637</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\upgrade\soviet\items\ptrs_41_at_rifle_package_guard_troop_mp_remake.xml</FileName>
+		<FileHash>6e217c4939b6a440ddce86f0e02874bd</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\upgrade\west_german\items\panzerfusilier_g43_remake.xml</FileName>
@@ -1135,6 +1155,10 @@
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\axis\small_arms\single_fire\rifle\stormtrooper_g43_increased.xml</FileName>
 		<FileHash>b35c8cd858d906fe7f482f3e87955501</FileHash>
+	</BurnInfo>
+	<BurnInfo>
+		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\ballistic_weapon\infantry_anti_tank_weapon\guard_troop_ptrs_41_mp_remake.xml</FileName>
+		<FileHash>d15bfd40b2473ee15030c14317a4dd3c</FileHash>
 	</BurnInfo>
 	<BurnInfo>
 		<FileName>C:\Users\Maiden\Documents\my games\company of heroes 2\mods\projects\breakthrough\instances\weapon\soviet\explosive_weapons\mortar\hm_38_120mm_mortar_barrage_mp_increased.xml</FileName>
