@@ -41,7 +41,7 @@
 							<bool name="retrigger" value="True" />
 							<string name="state_machine_name" value="ability_sight_buff_state" />
 							<string name="undo_action_state_name" value="off" />
-							<uniqueid name="id" value="1073745165" />
+							<uniqueid name="id" value="1073745180" />
 						</template_reference>
 					</list>
 					<uniqueid name="id" value="1073745166" />
@@ -231,5 +231,5 @@
 		<list name="requirements_self_recharge">
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="1073741847" />
+	<uniqueid name="pbgid" value="1073741852" />
 </instance>

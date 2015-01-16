@@ -507,7 +507,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745153" />
+						<uniqueid name="id" value="1073745181" />
 					</template_reference>
 				</list>
 			</group>
@@ -525,7 +525,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745154" />
+						<uniqueid name="id" value="1073745182" />
 					</template_reference>
 				</list>
 			</group>
@@ -543,7 +543,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745155" />
+						<uniqueid name="id" value="1073745183" />
 					</template_reference>
 				</list>
 			</group>
@@ -561,7 +561,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745156" />
+						<uniqueid name="id" value="1073745184" />
 					</template_reference>
 				</list>
 			</group>
@@ -579,7 +579,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745157" />
+						<uniqueid name="id" value="1073745185" />
 					</template_reference>
 				</list>
 			</group>
@@ -607,7 +607,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745158" />
+						<uniqueid name="id" value="1073745186" />
 					</template_reference>
 					<template_reference name="action" value="action\apply_modifiers_action">
 						<float name="duration" value="0" />
@@ -623,7 +623,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\posture_speed_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073745159" />
+						<uniqueid name="id" value="1073745187" />
 					</template_reference>
 				</list>
 			</group>
@@ -655,7 +655,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745160" />
+						<uniqueid name="id" value="1073745188" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -762,10 +762,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073745163" />
+							<uniqueid name="id" value="1073745189" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073745164" />
+					<uniqueid name="id" value="1073745190" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -795,5 +795,5 @@
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1073741941" />
+	<uniqueid name="pbgid" value="1073741942" />
 </instance>

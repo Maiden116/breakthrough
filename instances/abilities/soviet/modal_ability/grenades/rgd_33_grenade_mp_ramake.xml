@@ -174,5 +174,5 @@
 		<list name="requirements_self_recharge">
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="1073741848" />
+	<uniqueid name="pbgid" value="1073741850" />
 </instance>

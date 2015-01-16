@@ -150,7 +150,7 @@
 			<list name="on_construction_actions">
 				<template_reference name="action" value="action\change_ownership">
 					<enum name="change_type" value="neutral" />
-					<uniqueid name="id" value="1073745161" />
+					<uniqueid name="id" value="1073745191" />
 				</template_reference>
 				<template_reference name="action" value="action\apply_modifiers_action">
 					<float name="duration" value="0" />
@@ -166,7 +166,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\armor_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073745162" />
+					<uniqueid name="id" value="1073745192" />
 				</template_reference>
 			</list>
 			<list name="materials">
@@ -314,5 +314,5 @@
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1073741942" />
+	<uniqueid name="pbgid" value="1073741943" />
 </instance>
