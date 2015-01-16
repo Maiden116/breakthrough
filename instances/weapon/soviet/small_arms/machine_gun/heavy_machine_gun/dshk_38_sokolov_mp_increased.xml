@@ -444,7 +444,7 @@
 		</group>
 		<group name="suppression">
 			<float name="nearby_suppression_multiplier" value="0.75" />
-			<float name="nearby_suppression_radius" value="20" />
+			<float name="nearby_suppression_radius" value="15" />
 			<group name="target_pinned_multipliers">
 				<float name="accuracy_multiplier" value="0.25" />
 				<float name="damage_multiplier" value="0.5" />

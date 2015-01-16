@@ -318,8 +318,8 @@
 			<float name="current_target" value="8" />
 			<group name="distance">
 				<float name="far" value="1" />
-				<float name="near" value="6" />
-				<float name="mid" value="3.5" />
+				<float name="near" value="3.5" />
+				<float name="mid" value="6" />
 			</group>
 			<float name="rotation" value="0" />
 			<float name="window_bonus" value="0" />

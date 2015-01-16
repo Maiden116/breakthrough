@@ -154,13 +154,13 @@
 			<bool name="support_weapons_to_flanks" value="True" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_item_slot_ext">
-			<bool name="can_pick_up" value="True" />
+			<bool name="can_pick_up" value="False" />
 			<float name="num_slots" value="4" />
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="4" />
+					<float name="num" value="3" />
 					<instance_reference name="type" value="ebps\races\soviet\soldiers\commander_troops\guard_troops_assault_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
@@ -174,7 +174,7 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_apply_ext">
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\soviet\items\ptrs_41_at_rifle_package_guard_troop_mp" />
+				<instance_reference name="upgrade" value="upgrade\soviet\items\ptrs_41_at_rifle_package_guard_troop_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
@@ -412,6 +412,15 @@
 							<enum name="usage_type" value="multiplication" />
 							<float name="value" value="1.15" />
 							<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
+						</template_reference>
+						<template_reference name="modifier" value="modifiers\range_weapon_modifier">
+							<enum name="application_type" value="apply_to_weapon" />
+							<bool name="exclusive" value="False" />
+							<string name="modifier_id" value="" />
+							<string name="target_type_name" value="hardpoint_01" />
+							<enum name="usage_type" value="addition" />
+							<float name="value" value="10" />
+							<instance_reference name="tooltip" value="modifier_tooltip\range_weapon_modifier" />
 						</template_reference>
 					</list>
 					<uniqueid name="id" value="1073745118" />
