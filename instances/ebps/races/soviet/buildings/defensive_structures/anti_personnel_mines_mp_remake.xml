@@ -426,7 +426,7 @@
 			</group>
 			<bool name="extended_sight" value="False" />
 			<float name="extended_sight_radius" value="70" />
-			<float name="reveal_area_on_death_time" value="1.5" />
+			<float name="reveal_area_on_death_time" value="15" />
 			<group name="sight_package">
 				<float name="inner_height" value="0" />
 				<float name="inner_radius" value="0" />
