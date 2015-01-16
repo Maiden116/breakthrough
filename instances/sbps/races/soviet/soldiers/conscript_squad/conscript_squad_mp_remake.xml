@@ -415,8 +415,17 @@
 							<string name="modifier_id" value="" />
 							<string name="target_type_name" value="hardpoint_01" />
 							<enum name="usage_type" value="multiplication" />
-							<float name="value" value="0.7" />
+							<float name="value" value="0.5" />
 							<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
+						</template_reference>
+						<template_reference name="modifier" value="modifiers\health_maximum_modifier">
+							<enum name="application_type" value="apply_to_entity" />
+							<bool name="exclusive" value="True" />
+							<string name="modifier_id" value="" />
+							<string name="target_type_name" value="" />
+							<enum name="usage_type" value="multiplication" />
+							<float name="value" value="0.6" />
+							<instance_reference name="tooltip" value="modifier_tooltip\health_maximum_modifier" />
 						</template_reference>
 					</list>
 					<uniqueid name="id" value="1073743221" />
@@ -608,7 +617,6 @@
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\merge_ability_mp" />
 				<instance_reference name="ability" value="abilities\soviet\toggle_ability\conscript_evasive_tactics_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\fieldcraft_trip_flare_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
