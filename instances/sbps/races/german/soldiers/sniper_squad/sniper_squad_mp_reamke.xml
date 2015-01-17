@@ -184,7 +184,7 @@
 				<template_reference name="required" value="requirements\required_structure">
 					<enum name="reason" value="usage" />
 					<locstring name="ui_name" value="0" />
-					<instance_reference name="structure_name" value="ebps\races\german\buildings\base_building\bereich_festung_mp" />
+					<instance_reference name="structure_name" value="ebps\races\german\buildings\base_building\bereich_festung_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 					<int name="required_structure_count" value="1" />
 					<bool name="check_team" value="False" />
 					<bool name="require_construction_complete" value="True" />
@@ -655,7 +655,6 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\sniper_incendiary_round_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
@@ -792,6 +791,27 @@
 			<list name="squad_type_list">
 				<enum name="squad_type" value="infantry" />
 				<enum name="squad_type" value="sniper_german" />
+			</list>
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_engineer_ext">
+			<float name="construction_rate_multiplier" value="1" />
+			<list name="in_construction_actions">
+			</list>
+			<list name="construction_groups">
+				<group name="construction_group">
+					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
+					<list name="construction_items">
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />
+							<int name="ui_position" value="12" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\sniper_cover" />
+							<int name="ui_position" value="12" />
+						</group>
+					</list>
+					<enum name="construction_type" value="tp_construction_german_grenadier" />
+				</group>
 			</list>
 		</template_reference>
 	</list>
