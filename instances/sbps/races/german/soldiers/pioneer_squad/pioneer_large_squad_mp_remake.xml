@@ -746,40 +746,6 @@
 			</list>
 			<list name="construction_groups">
 				<group name="construction_group">
-					<instance_reference name="construction_menu" value="construction_menu\advanced" />
-					<list name="construction_items">
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\tow\voronezh\hintere_panzerwerk_voronezh" />
-							<int name="ui_position" value="13" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\schweres_kriegswerk_mp" />
-							<int name="ui_position" value="14" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\bereich_festung_mp" />
-							<int name="ui_position" value="11" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\dolch_aktionen_mp" />
-							<int name="ui_position" value="12" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\observation_post\fuel_post_german_mp" />
-							<int name="ui_position" value="22" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\observation_post\munition_post_german_mp" />
-							<int name="ui_position" value="21" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\hintere_panzerwerk_mp" />
-							<int name="ui_position" value="13" />
-						</group>
-					</list>
-					<enum name="construction_type" value="tp_construction_german_pioneer_advanced" />
-				</group>
-				<group name="construction_group">
 					<instance_reference name="construction_menu" value="construction_menu\basic" />
 					<list name="construction_items">
 						<group name="construction_item">
@@ -825,6 +791,40 @@
 					</list>
 					<enum name="construction_type" value="tp_construction_german_pioneer_basic" />
 				</group>
+				<group name="construction_group">
+					<instance_reference name="construction_menu" value="construction_menu\advanced" />
+					<list name="construction_items">
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\tow\voronezh\hintere_panzerwerk_voronezh" />
+							<int name="ui_position" value="13" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\schweres_kriegswerk_mp" />
+							<int name="ui_position" value="14" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\bereich_festung_mp" />
+							<int name="ui_position" value="11" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\dolch_aktionen_mp" />
+							<int name="ui_position" value="12" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\observation_post\fuel_post_german_mp" />
+							<int name="ui_position" value="22" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\observation_post\munition_post_german_mp" />
+							<int name="ui_position" value="21" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\german\buildings\base_building\hintere_panzerwerk_mp" />
+							<int name="ui_position" value="13" />
+						</group>
+					</list>
+					<enum name="construction_type" value="tp_construction_german_pioneer_advanced" />
+				</group>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_type_ext">
@@ -866,6 +866,18 @@
 				</template_reference>
 			</list>
 			<int name="ui_position" value="33" />
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_requirement_ext">
+			<list name="requirement_table">
+				<template_reference name="required" value="requirements\required_in_territory">
+					<enum name="reason" value="usage" />
+					<locstring name="ui_name" value="0" />
+					<bool name="in_supply" value="True" />
+					<bool name="is_secured" value="False" />
+					<bool name="is_secured_by_checkpoint" value="False" />
+					<bool name="not_in_transition" value="False" />
+				</template_reference>
+			</list>
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="1073741827" />

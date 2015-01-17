@@ -1250,23 +1250,6 @@
 				<enum name="squad_type" value="infantry" />
 			</list>
 		</template_reference>
-		<template_reference name="squadexts" value="sbpextensions\squad_engineer_ext">
-			<float name="construction_rate_multiplier" value="1" />
-			<list name="in_construction_actions">
-			</list>
-			<list name="construction_groups">
-				<group name="construction_group">
-					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
-					<list name="construction_items">
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\wg_sandbag_fence_mp" />
-							<int name="ui_position" value="11" />
-						</group>
-					</list>
-					<enum name="construction_type" value="tp_construction_german_grenadier" />
-				</group>
-			</list>
-		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="1073741872" />
 </instance>

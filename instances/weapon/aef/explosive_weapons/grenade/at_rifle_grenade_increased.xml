@@ -10,7 +10,7 @@
 				<float name="max" value="0.125" />
 				<float name="min" value="0.125" />
 			</group>
-			<float name="post_firing_aim_time" value="0.25" />
+			<float name="post_firing_aim_time" value="1.5" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
 				<float name="max" value="2" />
@@ -30,7 +30,7 @@
 			<string name="track_vertical" value="Rifle_Tilt" />
 			<string name="track_vertical_speed" value="" />
 			<string name="variety_name" value="" />
-			<string name="visibility_name" value="Kar98_Visible" />
+			<string name="visibility_name" value="rifle_garand_visible" />
 			<string name="target_range_name" value="" />
 		</group>
 		<group name="area_effect">
@@ -91,25 +91,25 @@
 			<bool name="artillery_force_obey_los" value="False" />
 			<bool name="attack_team_weapon_user" value="False" />
 			<bool name="can_be_offhanded" value="False" />
-			<bool name="can_be_substituted" value="False" />
+			<bool name="can_be_substituted" value="True" />
 			<float name="combat_slot_offset" value="0" />
-			<bool name="enable_auto_target_search" value="True" />
-			<bool name="fire_at_building_combat_slot" value="False" />
-			<float name="ground_hit_rate" value="0.75" />
+			<bool name="enable_auto_target_search" value="False" />
+			<bool name="fire_at_building_combat_slot" value="True" />
+			<float name="ground_hit_rate" value="1" />
 			<bool name="ignore_shot_blocking" value="True" />
 			<bool name="non_moving_setup" value="False" />
 			<bool name="point_blank" value="False" />
-			<bool name="prevents_prone" value="True" />
+			<bool name="prevents_prone" value="False" />
 			<bool name="reset_rotation_on_teardown" value="False" />
 			<bool name="share_parent_anim" value="False" />
 			<bool name="single_handed_weapon" value="False" />
 			<bool name="substitute_weapon" value="True" />
-			<bool name="support_weapon" value="True" />
+			<bool name="support_weapon" value="False" />
 			<bool name="surprises_idle" value="False" />
 			<bool name="piercing" value="False" />
 			<float name="reaction_radius" value="1" />
-			<bool name="can_be_pilfered" value="True" />
-			<bool name="causes_combat" value="True" />
+			<bool name="can_be_pilfered" value="False" />
+			<bool name="causes_combat" value="False" />
 			<bool name="can_abort_winddown" value="False" />
 			<enum name="reaction_type" value="normal" />
 			<bool name="ignore_relations" value="False" />
@@ -269,8 +269,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="40" />
-			<float name="min" value="40" />
+			<float name="max" value="140" />
+			<float name="min" value="140" />
 			<list name="on_penetrated_actions">
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
@@ -299,16 +299,16 @@
 										<template_reference name="action" value="action\trigger_critical_action">
 											<float name="remove_at_health" value="1" />
 											<instance_reference name="critical" value="critical\vehicle_damage_engine" />
-											<uniqueid name="id" value="1073744760" />
+											<uniqueid name="id" value="1073745215" />
 										</template_reference>
 									</list>
 									<int name="weight" value="50" />
 								</group>
 							</list>
-							<uniqueid name="id" value="1073744761" />
+							<uniqueid name="id" value="1073745216" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073744762" />
+					<uniqueid name="id" value="1073745217" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -322,14 +322,22 @@
 			</template_reference>
 		</group>
 		<group name="deflection">
-			<float name="deflection_damage_multiplier" value="1" />
+			<float name="deflection_damage_multiplier" value="0.8" />
 			<bool name="has_deflection_damage" value="True" />
 			<list name="on_deflected_actions">
+				<template_reference name="action" value="action\damage">
+					<float name="damage" value="5" />
+					<bool name="percentage" value="False" />
+					<bool name="set" value="True" />
+					<bool name="cause_criticals" value="True" />
+					<enum name="crit_weapon_type" value="explosive" />
+					<uniqueid name="id" value="1073745218" />
+				</template_reference>
 			</list>
 		</group>
 		<group name="fire">
 			<float name="wind_down" value="0.75" />
-			<float name="wind_up" value="0" />
+			<float name="wind_up" value="0.25" />
 			<list name="on_fire_actions">
 			</list>
 		</group>
@@ -352,7 +360,7 @@
 			<float name="moving_end_time" value="0" />
 			<float name="moving_start_time" value="0" />
 		</group>
-		<string name="name" value="Kar 98k Antitank Rifle Grenade (Panzerfusilier)" />
+		<string name="name" value="M31 Anti Tank Rifle Grenade" />
 		<group name="offhand">
 			<float name="offhand_end_time" value="0" />
 			<float name="offhand_start_time" value="0" />
@@ -373,7 +381,7 @@
 		</group>
 		<group name="projectile">
 			<bool name="delete_previous_on_hit" value="False" />
-			<instance_reference name="projectile" value="ebps\projectile\grenadier_antitank_rifle_grenade" />
+			<instance_reference name="projectile" value="ebps\projectile\aef_antitank_rifle_grenade" />
 		</group>
 		<group name="range">
 			<float name="max" value="30" />
@@ -402,15 +410,15 @@
 			</list>
 		</group>
 		<group name="scatter">
-			<float name="angle_scatter" value="3" />
+			<float name="angle_scatter" value="0" />
 			<bool name="burst_pattern_enable" value="False" />
 			<float name="delay_bracket_change_chance" value="0" />
 			<float name="distance_bracket_count_air" value="0" />
 			<float name="distance_bracket_count_ground" value="1" />
-			<float name="distance_scatter_max" value="3" />
-			<float name="distance_scatter_obj_hit_min" value="10" />
+			<float name="distance_scatter_max" value="0" />
+			<float name="distance_scatter_obj_hit_min" value="0" />
 			<float name="distance_scatter_offset" value="0.2" />
-			<float name="distance_scatter_ratio" value="1" />
+			<float name="distance_scatter_ratio" value="0" />
 			<float name="fow_angle_multiplier" value="1.5" />
 			<float name="fow_distance_multiplier" value="1.5" />
 			<float name="max_tilt_angle" value="0" />
@@ -453,21 +461,21 @@
 			<float name="duration" value="0" />
 		</group>
 		<group name="tracking">
-			<float name="fire_cone_angle" value="5" />
+			<float name="fire_cone_angle" value="15" />
 			<group name="normal">
 				<float name="max_down" value="-90" />
 				<float name="max_left" value="-60" />
 				<float name="max_right" value="60" />
 				<float name="max_up" value="40" />
-				<float name="speed_horizontal" value="90" />
-				<float name="speed_vertical" value="90" />
+				<float name="speed_horizontal" value="360" />
+				<float name="speed_vertical" value="360" />
 			</group>
 			<float name="pivot_end_time" value="0" />
 			<bool name="pivot_only" value="False" />
 			<float name="pivot_start_time" value="0" />
 		</group>
 		<locstring name="ui_name" value="0" />
-		<enum name="weapon_type" value="ballistic" />
+		<enum name="weapon_type" value="explosive" />
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
@@ -482,5 +490,5 @@
 			<int name="alpha" value="0" />
 		</group>
 	</group>
-	<uniqueid name="pbgid" value="1073741953" />
+	<uniqueid name="pbgid" value="1073741963" />
 </instance>

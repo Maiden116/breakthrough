@@ -7,13 +7,13 @@
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
-				<float name="max" value="2" />
+				<float name="max" value="0.125" />
 				<float name="min" value="0.125" />
 			</group>
 			<float name="post_firing_aim_time" value="0" />
 			<float name="post_firing_cooldown_interval" value="0" />
 			<group name="ready_aim_time">
-				<float name="max" value="2" />
+				<float name="max" value="0.125" />
 				<float name="min" value="0.125" />
 			</group>
 			<group name="aim_time_multiplier">
@@ -285,12 +285,12 @@
 			</list>
 		</group>
 		<group name="fire">
-			<float name="wind_down" value="0.75" />
-			<float name="wind_up" value="0.25" />
+			<float name="wind_down" value="0.25" />
+			<float name="wind_up" value="0.619" />
 			<list name="on_fire_actions">
 			</list>
 		</group>
-		<float name="flinch_radius" value="15" />
+		<float name="flinch_radius" value="3.5" />
 		<string name="fx_action_target_name" value="grenade_target" />
 		<bool name="fx_always_visible" value="False" />
 		<float name="fx_building_hit_delay" value="0" />
@@ -298,7 +298,7 @@
 		<string name="fx_munition_name" value="grenade" />
 		<string name="fx_tracer_name" value="" />
 		<float name="fx_tracer_speed" value="0" />
-		<bool name="fx_use_building_panel_normal" value="True" />
+		<bool name="fx_use_building_panel_normal" value="False" />
 		<locstring name="help_text" value="0" />
 		<string name="icon_name" value="" />
 		<group name="moving">

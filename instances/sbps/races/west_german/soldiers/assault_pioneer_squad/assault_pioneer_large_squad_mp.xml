@@ -920,7 +920,7 @@
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\pioneer_volks_through_salvage" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\sp\refuel_tank_wg_sp" />
 				<instance_reference name="ability" value="abilities\west_german\toggle_ability\minesweeper_deploy_mp" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\west_gernan_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_can_defuse_charges_ext">

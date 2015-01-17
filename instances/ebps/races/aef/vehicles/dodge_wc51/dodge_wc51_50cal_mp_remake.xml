@@ -433,7 +433,7 @@
 								<float name="z" value="-0.07" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m2hb_50cal_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\heavy_machine_gun\dodge_wc51_m2hb_50cal_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

@@ -285,12 +285,12 @@
 			</list>
 		</group>
 		<group name="fire">
-			<float name="wind_down" value="0.75" />
-			<float name="wind_up" value="0.25" />
+			<float name="wind_down" value="0.25" />
+			<float name="wind_up" value="0.619" />
 			<list name="on_fire_actions">
 			</list>
 		</group>
-		<float name="flinch_radius" value="0" />
+		<float name="flinch_radius" value="3.5" />
 		<string name="fx_action_target_name" value="grenade_target" />
 		<bool name="fx_always_visible" value="False" />
 		<float name="fx_building_hit_delay" value="0" />

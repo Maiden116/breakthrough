@@ -53,7 +53,7 @@
 			<group name="damage_friendly">
 				<float name="far" value="0.15" />
 				<float name="near" value="1" />
-				<float name="mid" value="0.625" />
+				<float name="mid" value="0.75" />
 			</group>
 			<group name="distance">
 				<float name="far" value="6" />
@@ -280,7 +280,7 @@
 		</group>
 		<group name="deflection">
 			<float name="deflection_damage_multiplier" value="0" />
-			<bool name="has_deflection_damage" value="False" />
+			<bool name="has_deflection_damage" value="True" />
 			<list name="on_deflected_actions">
 			</list>
 		</group>

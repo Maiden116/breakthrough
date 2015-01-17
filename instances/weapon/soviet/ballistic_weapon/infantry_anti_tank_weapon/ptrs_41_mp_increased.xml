@@ -425,7 +425,7 @@
 		</group>
 		<locstring name="ui_name" value="0" />
 		<enum name="weapon_type" value="ballistic" />
-		<instance_reference name="ui_range" value="" />
+		<instance_reference name="ui_range" value="ui_reticule\range_sniper" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
 			<float name="near" value="100" />

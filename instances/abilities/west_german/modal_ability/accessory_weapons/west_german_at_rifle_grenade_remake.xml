@@ -33,7 +33,7 @@
 			<float name="command" value="0" />
 			<float name="fuel" value="0" />
 			<float name="manpower" value="0" />
-			<float name="munition" value="25" />
+			<float name="munition" value="0" />
 			<float name="popcap" value="0" />
 		</group>
 		<string name="cursor_ghost_blueprint" value="" />
@@ -56,7 +56,7 @@
 		<bool name="is_default_action" value="False" />
 		<bool name="move_back" value="False" />
 		<float name="move_back_distance" value="10" />
-		<float name="range" value="18" />
+		<float name="range" value="30" />
 		<bool name="range_ignore" value="False" />
 		<float name="recharge_time" value="30" />
 		<bool name="refundable" value="True" />

@@ -43,7 +43,7 @@
 				<float name="angle_left" value="0" />
 				<float name="angle_right" value="0" />
 				<enum name="area_type" value="circle" />
-				<float name="radius" value="4.5" />
+				<float name="radius" value="4" />
 			</group>
 			<group name="damage">
 				<float name="far" value="0.5" />
@@ -94,7 +94,7 @@
 			<bool name="can_be_substituted" value="False" />
 			<float name="combat_slot_offset" value="0" />
 			<bool name="enable_auto_target_search" value="False" />
-			<bool name="fire_at_building_combat_slot" value="False" />
+			<bool name="fire_at_building_combat_slot" value="True" />
 			<float name="ground_hit_rate" value="1" />
 			<bool name="ignore_shot_blocking" value="True" />
 			<bool name="non_moving_setup" value="False" />
@@ -285,12 +285,12 @@
 			</list>
 		</group>
 		<group name="fire">
-			<float name="wind_down" value="0.75" />
-			<float name="wind_up" value="0.125" />
+			<float name="wind_down" value="0.25" />
+			<float name="wind_up" value="0.619" />
 			<list name="on_fire_actions">
 			</list>
 		</group>
-		<float name="flinch_radius" value="15" />
+		<float name="flinch_radius" value="3.5" />
 		<string name="fx_action_target_name" value="grenade_target" />
 		<bool name="fx_always_visible" value="False" />
 		<float name="fx_building_hit_delay" value="0" />
