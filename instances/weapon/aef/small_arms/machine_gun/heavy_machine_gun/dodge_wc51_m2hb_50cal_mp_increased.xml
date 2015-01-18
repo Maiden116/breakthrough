@@ -443,8 +443,8 @@
 			<float name="suppressed_reload_multiplier" value="1" />
 		</group>
 		<group name="suppression">
-			<float name="nearby_suppression_multiplier" value="0" />
-			<float name="nearby_suppression_radius" value="0" />
+			<float name="nearby_suppression_multiplier" value="0.8" />
+			<float name="nearby_suppression_radius" value="15" />
 			<group name="target_pinned_multipliers">
 				<float name="accuracy_multiplier" value="0.25" />
 				<float name="damage_multiplier" value="0.5" />
@@ -457,7 +457,7 @@
 				<float name="penetration_multiplier" value="1" />
 				<float name="suppression_multiplier" value="1" />
 			</group>
-			<float name="amount" value="0" />
+			<float name="amount" value="0.01" />
 		</group>
 		<group name="teardown">
 			<float name="duration" value="0" />
@@ -481,9 +481,9 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
-			<float name="mid" value="2" />
-			<float name="far" value="1" />
-			<float name="near" value="3" />
+			<float name="mid" value="8" />
+			<float name="far" value="8" />
+			<float name="near" value="8" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />

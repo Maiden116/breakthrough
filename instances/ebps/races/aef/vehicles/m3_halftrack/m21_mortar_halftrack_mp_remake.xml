@@ -414,7 +414,7 @@
 								<float name="z" value="-0.6" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -435,7 +435,7 @@
 								<float name="z" value="-0.6" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_barrage_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -456,7 +456,7 @@
 								<float name="z" value="-0.6" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_white_phosphorous_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_white_phosphorous_barrage_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -477,7 +477,7 @@
 								<float name="z" value="-0.6" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_short_delay_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\mortar\m1_81mm_mortar_short_delay_barrage_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

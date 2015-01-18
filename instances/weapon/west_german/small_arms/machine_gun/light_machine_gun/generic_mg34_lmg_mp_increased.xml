@@ -390,21 +390,21 @@
 			<float name="suppressed_reload_multiplier" value="1" />
 		</group>
 		<group name="suppression">
-			<float name="nearby_suppression_multiplier" value="0" />
-			<float name="nearby_suppression_radius" value="0" />
+			<float name="nearby_suppression_multiplier" value="0.75" />
+			<float name="nearby_suppression_radius" value="15" />
 			<group name="target_pinned_multipliers">
 				<float name="accuracy_multiplier" value="0.25" />
-				<float name="damage_multiplier" value="1" />
+				<float name="damage_multiplier" value="0.5" />
 				<float name="penetration_multiplier" value="1" />
-				<float name="suppression_multiplier" value="0.1" />
+				<float name="suppression_multiplier" value="1" />
 			</group>
 			<group name="target_suppressed_multipliers">
 				<float name="accuracy_multiplier" value="0.5" />
-				<float name="damage_multiplier" value="1" />
+				<float name="damage_multiplier" value="0.7" />
 				<float name="penetration_multiplier" value="1" />
-				<float name="suppression_multiplier" value="0.5" />
+				<float name="suppression_multiplier" value="1" />
 			</group>
-			<float name="amount" value="0" />
+			<float name="amount" value="0.0075" />
 		</group>
 		<group name="teardown">
 			<float name="duration" value="0" />
@@ -428,9 +428,9 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
-			<float name="mid" value="1.1" />
-			<float name="far" value="1" />
-			<float name="near" value="1.2" />
+			<float name="mid" value="4" />
+			<float name="far" value="4" />
+			<float name="near" value="4" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />
