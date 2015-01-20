@@ -384,7 +384,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="4" />
+					<float name="num" value="5" />
 					<instance_reference name="type" value="ebps\races\west_german\soldiers\assault_pioneer\assault_pioneer_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
@@ -404,6 +404,7 @@
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\west_german\items\assault_pioneer_repair_upgrade" />
+				<instance_reference name="upgrade" value="upgrade\west_german\items\pioneer_flamethrower_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
@@ -915,12 +916,10 @@
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\repair_ability\west_german_repair_ability_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\pioneer_volks_salvage" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\pioneer_stun_grenade_mp" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\assault_pioneer_drop_medpack_ability_mp" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\pioneer_stun_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\commander_ability\pioneer_volks_through_salvage" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\sp\refuel_tank_wg_sp" />
 				<instance_reference name="ability" value="abilities\west_german\toggle_ability\minesweeper_deploy_mp" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\west_gernan_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_can_defuse_charges_ext">

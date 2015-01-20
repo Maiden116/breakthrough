@@ -389,7 +389,7 @@
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="3" />
-					<instance_reference name="type" value="ebps\races\west_german\soldiers\weapon_crew\mortar_team_crew_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="type" value="ebps\races\west_german\soldiers\obersoldaten\obersoldaten_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
