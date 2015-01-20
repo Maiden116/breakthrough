@@ -29,7 +29,7 @@
 						<template_reference name="action" value="action\upgrade_add">
 							<bool name="apply_to_entities_in_squad" value="False" />
 							<bool name="trigger_publish_event" value="False" />
-							<instance_reference name="upgrade" value="upgrade\aef\research\captain_dispatched_upgrade_mp" />
+							<instance_reference name="upgrade" value="upgrade\aef\research\captain_dispatched_upgrade_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 							<uniqueid name="id" value="1073742558" />
 						</template_reference>
 					</list>
@@ -357,7 +357,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\sub_machine_gun\m1_thompson_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<instance_reference name="weapon" value="weapon\aef\small_arms\machine_gun\sub_machine_gun\m1_thompson_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

@@ -194,12 +194,12 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="90" />
-					<float name="manpower" value="275" />
+					<float name="fuel" value="0" />
+					<float name="manpower" value="0" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="290" />
+				<float name="time_seconds" value="1" />
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\impass_ext">
@@ -328,37 +328,47 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="11" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\soldiers\major_squad\major_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\aef\soldiers\major_squad\major_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="12" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_sherman_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m10_tank_destroyer_squad\m10_tank_destroyer_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="13" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\vehicles\m36_tank_destroyer_squad\m36_tank_destroyer_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m36_tank_destroyer_squad\m36_tank_destroyer_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="14" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\vehicles\m8a1_hmc_squad\m8a1_hmc_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_bulldozer_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="21" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="22" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_sherman_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="23" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\vehicles\m10_tank_destroyer_squad\m10_tank_destroyer_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3e8_sherman_easy_8_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="24" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\vehicles\m7b1_priest_squad\m7b1_priest_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m7b1_priest_squad\m7b1_priest_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="32" />
+					<int name="ui_position" value="31" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\vehicles\m4a3_sherman_squad\m4a3_76mm_sherman_bulldozer_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m8a1_hmc_squad\m8a1_hmc_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">
@@ -370,7 +380,7 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\research\major_dispatched_upgrade_mp" />
+				<instance_reference name="upgrade" value="upgrade\aef\research\major_dispatched_upgrade_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -448,7 +458,7 @@
 							<bool name="is_present" value="True" />
 							<float name="max_completed" value="1" />
 							<float name="min_completed" value="1" />
-							<instance_reference name="upgrade_name" value="upgrade\aef\research\major_dispatched_upgrade_mp" />
+							<instance_reference name="upgrade_name" value="upgrade\aef\research\major_dispatched_upgrade_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</template_reference>
 					</list>
 					<list name="action_table">

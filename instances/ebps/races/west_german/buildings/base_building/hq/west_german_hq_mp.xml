@@ -446,54 +446,19 @@
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\west_german_pioneer_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="12" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\soldiers\volksgrenadier_squad\volksgrenadier_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="-1" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\soldiers\fallschirmjager_squad\fallschirmjager_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="14" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\soldiers\obersoldaten\obersoldaten__large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
 					<int name="ui_position" value="13" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\panzerfusilier_squad\panzerfusilier_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="-1" />
+					<int name="ui_position" value="23" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\soldiers\stormtrooper_squad\urban_assault_light_infantry_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="32" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\mg34_heavy_machine_gun_squad\mg34_heavy_machine_gun_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="31" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\mg42_heavy_machine_gun_squad\mg42_heavy_machine_gun_squad_wg_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="23" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="24" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\grw34_81mm_mortar_squad\grw34_81mm_mortar_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="33" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\soldiers\sniper_squad\west_german_sniper_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\german\vehicles\opel_blitz\opel_blitz_squad_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">

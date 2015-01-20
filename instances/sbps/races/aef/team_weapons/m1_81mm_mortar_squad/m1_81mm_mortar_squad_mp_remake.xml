@@ -530,7 +530,6 @@
 					<list name="abilities_to_bring">
 						<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\mortar_barrage_ability\m21_mortar_barrage_mp" />
 						<instance_reference name="ability" value="abilities\aef\modal_ability\artillery\mortar_barrage_ability\m21_mortar_white_phosphorous_barrage_mp" />
-						<instance_reference name="ability" value="abilities\german\toggle_ability\german_mortar_hold_fire_mp" />
 						<instance_reference name="ability" value="abilities\aef\timed_ability\vehicle_decrew_generic_mp" />
 					</list>
 				</template_reference>
@@ -733,7 +732,6 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_mortars" />
-				<instance_reference name="ability" value="abilities\german\toggle_ability\german_mortar_hold_fire_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">

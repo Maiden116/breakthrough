@@ -123,13 +123,13 @@
 								<float name="z" value="-0.203" />
 							</group>
 							<enum name="type" value="squad" />
-							<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 						<uniqueid name="id" value="1073745868" />
 					</template_reference>
 					<template_reference name="action" value="action\change_weapon">
 						<float name="hardpoint" value="2" />
-						<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\light_machine_gun\scout_car_mg34_coaxial_generic_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<uniqueid name="id" value="1073745869" />
 					</template_reference>
 					<template_reference name="action" value="action\apply_modifiers_action">
@@ -158,7 +158,7 @@
 				<enum name="reason" value="usage" />
 				<locstring name="ui_name" value="0" />
 				<bool name="is_present" value="False" />
-				<instance_reference name="upgrade_name" value="upgrade\german\items\brummbar_top_gunner_mp" />
+				<instance_reference name="upgrade_name" value="upgrade\german\items\brummbar_top_gunner_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<bool name="include_queued" value="False" />
 			</template_reference>
 			<template_reference name="required" value="requirements\required_in_territory">

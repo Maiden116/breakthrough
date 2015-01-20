@@ -194,12 +194,12 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="50" />
-					<float name="manpower" value="160" />
+					<float name="fuel" value="0" />
+					<float name="manpower" value="0" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="80" />
+				<float name="time_seconds" value="1" />
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\impass_ext">
@@ -335,7 +335,12 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="14" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\vehicles\katyusha_rocket_trucks\katyusha_bm-13n_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\soviet\vehicles\katyusha_rocket_trucks\katyusha_bm-13n_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="21" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\soviet\vehicles\t-70m\t-70m_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">

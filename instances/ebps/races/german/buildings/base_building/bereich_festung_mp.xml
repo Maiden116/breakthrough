@@ -198,12 +198,12 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="10" />
-					<float name="manpower" value="80" />
+					<float name="fuel" value="0" />
+					<float name="manpower" value="0" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="52" />
+				<float name="time_seconds" value="1" />
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\demolishable_ext">
@@ -529,12 +529,12 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="21" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\german\soldiers\mg42_heavy_machine_gun_squad\mg42_heavy_machine_gun_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\german\soldiers\mg42_heavy_machine_gun_squad\mg42_heavy_machine_gun_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="22" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\german\soldiers\mortar_team\mortar_team_81mm_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\german\soldiers\mortar_team\mortar_team_81mm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="23" />

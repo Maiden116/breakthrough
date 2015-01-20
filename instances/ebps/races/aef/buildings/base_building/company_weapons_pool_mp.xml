@@ -194,12 +194,12 @@
 				<group name="cost">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
-					<float name="fuel" value="50" />
-					<float name="manpower" value="240" />
+					<float name="fuel" value="0" />
+					<float name="manpower" value="0" />
 					<float name="munition" value="0" />
 					<float name="popcap" value="0" />
 				</group>
-				<float name="time_seconds" value="196" />
+				<float name="time_seconds" value="1" />
 			</group>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\impass_ext">
@@ -335,7 +335,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="14" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\m5a1_stuart_squad\m5a1_stuart_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="24" />
@@ -367,7 +367,7 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\research\captain_dispatched_upgrade_mp" />
+				<instance_reference name="upgrade" value="upgrade\aef\research\captain_dispatched_upgrade_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -445,7 +445,7 @@
 							<bool name="is_present" value="True" />
 							<float name="max_completed" value="1" />
 							<float name="min_completed" value="1" />
-							<instance_reference name="upgrade_name" value="upgrade\aef\research\captain_dispatched_upgrade_mp" />
+							<instance_reference name="upgrade_name" value="upgrade\aef\research\captain_dispatched_upgrade_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</template_reference>
 					</list>
 					<list name="action_table">

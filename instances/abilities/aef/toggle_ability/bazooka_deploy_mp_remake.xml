@@ -18,7 +18,7 @@
 					<uniqueid name="id" value="1073745095" />
 				</template_reference>
 				<template_reference name="action" value="action\unequip_slotitem_weapon">
-					<instance_reference name="weapon_to_unequip" value="weapon\aef\ballistic_weapon\infantry_anti_tank_weapon\m9_bazooka_mp_increased" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="weapon_to_unequip" value="weapon\aef\ballistic_weapon\infantry_anti_tank_weapon\m9_bazooka_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 					<uniqueid name="id" value="1073745096" />
 				</template_reference>
 				<template_reference name="action" value="action\unequip_slotitem_weapon">
