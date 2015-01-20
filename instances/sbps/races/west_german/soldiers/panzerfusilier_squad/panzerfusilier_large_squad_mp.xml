@@ -989,7 +989,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\sp\refuel_tank_wg_sp" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\west_gernan_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\west_gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\smoke_grenade_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\accessory_weapons\west_german_at_rifle_grenade_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>

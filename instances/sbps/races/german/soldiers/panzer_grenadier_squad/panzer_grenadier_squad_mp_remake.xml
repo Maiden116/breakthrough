@@ -160,7 +160,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="4" />
+					<float name="num" value="5" />
 					<instance_reference name="type" value="ebps\races\german\soldiers\panzer_grenadiers\panzer_grenadiers_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
@@ -179,11 +179,9 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\german\items\panzer_grenadier_panzershreck_atw_item_mp" />
+				<instance_reference name="upgrade" value="upgrade\german\items\panzer_grenadier_panzershreck_atw_item_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\light_infantry_panzergren_package" />
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\ambush_camou_package" />
-				<instance_reference name="upgrade" value="upgrade\german\items\panzerbusche_39_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="upgrade" value="upgrade\german\items\panzer_grenadier_panzershreck_atw_item_1_schrek_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
@@ -629,7 +627,7 @@
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\smoke_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
@@ -760,23 +758,6 @@
 			<list name="squad_type_list">
 				<enum name="squad_type" value="pz_grenadiers" />
 				<enum name="squad_type" value="infantry" />
-			</list>
-		</template_reference>
-		<template_reference name="squadexts" value="sbpextensions\squad_engineer_ext">
-			<float name="construction_rate_multiplier" value="1" />
-			<list name="in_construction_actions">
-			</list>
-			<list name="construction_groups">
-				<group name="construction_group">
-					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
-					<list name="construction_items">
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\slit_trench_german_mp" />
-							<int name="ui_position" value="21" />
-						</group>
-					</list>
-					<enum name="construction_type" value="tp_construction_german_grenadier" />
-				</group>
 			</list>
 		</template_reference>
 	</list>
