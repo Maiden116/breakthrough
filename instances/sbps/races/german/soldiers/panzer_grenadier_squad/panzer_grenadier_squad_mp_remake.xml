@@ -179,7 +179,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\german\items\panzer_grenadier_panzershreck_atw_item_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade" value="upgrade\german\items\panzershreck_atw_item_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\light_infantry_panzergren_package" />
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\ambush_camou_package" />
 			</list>

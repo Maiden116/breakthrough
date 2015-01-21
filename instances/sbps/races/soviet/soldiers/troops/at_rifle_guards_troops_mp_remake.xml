@@ -160,7 +160,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="3" />
+					<float name="num" value="2" />
 					<instance_reference name="type" value="ebps\races\soviet\soldiers\commander_troops\guard_troops_assault_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
@@ -174,7 +174,6 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_apply_ext">
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\soviet\items\ptrs_41_at_rifle_package_guard_troop_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
@@ -425,6 +424,11 @@
 					</list>
 					<uniqueid name="id" value="1073745118" />
 				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\soviet\anti_tank_weapon\ptrs_41_anti_tank_rifle_guard_troop_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073747489" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_attention_ext">
@@ -447,7 +451,8 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\fieldcraft_trip_flare_mp" />
-				<instance_reference name="ability" value="abilities\soviet\timed_ability\soviet_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\timed_ability\soviet_sprint_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_in_cover_auto_camouflage_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">

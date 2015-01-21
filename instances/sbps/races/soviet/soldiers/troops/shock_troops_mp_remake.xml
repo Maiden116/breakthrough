@@ -180,6 +180,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
+				<instance_reference name="upgrade" value="upgrade\soviet\items\flamethrower_package_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -480,7 +481,11 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\fieldcraft_trip_flare_mp" />
-				<instance_reference name="ability" value="abilities\soviet\timed_ability\soviet_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\timed_ability\soviet_sprint_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\grenades\smoke_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\anti_tank_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rg_42_anti_personnel_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\satchel_charge_throw_ability_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">

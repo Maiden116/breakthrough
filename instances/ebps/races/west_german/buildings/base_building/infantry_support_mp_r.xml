@@ -631,7 +631,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="14" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\west_german\soldiers\obersoldaten\obersoldaten__large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\west_german\soldiers\obersoldaten\obersoldaten_large_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="22" />

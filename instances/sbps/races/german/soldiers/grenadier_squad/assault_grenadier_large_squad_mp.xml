@@ -179,6 +179,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
+				<instance_reference name="upgrade" value="upgrade\german\items\mg34_lmg_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
@@ -603,7 +604,6 @@
 				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" />
 				<instance_reference name="ability" value="abilities\german\toggle_ability\commander_ability\ambush_camo_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\german_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\gernan_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\smoke_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
@@ -737,31 +737,6 @@
 			<list name="squad_type_list">
 				<enum name="squad_type" value="grenadiers" />
 				<enum name="squad_type" value="infantry" />
-			</list>
-		</template_reference>
-		<template_reference name="squadexts" value="sbpextensions\squad_engineer_ext">
-			<float name="construction_rate_multiplier" value="1" />
-			<list name="in_construction_actions">
-			</list>
-			<list name="construction_groups">
-				<group name="construction_group">
-					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
-					<list name="construction_items">
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\bunker\bunker_mp" />
-							<int name="ui_position" value="11" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />
-							<int name="ui_position" value="12" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\slit_trench_german_mp" />
-							<int name="ui_position" value="13" />
-						</group>
-					</list>
-					<enum name="construction_type" value="tp_construction_german_grenadier" />
-				</group>
 			</list>
 		</template_reference>
 	</list>

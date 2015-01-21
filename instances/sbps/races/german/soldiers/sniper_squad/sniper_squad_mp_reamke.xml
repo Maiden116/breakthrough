@@ -653,7 +653,6 @@
 				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_delayed_cover_auto_camouflage_mp" />
 				<instance_reference name="ability" value="abilities\soviet\toggle_ability\sniper_hold_fire_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\sniper_incendiary_round_mp" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
 			</list>
 		</template_reference>
