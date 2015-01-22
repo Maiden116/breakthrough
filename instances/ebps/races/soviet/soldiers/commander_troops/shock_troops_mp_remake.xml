@@ -15,7 +15,6 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rg_42_anti_personnel_grenade_mp" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rgd_1_smoke_grenade_mp" />
 				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
 				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_soviet_not_gonna_die_like_this" />

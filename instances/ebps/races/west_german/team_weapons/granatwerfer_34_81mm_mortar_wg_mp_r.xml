@@ -284,8 +284,6 @@
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\artillery\mortar_barrage_ability\grw34_mortar_team_mortar_barrage_wg_mp" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\artillery\mortar_barrage_ability\grw34_mortar_team_smoke_barrage_wg_mp" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\artillery\mortar_barrage_ability\grw34_mortar_team_mortar_victortarget_barrage_wg_mp" />
-				<instance_reference name="ability" value="abilities\west_german\toggle_ability\grw34_mortar_counter_barrage_weapon_wg_mp" />
-				<instance_reference name="ability" value="abilities\west_german\toggle_ability\grw34_mortar_counter_barrage_attack_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 			</list>
 		</template_reference>
