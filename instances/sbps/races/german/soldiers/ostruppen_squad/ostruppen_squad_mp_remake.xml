@@ -478,7 +478,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\gernan_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">

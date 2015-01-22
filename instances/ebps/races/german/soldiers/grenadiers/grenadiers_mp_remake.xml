@@ -15,7 +15,6 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\grenadier_panzerfaust_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\grenadier_rifle_grenade_ability_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\blinding_grenade" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />

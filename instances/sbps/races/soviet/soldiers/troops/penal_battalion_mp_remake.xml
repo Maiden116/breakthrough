@@ -442,6 +442,7 @@
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\molotov_cocktail_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\anti_tank_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\accessory_weapons\panzerfaust_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rgd_1_smoke_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
