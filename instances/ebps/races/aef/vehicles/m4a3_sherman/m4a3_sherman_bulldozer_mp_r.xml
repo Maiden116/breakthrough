@@ -180,8 +180,8 @@
 					<uniqueid name="id" value="1073746031" />
 				</template_reference>
 			</list>
-			<float name="armor" value="200" />
-			<float name="rear_armor" value="80" />
+			<float name="armor" value="500" />
+			<float name="rear_armor" value="150" />
 			<float name="target_size" value="22" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">

@@ -60,8 +60,8 @@
 			<instance_reference name="wreck_entity" value="ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_m15a1_aa_halftrack" />
 			<list name="death_actions">
 			</list>
-			<float name="armor" value="120" />
-			<float name="rear_armor" value="100" />
+			<float name="armor" value="100" />
+			<float name="rear_armor" value="70" />
 			<float name="target_size" value="20" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">

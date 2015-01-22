@@ -358,8 +358,8 @@
 			<instance_reference name="wreck_entity" value="ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_elefant_sdkfz_184" />
 			<list name="death_actions">
 			</list>
-			<float name="armor" value="400" />
-			<float name="rear_armor" value="150" />
+			<float name="armor" value="1600" />
+			<float name="rear_armor" value="800" />
 			<float name="target_size" value="26" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">
