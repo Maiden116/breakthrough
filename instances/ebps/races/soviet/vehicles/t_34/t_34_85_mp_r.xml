@@ -489,7 +489,7 @@
 								<float name="z" value="0.833" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\ballistic_weapon\tank_gun\t34_85_zis-s-53_85mm_t34_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\ballistic_weapon\tank_gun\t34_85_zis-s-53_85mm_t34_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

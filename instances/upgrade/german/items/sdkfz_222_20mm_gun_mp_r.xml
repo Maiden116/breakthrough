@@ -66,13 +66,13 @@
 						<float name="z" value="-0.2" />
 					</group>
 					<enum name="type" value="squad" />
-					<instance_reference name="weapon" value="weapon\axis\small_arms\tank_gun\sdkfz_222_kwk38_20mm__mp" />
+					<instance_reference name="weapon" value="weapon\axis\small_arms\tank_gun\sdkfz_222_kwk38_20mm__mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<uniqueid name="id" value="1073745862" />
 			</template_reference>
 			<template_reference name="action" value="action\change_weapon">
 				<float name="hardpoint" value="1" />
-				<instance_reference name="weapon" value="weapon\axis\small_arms\tank_gun\sdkfz_222_kwk38_20mm__mp" />
+				<instance_reference name="weapon" value="weapon\axis\small_arms\tank_gun\sdkfz_222_kwk38_20mm__mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<uniqueid name="id" value="1073745863" />
 			</template_reference>
 			<template_reference name="action" value="action\apply_crew_action">

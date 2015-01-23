@@ -540,7 +540,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\sherman_m3_75mm_mp" />
+							<instance_reference name="weapon" value="weapon\aef\ballistic_weapon\tank_gun\sherman_m3_75mm_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 						<group name="weapon">
 							<group name="heading">

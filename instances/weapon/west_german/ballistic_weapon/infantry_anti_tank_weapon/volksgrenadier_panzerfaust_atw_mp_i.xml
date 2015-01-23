@@ -269,8 +269,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="200" />
-			<float name="min" value="200" />
+			<float name="max" value="500" />
+			<float name="min" value="500" />
 			<list name="on_penetrated_actions">
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
@@ -481,9 +481,9 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
-			<float name="mid" value="140" />
-			<float name="far" value="130" />
-			<float name="near" value="150" />
+			<float name="mid" value="1500" />
+			<float name="far" value="1500" />
+			<float name="near" value="1500" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />
