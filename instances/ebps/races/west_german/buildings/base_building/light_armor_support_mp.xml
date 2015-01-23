@@ -630,6 +630,11 @@
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\vehicles\ostwind_squad\ostwind_squad_westgerman_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="31" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\west_german\team_weapons\at_gun_squad\pak40_75mm_at_gun_squad_wg_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">
 			</list>
