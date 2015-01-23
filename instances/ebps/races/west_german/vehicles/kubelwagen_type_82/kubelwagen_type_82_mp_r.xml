@@ -281,8 +281,8 @@
 					</template_reference>
 				</template_reference>
 			</list>
-			<float name="armor" value="4" />
-			<float name="rear_armor" value="2" />
+			<float name="armor" value="20" />
+			<float name="rear_armor" value="10" />
 			<float name="target_size" value="14" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">

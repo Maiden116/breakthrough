@@ -51,7 +51,7 @@
 			<float name="death_seconds" value="1.8" />
 			<bool name="delete_when_dead" value="True" />
 			<bool name="force_attacker_memory" value="False" />
-			<float name="hitpoints" value="160" />
+			<float name="hitpoints" value="100" />
 			<bool name="is_invincible" value="False" />
 			<bool name="is_salvagable_wreck" value="False" />
 			<bool name="keep_wreck_ownership" value="False" />
@@ -68,7 +68,7 @@
 			<instance_reference name="wreck_entity" value="ebps\environment\art_ambient\objects\vehicles\wrecked_vehicles\wrecked_wc51" />
 			<list name="death_actions">
 			</list>
-			<float name="armor" value="50" />
+			<float name="armor" value="20" />
 			<float name="rear_armor" value="10" />
 			<float name="target_size" value="14" />
 			<bool name="dies_from_broken_ice" value="True" />

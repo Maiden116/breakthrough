@@ -580,7 +580,7 @@
 					<instance_reference name="squad" value="sbps\races\soviet\soldiers\conscript_squad\conscript_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="14" />
+					<int name="ui_position" value="13" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\at_rifle_guards_troops_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
