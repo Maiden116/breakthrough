@@ -7,17 +7,17 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11072153" />
+						<locstring name="extra_text" value="154" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11072154" />
+						<locstring name="help_text" value="155" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="G" />
 						<string name="icon_name" value="Icons_units_unit_soviet_guards" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11072251" />
-						<string name="selection_group" value="Guards" />
+						<locstring name="screen_name" value="156" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Soviet Recon Company Razvedka Kompaniya" />
 						<group name="speaker_generic">
 							<string name="code_1" value="gs" />
 							<string name="code_2" value="" />
@@ -49,8 +49,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_soviet_guard_troops_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="11072152" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="153" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="157" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -170,6 +170,14 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_requirement_ext">
 			<list name="requirement_table">
+				<template_reference name="required" value="requirements\required_player_upgrade">
+					<enum name="reason" value="usage" />
+					<locstring name="ui_name" value="0" />
+					<bool name="is_present" value="True" />
+					<float name="max_completed" value="100" />
+					<float name="min_completed" value="1" />
+					<instance_reference name="upgrade_name" value="upgrade\soviet\doctrine\russian_artillery_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_apply_ext">
@@ -179,7 +187,6 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\soviet\items\dp-28_lmg_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -289,7 +296,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\move_enable_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743329" />
+						<uniqueid name="id" value="1073748273" />
 					</template_reference>
 					<template_reference name="action" value="action\delay">
 						<float name="delay" value="10" />
@@ -311,10 +318,10 @@
 										<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 									</template_reference>
 								</list>
-								<uniqueid name="id" value="1073743330" />
+								<uniqueid name="id" value="1073748274" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743331" />
+						<uniqueid name="id" value="1073748275" />
 						<bool name="can_prevent_refund" value="True" />
 					</template_reference>
 					<template_reference name="action" value="action\animator_set_state">
@@ -323,7 +330,7 @@
 						<bool name="retrigger" value="False" />
 						<string name="state_machine_name" value="suppression" />
 						<string name="undo_action_state_name" value="normal" />
-						<uniqueid name="id" value="1073743332" />
+						<uniqueid name="id" value="1073748276" />
 					</template_reference>
 				</list>
 				<list name="suppressed_activate_actions">
@@ -368,7 +375,7 @@
 								<instance_reference name="tooltip" value="modifier_tooltip\accuracy_weapon_modifier" />
 							</template_reference>
 						</list>
-						<uniqueid name="id" value="1073743333" />
+						<uniqueid name="id" value="1073748277" />
 					</template_reference>
 				</list>
 			</group>
@@ -420,11 +427,12 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rgd_33_grenade_mp_ramake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\fieldcraft_trip_flare_mp" />
 				<instance_reference name="ability" value="abilities\soviet\timed_ability\soviet_sprint_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rgd_1_smoke_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rgd_33_grenade_mp_ramake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\anti_tank_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
@@ -434,12 +442,12 @@
 			</group>
 			<group name="ui_info">
 				<locstring name="extra_text" value="0" />
-				<locstring name="help_text" value="11072249" />
+				<locstring name="help_text" value="0" />
 				<string name="hotkey_name" value="Reinforce" />
 				<string name="icon_name" value="Icons_odds_reinforce" />
 				<string name="overlay_name" value="" />
 				<bool name="reveal_for_decryption" value="False" />
-				<locstring name="screen_name" value="11072250" />
+				<locstring name="screen_name" value="0" />
 			</group>
 			<list name="paradrop_requirements">
 			</list>
@@ -455,7 +463,7 @@
 			<list name="actions">
 				<template_reference name="action" value="action\suppression">
 					<float name="suppression" value="0" />
-					<uniqueid name="id" value="1073743339" />
+					<uniqueid name="id" value="1073748278" />
 					<float name="supressionrecovertime" value="0" />
 				</template_reference>
 			</list>
@@ -561,7 +569,7 @@
 							<group name="veterancy_rank">
 								<float name="experience_value" value="720" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11072143" />
+								<locstring name="screen_name" value="0" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -582,14 +590,14 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743340" />
+										<uniqueid name="id" value="1073748279" />
 									</template_reference>
 								</list>
 							</group>
 							<group name="veterancy_rank">
 								<float name="experience_value" value="1440" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11072690" />
+								<locstring name="screen_name" value="0" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -619,7 +627,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743341" />
+										<uniqueid name="id" value="1073748280" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -635,14 +643,14 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743342" />
+										<uniqueid name="id" value="1073748281" />
 									</template_reference>
 								</list>
 							</group>
 							<group name="veterancy_rank">
 								<float name="experience_value" value="2880" />
 								<bool name="hide_ingame_veterancy_art" value="False" />
-								<locstring name="screen_name" value="11072145" />
+								<locstring name="screen_name" value="0" />
 								<bool name="single_player_only" value="False" />
 								<list name="leader_actions">
 								</list>
@@ -672,13 +680,13 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743343" />
+										<uniqueid name="id" value="1073748282" />
 									</template_reference>
 									<template_reference name="action" value="action\upgrade_add">
 										<bool name="apply_to_entities_in_squad" value="False" />
 										<bool name="trigger_publish_event" value="False" />
 										<instance_reference name="upgrade" value="upgrade\max_vet" />
-										<uniqueid name="id" value="1073743344" />
+										<uniqueid name="id" value="1073748283" />
 									</template_reference>
 									<template_reference name="action" value="action\apply_modifiers_action">
 										<float name="duration" value="0" />
@@ -694,7 +702,7 @@
 												<instance_reference name="tooltip" value="modifier_tooltip\blank_tooltip" />
 											</template_reference>
 										</list>
-										<uniqueid name="id" value="1073743345" />
+										<uniqueid name="id" value="1073748284" />
 									</template_reference>
 								</list>
 							</group>
@@ -717,5 +725,5 @@
 			</list>
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1073741865" />
+	<uniqueid name="pbgid" value="1073741991" />
 </instance>

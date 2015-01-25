@@ -505,6 +505,9 @@
 				<instance_reference name="upgrade" value="upgrade\german\research\battle_phase_2_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="upgrade" value="upgrade\german\research\battle_phase_3_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="upgrade" value="upgrade\german\research\battle_phase_4_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade" value="upgrade\german\doctrine\german_artillery_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade" value="upgrade\german\doctrine\german_infantry_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade" value="upgrade\german\doctrine\german_tanks_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\demolishable_ext">

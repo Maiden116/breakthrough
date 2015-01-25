@@ -124,6 +124,7 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\west_german\always_on_ability\dispatch_ability\sws_halftrack_interval_dispatch" />
+				<instance_reference name="ability" value="abilities\west_german\doctrine\fallschin_drop_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\construction_ext">
@@ -446,12 +447,12 @@
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\assault_pioneer_squad\west_german_pioneer_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="13" />
+					<int name="ui_position" value="12" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\soldiers\panzerfusilier_squad\panzerfusilier_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="23" />
+					<int name="ui_position" value="13" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\west_german\vehicles\kubelwagen_squad\kubelwagen_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
@@ -459,6 +460,11 @@
 					<int name="ui_position" value="31" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\german\vehicles\opel_blitz\opel_blitz_squad_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="32" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\west_german\soldiers\fallschirmjager_squad\fallschirmjager_large_squad_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">
@@ -473,6 +479,9 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
+				<instance_reference name="upgrade" value="upgrade\west_german\doctrine\luftwaffe" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade" value="upgrade\west_german\doctrine\artillery" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade" value="upgrade\west_german\doctrine\tankhunter" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\demolishable_ext">

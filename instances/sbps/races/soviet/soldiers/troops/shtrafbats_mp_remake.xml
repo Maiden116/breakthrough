@@ -170,6 +170,14 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_requirement_ext">
 			<list name="requirement_table">
+				<template_reference name="required" value="requirements\required_player_upgrade">
+					<enum name="reason" value="usage" />
+					<locstring name="ui_name" value="0" />
+					<bool name="is_present" value="True" />
+					<float name="max_completed" value="100" />
+					<float name="min_completed" value="1" />
+					<instance_reference name="upgrade_name" value="upgrade\soviet\doctrine\russian_assault_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_apply_ext">
@@ -179,7 +187,6 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\soviet\items\dp-28_lmg_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -400,6 +407,16 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
 			<list name="actions">
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073748235" />
+				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073748236" />
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_attention_ext">
@@ -421,12 +438,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\fieldcraft_trip_flare_mp" />
 				<instance_reference name="ability" value="abilities\soviet\timed_ability\soviet_sprint_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\molotov_cocktail_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\anti_tank_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\accessory_weapons\panzerfaust_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\soviet\modal_ability\grenades\rgd_1_smoke_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">

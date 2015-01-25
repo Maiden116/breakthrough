@@ -389,7 +389,7 @@
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\german\team_weapons\german_field_artillery\howitzer_105mm_le_fh18_mp" />
+					<instance_reference name="type" value="ebps\races\german\team_weapons\german_field_artillery\howitzer_105mm_le_fh18_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />

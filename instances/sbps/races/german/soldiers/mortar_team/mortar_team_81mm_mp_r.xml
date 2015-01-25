@@ -385,11 +385,11 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\german\team_weapons\granatewerfer_34_81mm_mortar_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="type" value="ebps\races\german\team_weapons\granatewerfer_34_81mm_mortar_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="3" />
-					<instance_reference name="type" value="ebps\races\german\soldiers\weapon_crew\mortar_crew_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="type" value="ebps\races\german\soldiers\weapon_crew\mortar_crew_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />

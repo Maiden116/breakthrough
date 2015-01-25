@@ -354,7 +354,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="12" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\penal_battalion_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\shtrafbats_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="13" />
@@ -364,7 +364,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="14" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\guards_troops_assault_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\guard_fusiliers_troops_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="21" />
@@ -389,7 +389,7 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="31" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\shock_troops_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\soviet\soldiers\troops\baiz_troops_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="32" />
