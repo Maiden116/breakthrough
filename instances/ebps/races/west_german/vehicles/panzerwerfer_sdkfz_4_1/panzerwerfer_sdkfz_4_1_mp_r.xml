@@ -976,7 +976,7 @@
 				<group name="race_data">
 					<instance_reference name="ext_key" value="" />
 					<group name="info">
-						<instance_reference name="capture_squad_blueprint" value="sbps\races\german\vehicles\panzerwerfer_squad\panzerwerfer_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<instance_reference name="capture_squad_blueprint" value="sbps\races\west_german\vehicles\panzerwerfer_squad\panzerwerfer_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<float name="max_capture_crew_size" value="2" />
 						<float name="min_capture_crew_size" value="2" />
 						<list name="recrew_penalties_list">

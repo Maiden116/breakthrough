@@ -115,7 +115,7 @@
 			<bool name="ignore_relations" value="False" />
 			<template_reference name="wants_prone_firing_option" value="options\none">
 			</template_reference>
-			<enum name="attack_ground_type" value="not_allowed" />
+			<enum name="attack_ground_type" value="anywhere" />
 		</group>
 		<group name="burst">
 			<bool name="can_burst" value="True" />

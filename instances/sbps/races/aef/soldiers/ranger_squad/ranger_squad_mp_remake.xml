@@ -496,42 +496,6 @@
 					<bool name="no_retrigger" value="False" />
 					<bool name="validate_all_sub_actions" value="True" />
 					<list name="requirement_table">
-						<template_reference name="required" value="requirements\required_player_upgrade">
-							<enum name="reason" value="usage" />
-							<locstring name="ui_name" value="0" />
-							<bool name="is_present" value="True" />
-							<float name="max_completed" value="100" />
-							<float name="min_completed" value="1" />
-							<instance_reference name="upgrade_name" value="upgrade\pm\american\commanders\rangers\deploy_rangers\pm_rangers_deployment_bazookas" />
-						</template_reference>
-					</list>
-					<list name="action_table">
-						<template_reference name="action" value="action\slot_item_add">
-							<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp" />
-							<bool name="permanent" value="True" />
-							<uniqueid name="id" value="1073742972" />
-						</template_reference>
-						<template_reference name="action" value="action\slot_item_add">
-							<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-							<bool name="permanent" value="True" />
-							<uniqueid name="id" value="1073742973" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073742974" />
-					<bool name="fire_and_forget_non_global" value="False" />
-					<template_reference name="ui_help_text" value="tables\help_text_phrase">
-						<int name="phrase_order" value="0" />
-						<locstring name="phrase" value="0" />
-					</template_reference>
-				</template_reference>
-				<template_reference name="action" value="action\requirement_action">
-					<bool name="check_self" value="False" />
-					<bool name="global_fire_and_forget_on_success" value="False" />
-					<bool name="instant_requirement_check" value="False" />
-					<bool name="kill_action_on_failed_requirements" value="False" />
-					<bool name="no_retrigger" value="False" />
-					<bool name="validate_all_sub_actions" value="True" />
-					<list name="requirement_table">
 						<template_reference name="required" value="requirements\required_slot_item">
 							<enum name="reason" value="usage" />
 							<locstring name="ui_name" value="0" />
@@ -546,7 +510,7 @@
 						<template_reference name="action" value="action\upgrade_add">
 							<bool name="apply_to_entities_in_squad" value="False" />
 							<bool name="trigger_publish_event" value="False" />
-							<instance_reference name="upgrade" value="upgrade\pm\pm_upgrades\ranger_company\carrying_bazooka" />
+							<instance_reference name="upgrade" value="upgrade\global\carrying_at_weapon_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 							<uniqueid name="id" value="1073742975" />
 						</template_reference>
 					</list>
@@ -901,7 +865,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
-				<instance_reference name="ability" value="abilities\aef\toggle_ability\bazooka_deploy_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\global\toggle_ability\deploy_at_weapon_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\grenades\cooked_mk2_fragmentation_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\ranger_limited_demo_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />

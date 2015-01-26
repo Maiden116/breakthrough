@@ -1075,6 +1075,10 @@
 							<instance_reference name="ebp" value="ebps\races\german\buildings\defensive_structure\german_wg_sandbag_fence_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 							<int name="ui_position" value="11" />
 						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\west_german\team_weapons\at_gun\pak43_88mm_at_gun_mp_re" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="21" />
+						</group>
 					</list>
 					<enum name="construction_type" value="tp_construction_soviet_engineer_basic" />
 				</group>

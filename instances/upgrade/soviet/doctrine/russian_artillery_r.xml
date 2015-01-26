@@ -32,7 +32,7 @@
 		<group name="ui_info">
 			<locstring name="extra_text" value="139" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<locstring name="help_text" value="140" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-			<string name="hotkey_name" value="F" />
+			<string name="hotkey_name" value="A" />
 			<string name="icon_name" value="Icons_commander_portrait_oberkommand_west_commander_05" />
 			<bool name="reveal_for_decryption" value="True" />
 			<locstring name="screen_name" value="141" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
