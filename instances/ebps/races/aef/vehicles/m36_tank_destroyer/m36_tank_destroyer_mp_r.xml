@@ -1051,6 +1051,24 @@
 			<list name="standard_upgrades">
 			</list>
 		</template_reference>
+		<template_reference name="exts" value="ebpextensions\camouflage_ext">
+			<float name="attack_priority" value="25" />
+			<enum name="camouflage_type" value="tp_global" />
+			<bool name="chain_revealer" value="True" />
+			<float name="detection_radius" value="1" />
+			<bool name="must_be_fully_constructed" value="False" />
+			<bool name="permanently_activated" value="False" />
+			<float name="combat_reset_time" value="16" />
+			<float name="first_strike_shots" value="1" />
+			<float name="revert_max" value="30" />
+			<float name="revert_multiplier" value="2" />
+			<float name="revert_time" value="3" />
+			<float name="revert_time_on_detection" value="1" />
+			<list name="camouflage_actions">
+			</list>
+			<list name="first_strike_actions">
+			</list>
+		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="1073741981" />
 </instance>

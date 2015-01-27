@@ -184,7 +184,7 @@
 									<bool name="display_requirement" value="True" />
 									<float name="max_owned" value="10" />
 									<float name="min_owned" value="0" />
-									<instance_reference name="slot_item" value="slot_item\aef\small_arms\m1919a6_lmg_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+									<instance_reference name="slot_item" value="slot_item\aef\small_arms\m1919a6_lmg_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 								</template_reference>
 							</list>
 						</template_reference>
@@ -340,7 +340,7 @@
 								<bool name="display_requirement" value="True" />
 								<float name="max_owned" value="10" />
 								<float name="min_owned" value="1" />
-								<instance_reference name="slot_item" value="slot_item\aef\small_arms\m1919a6_lmg_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+								<instance_reference name="slot_item" value="slot_item\aef\small_arms\m1919a6_lmg_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 							</template_reference>
 							<template_reference name="requirement" value="requirements\required_slot_item">
 								<enum name="reason" value="usage" />

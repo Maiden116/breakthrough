@@ -33,7 +33,7 @@
 			<locstring name="extra_text" value="119" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<locstring name="help_text" value="120" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<string name="hotkey_name" value="F" />
-			<string name="icon_name" value="Icons_commander_portrait_oberkommand_west_commander_05" />
+			<string name="icon_name" value="ModIcons_82ae9fa5997e4dcdaac301f29d6d356d_ui_tankdoc" />
 			<bool name="reveal_for_decryption" value="True" />
 			<locstring name="screen_name" value="121" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<locstring name="brief_text" value="118" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
@@ -59,13 +59,6 @@
 								<float name="max_completed" value="100" />
 								<float name="min_completed" value="1" />
 								<instance_reference name="upgrade_name" value="upgrade\aef\doctrine\aef_airborne_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-							</template_reference>
-							<template_reference name="requirement" value="requirements\required_entity_upgrade">
-								<enum name="reason" value="usage" />
-								<locstring name="ui_name" value="0" />
-								<bool name="is_present" value="True" />
-								<instance_reference name="upgrade_name" value="upgrade\aef\doctrine\aef_artillery_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-								<bool name="include_queued" value="False" />
 							</template_reference>
 						</list>
 					</template_reference>

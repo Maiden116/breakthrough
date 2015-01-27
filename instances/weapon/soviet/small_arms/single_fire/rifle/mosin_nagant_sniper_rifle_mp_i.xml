@@ -514,7 +514,7 @@
 			<instance_reference name="projectile" value="" />
 		</group>
 		<group name="range">
-			<float name="max" value="50" />
+			<float name="max" value="65" />
 			<float name="min" value="0" />
 			<group name="distance">
 				<float name="near" value="10" />

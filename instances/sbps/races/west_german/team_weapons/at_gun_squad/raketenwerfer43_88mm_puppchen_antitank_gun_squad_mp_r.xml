@@ -654,6 +654,7 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\west_german\always_on_ability\raketen_in_cover_auto_camouflage_mp" />
+				<instance_reference name="ability" value="abilities\global\toggle_ability\at_gun_ambush_tactics" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_veterancy_ext">

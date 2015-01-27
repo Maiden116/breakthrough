@@ -323,11 +323,6 @@
 					<instance_reference name="squad" value="sbps\races\aef\soldiers\captain_squad\captain_squad_mp" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="12" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\team_weapons\m1_57mm_at_gun_squad\m1_57mm_at_gun_squad_mp" />
-				</group>
-				<group name="spawn_item">
 					<int name="ui_position" value="13" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\team_weapons\m1_75mm_pack_howitzer_squad\m1_75mm_pack_howitzer_squad_mp" />

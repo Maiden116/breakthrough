@@ -161,15 +161,15 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\ranger\at_squad_ranger_member_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\at_squad\at_squad_ranger_member_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="2" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\ranger\aef_at_member_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\at_squad\aef_at_member_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="loadout_data">
 					<float name="num" value="3" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\rifleman_soldier\rifleman_soldier_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\at_squad\at_squad_rifleman_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -909,6 +909,8 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_in_cover_auto_camouflage_mp" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\grenades\smoke_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">

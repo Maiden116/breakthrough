@@ -385,7 +385,7 @@
 			<list name="unit_list">
 				<group name="loadout_data">
 					<float name="num" value="1" />
-					<instance_reference name="type" value="ebps\races\west_german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="type" value="ebps\races\german\vehicles\king_tiger_sdkfz_182\king_tiger_sdkfz_182_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />

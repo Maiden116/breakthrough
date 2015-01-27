@@ -344,7 +344,6 @@
 			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
 				<instance_reference name="upgrade" value="upgrade\aef\doctrine\aef_airborne_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="upgrade" value="upgrade\aef\doctrine\aef_artillery_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="upgrade" value="upgrade\aef\doctrine\aef_tanks_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
@@ -404,17 +403,22 @@
 				<group name="spawn_item">
 					<int name="ui_position" value="11" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="12" />
 					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\aef\soldiers\rear_echelon_squad\rear_echelon_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="squad" value="sbps\races\aef\soldiers\riflemen_squad\riflemen_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="13" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_50cal_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="31" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\aef\vehicles\dodge_wc51_squad\dodge_wc51_ambulance_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">

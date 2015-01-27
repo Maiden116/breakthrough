@@ -340,7 +340,7 @@
 			<bool name="spawn_at_map_entry_point" value="True" />
 			<list name="spawn_items">
 				<group name="spawn_item">
-					<int name="ui_position" value="11" />
+					<int name="ui_position" value="12" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\soviet\vehicles\is-2\is-2_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
@@ -355,17 +355,12 @@
 					<instance_reference name="squad" value="sbps\races\soviet\vehicles\kv-2\kv-2_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="14" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\soviet\vehicles\t_34_squad\t_34_85_advanced_squad_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
 					<int name="ui_position" value="21" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\soviet\vehicles\t_34_squad\t_34_85_squad_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="22" />
+					<int name="ui_position" value="21" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\soviet\vehicles\su-85\su-85_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>

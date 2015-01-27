@@ -17,7 +17,6 @@
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
 				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
-				<instance_reference name="ability" value="abilities\pm\american\modal_ability\grenades\ranger_smoke_grenade_mp" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -36,7 +35,12 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\ignore_snow_effects_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073745100" />
+					<uniqueid name="id" value="1073745040" />
+				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073745152" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -515,7 +519,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745101" />
+						<uniqueid name="id" value="1073745041" />
 					</template_reference>
 				</list>
 			</group>
@@ -533,7 +537,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745102" />
+						<uniqueid name="id" value="1073745042" />
 					</template_reference>
 				</list>
 			</group>
@@ -551,7 +555,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745103" />
+						<uniqueid name="id" value="1073745043" />
 					</template_reference>
 				</list>
 			</group>
@@ -569,7 +573,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745104" />
+						<uniqueid name="id" value="1073745044" />
 					</template_reference>
 				</list>
 			</group>
@@ -587,7 +591,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745105" />
+						<uniqueid name="id" value="1073745045" />
 					</template_reference>
 				</list>
 			</group>
@@ -615,7 +619,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745106" />
+						<uniqueid name="id" value="1073745046" />
 					</template_reference>
 				</list>
 			</group>
@@ -647,7 +651,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745107" />
+						<uniqueid name="id" value="1073745047" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -665,7 +669,7 @@
 						<bool name="fire_and_forget" value="True" />
 						<bool name="is_terrain_only" value="False" />
 						<bool name="allies_only" value="False" />
-						<uniqueid name="id" value="1073745108" />
+						<uniqueid name="id" value="1073745048" />
 					</template_reference>
 				</list>
 				<group name="posture">
@@ -751,7 +755,7 @@
 							<float name="deceleration_multiplier" value="0.3" />
 							<float name="pathfinding_size_x" value="0" />
 							<float name="pathfinding_size_y" value="0" />
-							<uniqueid name="id" value="1073745109" />
+							<uniqueid name="id" value="1073745049" />
 						</template_reference>
 						<template_reference name="action" value="action\apply_modifiers_action">
 							<float name="duration" value="1" />
@@ -767,10 +771,10 @@
 									<instance_reference name="tooltip" value="modifier_tooltip\speed_maximum_modifier" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073745110" />
+							<uniqueid name="id" value="1073745050" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073745111" />
+					<uniqueid name="id" value="1073745051" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -787,13 +791,30 @@
 			<bool name="must_be_in_supply" value="False" />
 			<float name="number_of_standard_slots" value="1" />
 			<list name="standard_upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\aef_at_squad_bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\upgrade_apply_ext">
 			<list name="upgrade_table">
 			</list>
 		</template_reference>
+		<template_reference name="exts" value="ebpextensions\camouflage_ext">
+			<float name="attack_priority" value="25" />
+			<enum name="camouflage_type" value="tp_global" />
+			<bool name="chain_revealer" value="True" />
+			<float name="detection_radius" value="1" />
+			<bool name="must_be_fully_constructed" value="False" />
+			<bool name="permanently_activated" value="False" />
+			<float name="combat_reset_time" value="16" />
+			<float name="first_strike_shots" value="1" />
+			<float name="revert_max" value="30" />
+			<float name="revert_multiplier" value="2" />
+			<float name="revert_time" value="3" />
+			<float name="revert_time_on_detection" value="1" />
+			<list name="camouflage_actions">
+			</list>
+			<list name="first_strike_actions">
+			</list>
+		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1073741940" />
+	<uniqueid name="pbgid" value="1073741939" />
 </instance>

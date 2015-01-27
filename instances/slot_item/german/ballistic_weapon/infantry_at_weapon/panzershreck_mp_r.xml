@@ -3,7 +3,7 @@
 		<bool name="always_pick_up" value="False" />
 		<bool name="can_stack" value="False" />
 		<float name="can_stack_max" value="1" />
-		<instance_reference name="drop_item_entity" value="ebps\gameplay\props\axis_panzerschreck_item_mp" />
+		<instance_reference name="drop_item_entity" value="ebps\gameplay\props\axis_panzerschreck_item_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 		<float name="drop_rate" value="0.33" />
 		<float name="hardpoint" value="1" />
 		<bool name="has_speech_code" value="True" />
