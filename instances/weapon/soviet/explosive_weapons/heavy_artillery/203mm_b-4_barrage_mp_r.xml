@@ -43,7 +43,7 @@
 				<float name="angle_left" value="0" />
 				<float name="angle_right" value="0" />
 				<enum name="area_type" value="circle" />
-				<float name="radius" value="9" />
+				<float name="radius" value="10" />
 			</group>
 			<group name="damage">
 				<float name="far" value="0.1" />
@@ -56,9 +56,9 @@
 				<float name="mid" value="0.075" />
 			</group>
 			<group name="distance">
-				<float name="far" value="4.5" />
-				<float name="near" value="2.25" />
-				<float name="mid" value="3.375" />
+				<float name="far" value="5" />
+				<float name="near" value="2" />
+				<float name="mid" value="4" />
 			</group>
 			<bool name="has_friendly_fire" value="True" />
 			<bool name="can_harm_shooter" value="False" />
@@ -74,9 +74,9 @@
 			</group>
 			<bool name="damage_all_in_hold" value="True" />
 			<template_reference name="aoe_penetration" value="tables\range_table">
-				<float name="far" value="75" />
-				<float name="mid" value="75" />
-				<float name="near" value="75" />
+				<float name="far" value="500" />
+				<float name="mid" value="1000" />
+				<float name="near" value="1500" />
 			</template_reference>
 			<group name="building_damage">
 				<float name="near" value="1.0023" />
@@ -441,9 +441,9 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="ui_setfacing\weapon_artillery" />
 		<group name="penetration">
-			<float name="near" value="75" />
-			<float name="far" value="75" />
-			<float name="mid" value="75" />
+			<float name="near" value="1700" />
+			<float name="far" value="1700" />
+			<float name="mid" value="1700" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />

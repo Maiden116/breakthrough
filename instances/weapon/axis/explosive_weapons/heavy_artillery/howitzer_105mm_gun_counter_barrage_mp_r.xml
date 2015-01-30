@@ -56,9 +56,9 @@
 				<float name="mid" value="0.075" />
 			</group>
 			<group name="distance">
-				<float name="far" value="5.625" />
-				<float name="near" value="1.875" />
-				<float name="mid" value="3.75" />
+				<float name="far" value="6" />
+				<float name="near" value="2" />
+				<float name="mid" value="4" />
 			</group>
 			<bool name="has_friendly_fire" value="True" />
 			<bool name="can_harm_shooter" value="False" />
@@ -74,8 +74,8 @@
 			</group>
 			<bool name="damage_all_in_hold" value="True" />
 			<template_reference name="aoe_penetration" value="tables\range_table">
-				<float name="far" value="607.5" />
-				<float name="mid" value="675" />
+				<float name="far" value="200" />
+				<float name="mid" value="400" />
 				<float name="near" value="750" />
 			</template_reference>
 			<group name="building_damage">
@@ -269,8 +269,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="400" />
-			<float name="min" value="400" />
+			<float name="max" value="500" />
+			<float name="min" value="500" />
 			<list name="on_penetrated_actions">
 			</list>
 		</group>
@@ -428,9 +428,9 @@
 		<instance_reference name="ui_range" value="ui_reticule\ability_range_katyusha" />
 		<instance_reference name="ui_setfacing" value="ui_setfacing\weapon_artillery" />
 		<group name="penetration">
-			<float name="near" value="1000" />
-			<float name="far" value="1000" />
-			<float name="mid" value="1000" />
+			<float name="near" value="900" />
+			<float name="far" value="900" />
+			<float name="mid" value="900" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />

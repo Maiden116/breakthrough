@@ -155,7 +155,7 @@
 			<float name="death_seconds" value="1.8" />
 			<bool name="delete_when_dead" value="True" />
 			<bool name="force_attacker_memory" value="False" />
-			<float name="hitpoints" value="2000" />
+			<float name="hitpoints" value="2200" />
 			<bool name="is_invincible" value="False" />
 			<bool name="is_salvagable_wreck" value="False" />
 			<bool name="keep_wreck_ownership" value="False" />
@@ -173,7 +173,7 @@
 			<list name="death_actions">
 			</list>
 			<float name="armor" value="1200" />
-			<float name="rear_armor" value="400" />
+			<float name="rear_armor" value="500" />
 			<float name="target_size" value="26" />
 			<bool name="dies_from_broken_ice" value="True" />
 			<list name="criticals">
