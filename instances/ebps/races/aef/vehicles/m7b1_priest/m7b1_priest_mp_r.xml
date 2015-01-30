@@ -435,7 +435,7 @@
 								<float name="z" value="-0.561" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\heavy_artillery\m7b1_priest_m2a1_105mm_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\heavy_artillery\m7b1_priest_m2a1_105mm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -477,7 +477,7 @@
 								<float name="z" value="-0.561" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\heavy_artillery\m7b1_priest_m2a1_105mm_creeping_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\heavy_artillery\m7b1_priest_m2a1_105mm_creeping_barrage_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -498,7 +498,7 @@
 								<float name="z" value="-0.561" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\heavy_artillery\m7b1_priest_m2a1_105mm_victor_target_mp" />
+							<instance_reference name="weapon" value="weapon\aef\explosive_weapons\heavy_artillery\m7b1_priest_m2a1_105mm_victor_target_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

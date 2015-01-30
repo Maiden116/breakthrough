@@ -332,7 +332,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\light_artillery\le_ig_18_howitzer_75mm_mp" />
+							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\light_artillery\le_ig_18_howitzer_75mm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -353,7 +353,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\light_artillery\le_ig_18_howitzer_75mm_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\light_artillery\le_ig_18_howitzer_75mm_barrage_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -374,7 +374,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\heavy_artillery\le_ig_18_howitzer_75mm_hollow_charge_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\heavy_artillery\le_ig_18_howitzer_75mm_hollow_charge_barrage_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

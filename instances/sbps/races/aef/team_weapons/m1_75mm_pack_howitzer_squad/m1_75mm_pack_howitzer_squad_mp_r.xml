@@ -630,13 +630,13 @@
 																<float name="z" value="0" />
 															</group>
 															<enum name="type" value="default" />
-															<instance_reference name="weapon" value="weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_heat_mp" />
+															<instance_reference name="weapon" value="weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_heat_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 														</group>
 														<uniqueid name="id" value="1073748035" />
 													</template_reference>
 													<template_reference name="action" value="action\change_weapon">
 														<float name="hardpoint" value="1" />
-														<instance_reference name="weapon" value="weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_heat_mp" />
+														<instance_reference name="weapon" value="weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_heat_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 														<uniqueid name="id" value="1073748036" />
 													</template_reference>
 													<template_reference name="action" value="action\remove_weapon">
@@ -659,13 +659,13 @@
 																<float name="z" value="0" />
 															</group>
 															<enum name="type" value="default" />
-															<instance_reference name="weapon" value="weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_heat_mp" />
+															<instance_reference name="weapon" value="weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_heat_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 														</group>
 														<uniqueid name="id" value="1073748038" />
 													</template_reference>
 													<template_reference name="action" value="action\change_weapon">
 														<float name="hardpoint" value="2" />
-														<instance_reference name="weapon" value="weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_heat_mp" />
+														<instance_reference name="weapon" value="weapon\aef\explosive_weapons\light_artillery\pack_howitzer_75mm_barrage_heat_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 														<uniqueid name="id" value="1073748039" />
 													</template_reference>
 												</list>

@@ -545,7 +545,7 @@
 								<float name="z" value="0.6" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\heavy_artillery\walking_stuka_rockets_nofire_mp" />
+							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\heavy_artillery\walking_stuka_rockets_nofire_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="True" />
@@ -587,7 +587,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="squad" />
-							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\heavy_artillery\walking_stuka_rockets_mp" />
+							<instance_reference name="weapon" value="weapon\west_german\explosive_weapons\heavy_artillery\walking_stuka_rockets_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

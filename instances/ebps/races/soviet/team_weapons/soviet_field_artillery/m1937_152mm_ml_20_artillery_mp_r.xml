@@ -277,7 +277,7 @@
 								<float name="z" value="-0.31433" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_disabled_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_disabled_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -298,7 +298,7 @@
 								<float name="z" value="-0.31433" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -319,7 +319,7 @@
 								<float name="z" value="-0.31433" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_precision_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_precision_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -340,7 +340,7 @@
 								<float name="z" value="-0.31433" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_vet3_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_vet3_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />
@@ -361,7 +361,7 @@
 								<float name="z" value="-0.31433" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_victortarget_mp" />
+							<instance_reference name="weapon" value="weapon\soviet\explosive_weapons\heavy_artillery\152mm_m-30_victortarget_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

@@ -503,11 +503,6 @@
 					<instance_reference name="squad" value="sbps\races\german\vehicles\ostwind_squad\ostwind_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
-					<int name="ui_position" value="12" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\german\vehicles\panzer_iv_squad\panzer_iv_command_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
 					<int name="ui_position" value="11" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\german\vehicles\panzer_iv_squad\panzer_iv_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
@@ -516,11 +511,6 @@
 					<int name="ui_position" value="13" />
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\german\vehicles\panzer_iv_squad\panzer_iv_stubby_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				</group>
-				<group name="spawn_item">
-					<int name="ui_position" value="14" />
-					<instance_reference name="entity" value="" />
-					<instance_reference name="squad" value="sbps\races\german\vehicles\stug_iii_squad\stug_iii_e_commander_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 				<group name="spawn_item">
 					<int name="ui_position" value="21" />
