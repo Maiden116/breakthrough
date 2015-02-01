@@ -35,15 +35,15 @@
 		</group>
 		<group name="area_effect">
 			<group name="accuracy">
-				<float name="far" value="0.6" />
+				<float name="far" value="1" />
 				<float name="near" value="5" />
-				<float name="mid" value="2.8" />
+				<float name="mid" value="3" />
 			</group>
 			<group name="area_info">
 				<float name="angle_left" value="0" />
 				<float name="angle_right" value="0" />
 				<enum name="area_type" value="circle" />
-				<float name="radius" value="0" />
+				<float name="radius" value="2" />
 			</group>
 			<group name="damage">
 				<float name="far" value="0.25" />
@@ -56,16 +56,16 @@
 				<float name="mid" value="0.625" />
 			</group>
 			<group name="distance">
-				<float name="far" value="0" />
-				<float name="near" value="0" />
-				<float name="mid" value="0" />
+				<float name="far" value="3" />
+				<float name="near" value="1" />
+				<float name="mid" value="2" />
 			</group>
 			<bool name="has_friendly_fire" value="False" />
 			<bool name="can_harm_shooter" value="False" />
 			<group name="suppression">
-				<float name="far" value="0" />
-				<float name="near" value="0" />
-				<float name="mid" value="0" />
+				<float name="far" value="1" />
+				<float name="near" value="1" />
+				<float name="mid" value="1" />
 			</group>
 			<group name="suppression_friendly">
 				<float name="far" value="0" />

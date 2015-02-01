@@ -160,7 +160,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="6" />
+					<float name="num" value="5" />
 					<instance_reference name="type" value="ebps\races\aef\soldiers\paratrooper\paratrooper_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
@@ -170,6 +170,7 @@
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_apply_ext">
 			<list name="upgrades">
+				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
@@ -654,57 +655,17 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_paradrop_ext">
 			<float name="spawn_time_scatter" value="2" />
 		</template_reference>
-		<template_reference name="squadexts" value="sbpextensions\squad_engineer_ext">
-			<float name="construction_rate_multiplier" value="1" />
-			<list name="in_construction_actions">
-				<template_reference name="action" value="action\apply_modifiers_action">
-					<float name="duration" value="0" />
-					<bool name="permanent" value="False" />
-					<list name="modifiers">
-						<template_reference name="modifier" value="modifiers\received_accuracy_modifier">
-							<enum name="application_type" value="apply_to_entity" />
-							<bool name="exclusive" value="False" />
-							<string name="modifier_id" value="" />
-							<string name="target_type_name" value="" />
-							<enum name="usage_type" value="multiplication" />
-							<float name="value" value="2" />
-							<instance_reference name="tooltip" value="modifier_tooltip\received_accuracy_modifier" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073742922" />
-				</template_reference>
-			</list>
-			<list name="construction_groups">
-				<group name="construction_group">
-					<instance_reference name="construction_menu" value="construction_menu\basic_infantry" />
-					<list name="construction_items">
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />
-							<int name="ui_position" value="11" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="" />
-							<int name="ui_position" value="0" />
-						</group>
-						<group name="construction_item">
-							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\aef_mine_mp" />
-							<int name="ui_position" value="13" />
-						</group>
-					</list>
-					<enum name="construction_type" value="tp_construction_soviet_engineer_basic" />
-				</group>
-			</list>
-		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\grenades\cooked_mk2_fragmentation_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\paratrooper_suppressing_fire_ability_mp" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\paratrooper_assault_move_test_mp" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\refuel_tank_sp" />
 				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrop_machine_gun_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrop_mortar_gun_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrops_anti_tank_gun_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrops_howitzer_gun_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\aef\doctrine\airborne\combat_paratroopers_paradrop_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\aef\modal_ability\pathfinder_plant_beacon" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_veterancy_ext">

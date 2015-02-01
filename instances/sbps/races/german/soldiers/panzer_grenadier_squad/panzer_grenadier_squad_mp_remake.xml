@@ -217,10 +217,10 @@
 							<bool name="apply_to_entities_in_squad" value="False" />
 							<bool name="trigger_publish_event" value="False" />
 							<instance_reference name="upgrade" value="upgrade\global\carrying_at_weapon_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-							<uniqueid name="id" value="1073748737" />
+							<uniqueid name="id" value="1073748785" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073748738" />
+					<uniqueid name="id" value="1073748786" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />

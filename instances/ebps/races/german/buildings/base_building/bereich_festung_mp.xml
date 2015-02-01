@@ -556,6 +556,11 @@
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\german\soldiers\panzer_grenadier_squad\urban_assault_panzer_grenadier_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="11" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\german\soldiers\panzer_grenadier_squad\urban_assault_panzer_grenadier_squad_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">
 			</list>

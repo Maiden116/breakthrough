@@ -74,9 +74,9 @@
 			</group>
 			<bool name="damage_all_in_hold" value="True" />
 			<template_reference name="aoe_penetration" value="tables\range_table">
-				<float name="far" value="607.5" />
-				<float name="mid" value="675" />
-				<float name="near" value="750" />
+				<float name="far" value="400" />
+				<float name="mid" value="750" />
+				<float name="near" value="1200" />
 			</template_reference>
 			<group name="building_damage">
 				<float name="near" value="1.0023" />

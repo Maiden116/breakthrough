@@ -46,9 +46,9 @@
 				<float name="radius" value="6" />
 			</group>
 			<group name="damage">
-				<float name="far" value="0.05" />
+				<float name="far" value="0.1" />
 				<float name="near" value="1" />
-				<float name="mid" value="0.15" />
+				<float name="mid" value="0.5" />
 			</group>
 			<group name="damage_friendly">
 				<float name="far" value="0.025" />
@@ -74,9 +74,9 @@
 			</group>
 			<bool name="damage_all_in_hold" value="True" />
 			<template_reference name="aoe_penetration" value="tables\range_table">
-				<float name="far" value="255.15" />
-				<float name="mid" value="283.5" />
-				<float name="near" value="315" />
+				<float name="far" value="300" />
+				<float name="mid" value="600" />
+				<float name="near" value="1200" />
 			</template_reference>
 			<group name="building_damage">
 				<float name="near" value="1" />
@@ -269,8 +269,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="80" />
-			<float name="min" value="80" />
+			<float name="max" value="600" />
+			<float name="min" value="600" />
 			<list name="on_penetrated_actions">
 			</list>
 		</group>
@@ -428,9 +428,9 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
-			<float name="near" value="420" />
-			<float name="far" value="340" />
-			<float name="mid" value="380" />
+			<float name="near" value="1600" />
+			<float name="far" value="1600" />
+			<float name="mid" value="1600" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />

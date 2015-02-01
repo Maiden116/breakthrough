@@ -160,8 +160,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="6" />
-					<instance_reference name="type" value="ebps\races\aef\soldiers\paratrooper\paratrooper_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<float name="num" value="7" />
+					<instance_reference name="type" value="ebps\races\aef\soldiers\paratrooper\paratrooper_combat_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
 			<float name="squad_female_chance" value="0" />
@@ -175,9 +175,6 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
 			<float name="number_of_slots" value="-1" />
 			<list name="upgrades">
-				<instance_reference name="upgrade" value="upgrade\aef\items\paratrooper_thompson_sub_machine_gun_upgrade_mp" />
-				<instance_reference name="upgrade" value="upgrade\aef\items\paratrooper_m1919a6_lmg_mp" />
-				<instance_reference name="upgrade" value="upgrade\pm\american\specializations\troop_support\troop_support_medics_upg" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_combat_behaviour_ext">
@@ -735,6 +732,11 @@
 					<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 					<bool name="permanent" value="True" />
 					<uniqueid name="id" value="1073743586" />
+				</template_reference>
+				<template_reference name="action" value="action\slot_item_add">
+					<instance_reference name="slot_item" value="slot_item\aef\ballistic_weapon\infantry_at_weapon\bazooka_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<bool name="permanent" value="True" />
+					<uniqueid name="id" value="1073748850" />
 				</template_reference>
 			</list>
 		</template_reference>

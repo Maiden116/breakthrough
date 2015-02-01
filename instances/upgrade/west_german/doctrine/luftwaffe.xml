@@ -31,9 +31,9 @@
 		<int name="ui_position" value="0" />
 		<group name="ui_info">
 			<locstring name="extra_text" value="93" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-			<locstring name="help_text" value="94" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+			<locstring name="help_text" value="0" />
 			<string name="hotkey_name" value="F" />
-			<string name="icon_name" value="ModIcons_82ae9fa5997e4dcdaac301f29d6d356d_ui_luft" />
+			<string name="icon_name" value="ModIcons_82ae9fa5997e4dcdaac301f29d6d356d_ui_docicons_wgluft" />
 			<bool name="reveal_for_decryption" value="True" />
 			<locstring name="screen_name" value="100" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<locstring name="brief_text" value="92" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
