@@ -1004,7 +1004,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\west_german\always_on_ability\fallschrimjaeger_camo" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\west_gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\west_german\doctrine\fallschin_drop_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\fallschin_drop_re" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\prone_ability_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\deploy_at_weapon_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>

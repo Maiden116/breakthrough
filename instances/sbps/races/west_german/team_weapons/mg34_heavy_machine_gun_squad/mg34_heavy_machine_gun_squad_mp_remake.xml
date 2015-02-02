@@ -1116,7 +1116,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" />
 				<instance_reference name="ability" value="abilities\german\toggle_ability\commander_ability\ambush_camo_hold_fire_mp" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" />
+				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\german\timed_ability\stormtrooper_sprint_mp" />
 			</list>
 		</template_reference>

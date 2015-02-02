@@ -15,7 +15,7 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\panzer_defensive_smoke" />
+				<instance_reference name="ability" value="abilities\german\doctrine\tanks\panzer_defensive_smoke_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_disable" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\accessory_weapons\elefant_critical_shots_mp" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_vehicle" />
