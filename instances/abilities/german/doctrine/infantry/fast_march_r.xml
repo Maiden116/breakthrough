@@ -169,7 +169,7 @@
 			<float name="command" value="0" />
 			<float name="fuel" value="0" />
 			<float name="manpower" value="0" />
-			<float name="munition" value="40" />
+			<float name="munition" value="0" />
 			<float name="popcap" value="0" />
 		</group>
 		<string name="cursor_ghost_blueprint" value="" />
@@ -265,7 +265,7 @@
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_none" />
-		<int name="ui_position" value="40" />
+		<int name="ui_position" value="30" />
 		<bool name="ui_mini_map_capture" value="False" />
 		<bool name="facing_ignore_during_active" value="False" />
 		<instance_reference name="ui_range" value="" />
