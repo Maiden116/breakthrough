@@ -732,7 +732,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.6" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_incendiary_barrage_mp" />
+												<instance_reference name="target_type_name" value="abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_incendiary_barrage_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 										</list>
 										<uniqueid name="id" value="1073744184" />
@@ -795,7 +795,7 @@
 												<enum name="application_type" value="apply_to_ability" />
 												<bool name="exclusive" value="False" />
 												<string name="modifier_id" value="" />
-												<instance_reference name="target_type_name" value="abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_incendiary_barrage_mp" />
+												<instance_reference name="target_type_name" value="abilities\german\modal_ability\artillery\mortar_barrage_ability\mortar_team_incendiary_barrage_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="1.33" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />

@@ -523,8 +523,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp" />
-				<instance_reference name="ability" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\timed_ability\commander_ability\vehicle_emergency_repair_ability_mp" />
 			</list>
 		</template_reference>
@@ -557,7 +557,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.9" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 											<template_reference name="modifier" value="modifiers\ability_recharge_time_modifier">
 												<enum name="application_type" value="apply_to_ability" />
@@ -566,7 +566,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.9" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 										</list>
 										<uniqueid name="id" value="1073745647" />
@@ -610,7 +610,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.7" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 											<template_reference name="modifier" value="modifiers\ability_recharge_time_modifier">
 												<enum name="application_type" value="apply_to_ability" />
@@ -619,7 +619,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.7" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 										</list>
 										<uniqueid name="id" value="1073745649" />
@@ -660,7 +660,7 @@
 												<enum name="application_type" value="apply_to_ability" />
 												<bool name="exclusive" value="False" />
 												<string name="modifier_id" value="" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="1.33" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
@@ -669,7 +669,7 @@
 												<enum name="application_type" value="apply_to_ability" />
 												<bool name="exclusive" value="False" />
 												<string name="modifier_id" value="" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="1.33" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
@@ -726,7 +726,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.9" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 											<template_reference name="modifier" value="modifiers\ability_recharge_time_modifier">
 												<enum name="application_type" value="apply_to_ability" />
@@ -735,7 +735,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.9" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 										</list>
 										<uniqueid name="id" value="1073745653" />
@@ -779,7 +779,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.7" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 											<template_reference name="modifier" value="modifiers\ability_recharge_time_modifier">
 												<enum name="application_type" value="apply_to_ability" />
@@ -788,7 +788,7 @@
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="0.7" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_recharge_time_modifier" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											</template_reference>
 										</list>
 										<uniqueid name="id" value="1073745655" />
@@ -829,7 +829,7 @@
 												<enum name="application_type" value="apply_to_ability" />
 												<bool name="exclusive" value="False" />
 												<string name="modifier_id" value="" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="1.33" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />
@@ -838,7 +838,7 @@
 												<enum name="application_type" value="apply_to_ability" />
 												<bool name="exclusive" value="False" />
 												<string name="modifier_id" value="" />
-												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp" />
+												<instance_reference name="target_type_name" value="abilities\west_german\modal_ability\artillery\artillery_barrage_ability\walking_stuka_rocket_barrage_creeping_napalm_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 												<enum name="usage_type" value="multiplication" />
 												<float name="value" value="1.33" />
 												<instance_reference name="tooltip" value="modifier_tooltip\ability_max_range_modifier" />

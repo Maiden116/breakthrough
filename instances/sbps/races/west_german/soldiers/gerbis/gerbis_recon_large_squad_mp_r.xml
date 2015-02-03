@@ -189,6 +189,7 @@
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\light_infantry_package" />
 				<instance_reference name="upgrade" value="upgrade\german\commander\ability\ambush_camou_package" />
+				<instance_reference name="upgrade" value="upgrade\west_german\items\mg34_lmg_west_german_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
@@ -667,6 +668,7 @@
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\infiltration_tactics_grenade" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\west_gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\smoke_grenade_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\soviet\modal_ability\accessory_weapons\panzerfaust_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">

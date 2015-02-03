@@ -133,8 +133,6 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\west_german\toggle_ability\building_self_destruct" />
-				<instance_reference name="ability" value="abilities\west_german\toggle_ability\building_switch_fuel" />
-				<instance_reference name="ability" value="abilities\west_german\toggle_ability\building_switch_munitions" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\construction_ext">
