@@ -7,17 +7,17 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="0" />
+						<locstring name="extra_text" value="263" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="0" />
+						<locstring name="help_text" value="264" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="R" />
 						<string name="icon_name" value="Icons_units_unit_soviet_mortar" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="Icons_minimap_unit_mortar" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="0" />
-						<string name="selection_group" value="mortar" />
+						<locstring name="screen_name" value="260" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Granatwerfer 42 12cm Heavy Mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="gs" />
 							<string name="code_2" value="" />
@@ -49,8 +49,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_soviet_mortar_crew_s_portrait" />
 						<float name="minimap_texture_scale" value="0.75" />
-						<locstring name="brief_text" value="0" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="262" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="261" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -63,17 +63,17 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="0" />
+						<locstring name="extra_text" value="268" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="0" />
+						<locstring name="help_text" value="269" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="R" />
 						<string name="icon_name" value="Icons_units_unit_german_granatwerfer_34_mortar" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="Icons_minimap_unit_mortar" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="0" />
-						<string name="selection_group" value="mortar" />
+						<locstring name="screen_name" value="265" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Granatwerfer 42 12cm Heavy Mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="xs" />
 							<string name="code_2" value="" />
@@ -105,8 +105,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_german_mortar_crew_s_portrait" />
 						<float name="minimap_texture_scale" value="0.75" />
-						<locstring name="brief_text" value="0" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="267" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="266" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -119,17 +119,17 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="0" />
+						<locstring name="extra_text" value="273" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="0" />
+						<locstring name="help_text" value="274" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="R" />
 						<string name="icon_name" value="Icons_units_unit_soviet_mortar" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="Icons_minimap_unit_mortar" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="0" />
-						<string name="selection_group" value="mortar" />
+						<locstring name="screen_name" value="270" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Granatwerfer 42 12cm Heavy Mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="wi" />
 							<string name="code_2" value="" />
@@ -161,8 +161,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_aef_mortar_crew_s_portrait" />
 						<float name="minimap_texture_scale" value="0.75" />
-						<locstring name="brief_text" value="0" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="272" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="271" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -175,17 +175,17 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="0" />
+						<locstring name="extra_text" value="278" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="0" />
+						<locstring name="help_text" value="279" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="R" />
 						<string name="icon_name" value="Icons_units_unit_german_granatwerfer_34_mortar" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="Icons_minimap_unit_mortar" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="0" />
-						<string name="selection_group" value="mortar" />
+						<locstring name="screen_name" value="276" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Granatwerfer 42 12cm Heavy Mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="wp" />
 							<string name="code_2" value="" />
@@ -217,8 +217,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_german_mortar_crew_s_portrait" />
 						<float name="minimap_texture_scale" value="0.75" />
-						<locstring name="brief_text" value="0" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="277" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="275" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -231,17 +231,17 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="0" />
+						<locstring name="extra_text" value="283" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="0" />
+						<locstring name="help_text" value="284" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="R" />
 						<string name="icon_name" value="Icons_units_unit_soviet_mortar" />
 						<bool name="minimap_team_only" value="False" />
 						<string name="minimap_texture" value="Icons_minimap_unit_mortar" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="0" />
-						<string name="selection_group" value="mortar" />
+						<locstring name="screen_name" value="281" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Granatwerfer 42 12cm Heavy Mortar" />
 						<group name="speaker_generic">
 							<string name="code_1" value="gs" />
 							<string name="code_2" value="" />
@@ -273,8 +273,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_soviet_mortar_crew_s_portrait" />
 						<float name="minimap_texture_scale" value="0.75" />
-						<locstring name="brief_text" value="0" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="282" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="280" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />

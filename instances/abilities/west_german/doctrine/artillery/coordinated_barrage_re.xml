@@ -162,11 +162,12 @@
 					<float name="popcap" value="0" />
 				</template_reference>
 			</template_reference>
-			<template_reference name="required" value="requirements\required_squad_upgrade">
+			<template_reference name="required" value="requirements\required_player_upgrade">
 				<enum name="reason" value="usage" />
 				<locstring name="ui_name" value="0" />
-				<bool name="include_queued" value="False" />
 				<bool name="is_present" value="True" />
+				<float name="max_completed" value="100" />
+				<float name="min_completed" value="1" />
 				<instance_reference name="upgrade_name" value="upgrade\west_german\doctrine\artillery" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</template_reference>
 		</list>
