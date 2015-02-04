@@ -9,7 +9,7 @@
 						<bool name="allow_spawner_production" value="False" />
 						<locstring name="extra_text" value="11009089" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11008216" />
+						<locstring name="help_text" value="370" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="S" />
 						<string name="icon_name" value="Icons_upgrades_icon_upgrade_german_222_dualbarrel" />
 						<bool name="minimap_team_only" value="False" />
@@ -49,7 +49,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_222_scout_car_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038761" />
+						<locstring name="brief_text" value="369" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<locstring name="screen_name_short" value="216" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
@@ -65,7 +65,7 @@
 						<bool name="allow_spawner_production" value="False" />
 						<locstring name="extra_text" value="11009089" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11008216" />
+						<locstring name="help_text" value="372" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="S" />
 						<string name="icon_name" value="Icons_upgrades_icon_upgrade_german_222_dualbarrel" />
 						<bool name="minimap_team_only" value="False" />
@@ -105,7 +105,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_222_scout_car_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038761" />
+						<locstring name="brief_text" value="371" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<locstring name="screen_name_short" value="218" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
@@ -121,7 +121,7 @@
 						<bool name="allow_spawner_production" value="False" />
 						<locstring name="extra_text" value="11009089" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11008216" />
+						<locstring name="help_text" value="374" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="S" />
 						<string name="icon_name" value="Icons_upgrades_icon_upgrade_german_222_dualbarrel" />
 						<bool name="minimap_team_only" value="False" />
@@ -161,7 +161,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_222_scout_car_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038761" />
+						<locstring name="brief_text" value="373" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<locstring name="screen_name_short" value="220" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
@@ -177,7 +177,7 @@
 						<bool name="allow_spawner_production" value="False" />
 						<locstring name="extra_text" value="11009089" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11008216" />
+						<locstring name="help_text" value="376" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="S" />
 						<string name="icon_name" value="Icons_upgrades_icon_upgrade_german_222_dualbarrel" />
 						<bool name="minimap_team_only" value="False" />
@@ -217,7 +217,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_222_scout_car_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038761" />
+						<locstring name="brief_text" value="375" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<locstring name="screen_name_short" value="222" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
@@ -233,7 +233,7 @@
 						<bool name="allow_spawner_production" value="False" />
 						<locstring name="extra_text" value="11009089" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11008216" />
+						<locstring name="help_text" value="378" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="S" />
 						<string name="icon_name" value="Icons_upgrades_icon_upgrade_german_222_dualbarrel" />
 						<bool name="minimap_team_only" value="False" />
@@ -273,7 +273,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_222_scout_car_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038761" />
+						<locstring name="brief_text" value="377" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<locstring name="screen_name_short" value="224" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />

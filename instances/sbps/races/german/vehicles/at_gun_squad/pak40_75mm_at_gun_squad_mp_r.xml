@@ -388,7 +388,7 @@
 					<instance_reference name="type" value="ebps\races\german\team_weapons\at_gun\pak40_75mm_at_gun_mp" />
 				</group>
 				<group name="loadout_data">
-					<float name="num" value="4" />
+					<float name="num" value="5" />
 					<instance_reference name="type" value="ebps\races\german\soldiers\weapon_crew\atgun_crew_mp" />
 				</group>
 			</list>

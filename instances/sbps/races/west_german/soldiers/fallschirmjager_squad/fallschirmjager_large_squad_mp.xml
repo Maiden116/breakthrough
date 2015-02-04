@@ -1007,6 +1007,7 @@
 				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\fallschin_drop_re" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\prone_ability_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\deploy_at_weapon_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\blendkorper_2h_waffen_elite_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">

@@ -124,6 +124,8 @@
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\west_german\always_on_ability\dispatch_ability\sws_halftrack_interval_dispatch" />
+				<instance_reference name="ability" value="abilities\west_german\toggle_ability\building_switch_munitions" />
+				<instance_reference name="ability" value="abilities\west_german\toggle_ability\building_switch_fuel" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\construction_ext">

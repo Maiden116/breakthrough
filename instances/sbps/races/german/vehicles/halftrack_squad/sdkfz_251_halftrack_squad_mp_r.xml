@@ -7,7 +7,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11010405" />
+						<locstring name="extra_text" value="382" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11007018" />
 						<string name="hotkey_name" value="H" />
@@ -16,8 +16,8 @@
 						<string name="minimap_texture" value="Icons_minimap_unit_scout_car" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11007036" />
-						<string name="selection_group" value="sdkfz251halftrack" />
+						<locstring name="screen_name" value="379" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Sdkfz 251/1 Transpoft Half-Track" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -49,8 +49,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_251_halftrack_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038777" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="381" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="380" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -63,7 +63,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11010405" />
+						<locstring name="extra_text" value="386" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11007018" />
 						<string name="hotkey_name" value="H" />
@@ -72,8 +72,8 @@
 						<string name="minimap_texture" value="Icons_minimap_unit_scout_car" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11007036" />
-						<string name="selection_group" value="sdkfz251halftrack" />
+						<locstring name="screen_name" value="383" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Sdkfz 251/1 Transpoft Half-Track" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -105,8 +105,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_251_halftrack_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038777" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="385" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="384" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -119,7 +119,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11010405" />
+						<locstring name="extra_text" value="390" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11007018" />
 						<string name="hotkey_name" value="H" />
@@ -128,8 +128,8 @@
 						<string name="minimap_texture" value="Icons_minimap_unit_scout_car" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11007036" />
-						<string name="selection_group" value="sdkfz251halftrack" />
+						<locstring name="screen_name" value="388" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Sdkfz 251/1 Transpoft Half-Track" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -161,8 +161,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_251_halftrack_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038776" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="389" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="387" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -175,7 +175,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11010405" />
+						<locstring name="extra_text" value="394" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11007018" />
 						<string name="hotkey_name" value="H" />
@@ -184,8 +184,8 @@
 						<string name="minimap_texture" value="Icons_minimap_unit_scout_car" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11007036" />
-						<string name="selection_group" value="sdkfz251halftrack" />
+						<locstring name="screen_name" value="392" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Sdkfz 251/1 Transpoft Half-Track" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -217,8 +217,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_251_halftrack_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038776" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="393" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="391" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -231,7 +231,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11010405" />
+						<locstring name="extra_text" value="398" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11007018" />
 						<string name="hotkey_name" value="H" />
@@ -240,8 +240,8 @@
 						<string name="minimap_texture" value="Icons_minimap_unit_scout_car" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11007036" />
-						<string name="selection_group" value="sdkfz251halftrack" />
+						<locstring name="screen_name" value="395" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Sdkfz 251/1 Transpoft Half-Track" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -273,8 +273,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_german_251_halftrack_s_portrait" />
 						<float name="minimap_texture_scale" value="0.65" />
-						<locstring name="brief_text" value="11038777" />
-						<locstring name="screen_name_short" value="0" />
+						<locstring name="brief_text" value="397" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="396" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="heading" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />

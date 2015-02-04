@@ -348,7 +348,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\axis\flame_throwers\mortar\grw34_81mm_incendiary_mortar_barrage_mp" />
+							<instance_reference name="weapon" value="weapon\axis\flame_throwers\mortar\grw34_81mm_incendiary_mortar_barrage_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

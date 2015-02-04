@@ -89,7 +89,7 @@
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="11051219" />
+			<locstring name="extra_text" value="360" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<locstring name="help_text" value="11050948" />
 			<string name="hotkey_name" value="" />
 			<string name="icon_name" value="Icons_commander_cmdr_german_redistribute_resources" />

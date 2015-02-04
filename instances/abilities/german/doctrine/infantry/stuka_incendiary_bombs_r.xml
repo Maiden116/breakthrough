@@ -20,7 +20,7 @@
 							<float name="event_param_end" value="-1" />
 							<enum name="event_type" value="artillery_set" />
 							<bool name="event_send_to_target_player" value="False" />
-							<uniqueid name="id" value="1073749192" />
+							<uniqueid name="id" value="1073749205" />
 						</template_reference>
 						<template_reference name="action" value="action\air_strike_action">
 							<bool name="random_direction" value="False" />
@@ -36,12 +36,12 @@
 								<bool name="follow_target" value="False" />
 							</group>
 							<group name="attack_info">
-								<float name="target_lead_in_distance" value="15" />
+								<float name="target_lead_in_distance" value="20" />
 								<int name="attacks_per_aircraft" value="1" />
-								<float name="target_lead_out_distance" value="15" />
+								<float name="target_lead_out_distance" value="20" />
 								<float name="delay_between_attack" value="1" />
-								<float name="attack_sway_width" value="1" />
-								<float name="attack_sway_frequency" value="1" />
+								<float name="attack_sway_width" value="0" />
+								<float name="attack_sway_frequency" value="0" />
 								<float name="target_attack_distance" value="100" />
 								<float name="target_attack_time_sec" value="2.125" />
 								<float name="initial_attack_delay" value="0" />
@@ -50,15 +50,15 @@
 							</template_reference>
 							<int name="number_aircraft" value="1" />
 							<bool name="search_attack_target" value="False" />
-							<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_fragmentation_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-							<uniqueid name="id" value="1073749193" />
+							<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_incendiary_bomb_squad" />
+							<uniqueid name="id" value="1073749206" />
 							<template_reference name="ui_help_text" value="tables\help_text_phrase">
 								<int name="phrase_order" value="0" />
 								<locstring name="phrase" value="0" />
 							</template_reference>
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073749194" />
+					<uniqueid name="id" value="1073749207" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 				<template_reference name="action" value="action\delay">
@@ -69,10 +69,10 @@
 					<list name="delayed_actions">
 						<template_reference name="action" value="action\scar_function_call">
 							<string name="function_name" value="AE_AirstrikeEvent" />
-							<uniqueid name="id" value="1073749195" />
+							<uniqueid name="id" value="1073749208" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073749196" />
+					<uniqueid name="id" value="1073749209" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 			</list>
@@ -94,7 +94,7 @@
 		<float name="cursor_ghost_blueprint_angle" value="0" />
 		<bool name="disable_combat" value="True" />
 		<bool name="disable_when_active" value="True" />
-		<float name="duration_time" value="20" />
+		<float name="duration_time" value="0" />
 		<bool name="enable_in_building" value="False" />
 		<bool name="enable_in_vehicle" value="False" />
 		<bool name="engage_combat" value="False" />
@@ -123,7 +123,7 @@
 			<string name="code_3" value="" />
 		</group>
 		<group name="speech_code_3">
-			<string name="code_1" value="sfr" />
+			<string name="code_1" value="icr" />
 			<string name="code_2" value="" />
 			<string name="code_3" value="" />
 		</group>
@@ -141,13 +141,13 @@
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="11039124" />
-			<locstring name="help_text" value="11025904" />
+			<locstring name="extra_text" value="11052831" />
+			<locstring name="help_text" value="11052830" />
 			<string name="hotkey_name" value="" />
-			<string name="icon_name" value="Icons_commander_cmdr_german_fragmentation_bomb" />
+			<string name="icon_name" value="Icons_commander_cmdr_german_stuka_incendiary_bomb_strike" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
-			<locstring name="screen_name" value="11025903" />
+			<locstring name="screen_name" value="11052829" />
 			<string name="icon_alternate_name" value="" />
 			<locstring name="brief_text" value="0" />
 			<locstring name="help_text_alternate" value="0" />
@@ -161,7 +161,7 @@
 		<list name="requirements">
 			<template_reference name="required" value="requirements\required_resource">
 				<enum name="reason" value="usage" />
-				<locstring name="ui_name" value="11036655" />
+				<locstring name="ui_name" value="11054514" />
 				<template_reference name="resource" value="tables\resource_table">
 					<float name="action" value="0" />
 					<float name="command" value="0" />
@@ -191,7 +191,7 @@
 			</template_reference>
 		</list>
 		<enum name="ability_super" value="tp_airstrike" />
-		<int name="ui_position" value="40" />
+		<int name="ui_position" value="70" />
 		<bool name="ui_mini_map_capture" value="True" />
 		<bool name="facing_ignore_during_active" value="False" />
 		<instance_reference name="ui_range" value="ui_reticule\ability_range_default" />
@@ -221,5 +221,5 @@
 		<list name="requirements_self_recharge">
 		</list>
 	</group>
-	<uniqueid name="pbgid" value="83" />
+	<uniqueid name="pbgid" value="1786" />
 </instance>

@@ -46,9 +46,9 @@
 				<float name="radius" value="15" />
 			</group>
 			<group name="damage">
-				<float name="far" value="0.05" />
+				<float name="far" value="0.5" />
 				<float name="near" value="1" />
-				<float name="mid" value="0.15" />
+				<float name="mid" value="0.7" />
 			</group>
 			<group name="damage_friendly">
 				<float name="far" value="0.025" />
@@ -63,9 +63,9 @@
 			<bool name="has_friendly_fire" value="True" />
 			<bool name="can_harm_shooter" value="False" />
 			<group name="suppression">
-				<float name="far" value="0.75" />
-				<float name="near" value="1.5" />
-				<float name="mid" value="1.125" />
+				<float name="far" value="1" />
+				<float name="near" value="2" />
+				<float name="mid" value="1.5" />
 			</group>
 			<group name="suppression_friendly">
 				<float name="far" value="0.75" />
@@ -75,8 +75,8 @@
 			<bool name="damage_all_in_hold" value="True" />
 			<template_reference name="aoe_penetration" value="tables\range_table">
 				<float name="far" value="1000" />
-				<float name="mid" value="1000" />
-				<float name="near" value="1000" />
+				<float name="mid" value="1200" />
+				<float name="near" value="1700" />
 			</template_reference>
 			<group name="building_damage">
 				<float name="near" value="1" />
@@ -269,8 +269,8 @@
 			</group>
 		</group>
 		<group name="damage">
-			<float name="max" value="1500" />
-			<float name="min" value="1500" />
+			<float name="max" value="2500" />
+			<float name="min" value="2500" />
 			<list name="on_penetrated_actions">
 				<template_reference name="action" value="action\requirement_action">
 					<bool name="check_self" value="False" />
@@ -467,9 +467,9 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="" />
 		<group name="penetration">
-			<float name="near" value="1000" />
-			<float name="far" value="1000" />
-			<float name="mid" value="1000" />
+			<float name="near" value="2000" />
+			<float name="far" value="2000" />
+			<float name="mid" value="2000" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />

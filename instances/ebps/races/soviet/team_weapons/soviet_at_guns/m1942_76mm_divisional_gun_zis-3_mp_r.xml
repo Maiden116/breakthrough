@@ -546,7 +546,7 @@
 			<bool name="must_be_fully_constructed" value="False" />
 			<bool name="permanently_activated" value="False" />
 			<float name="combat_reset_time" value="8" />
-			<float name="first_strike_shots" value="1" />
+			<float name="first_strike_shots" value="2" />
 			<float name="revert_max" value="25" />
 			<float name="revert_multiplier" value="1.5" />
 			<float name="revert_time" value="8" />

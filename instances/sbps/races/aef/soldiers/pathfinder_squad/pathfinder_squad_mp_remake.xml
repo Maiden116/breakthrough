@@ -474,7 +474,7 @@
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
 				<instance_reference name="ability" value="abilities\aef\always_on_ability\pathfinder_in_cover_stationary_camouflage_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\pathfinder_plant_beacon" />
-				<instance_reference name="ability" value="abilities\soviet\toggle_ability\sniper_hold_fire_mp" />
+				<instance_reference name="ability" value="abilities\global\toggle_ability\hold_fire_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\aef\always_on_ability\pathfinder_in_cover_stationary_camouflage_improved_mp" />
 				<instance_reference name="ability" value="abilities\pm\aef\specializations\cover_specialization\cover_specialization_hunker_down" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\sp\refuel_tank_sp" />

@@ -911,6 +911,7 @@
 				<instance_reference name="ability" value="abilities\aef\timed_ability\aef_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_in_cover_auto_camouflage_mp" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\grenades\smoke_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\global\toggle_ability\hold_fire_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_reinforce_ext">
@@ -1059,6 +1060,18 @@
 					</list>
 					<enum name="construction_type" value="tp_construction_soviet_engineer_basic" />
 				</group>
+			</list>
+		</template_reference>
+		<template_reference name="squadexts" value="sbpextensions\squad_requirement_ext">
+			<list name="requirement_table">
+				<template_reference name="required" value="requirements\required_player_upgrade">
+					<enum name="reason" value="usage_and_display" />
+					<locstring name="ui_name" value="0" />
+					<bool name="is_present" value="True" />
+					<float name="max_completed" value="100" />
+					<float name="min_completed" value="1" />
+					<instance_reference name="upgrade_name" value="upgrade\aef\doctrine\aef_airborne_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</template_reference>
 			</list>
 		</template_reference>
 	</list>

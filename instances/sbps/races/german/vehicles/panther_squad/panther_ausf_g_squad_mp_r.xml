@@ -16,8 +16,8 @@
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051186" />
-						<string name="selection_group" value="Panther_g" />
+						<locstring name="screen_name" value="350" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Panther PzKpfw V Ausf G" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -50,7 +50,7 @@
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_west_german_panther_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="11051482" />
-						<locstring name="screen_name_short" value="11051483" />
+						<locstring name="screen_name_short" value="349" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -72,8 +72,8 @@
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051186" />
-						<string name="selection_group" value="Panther_g" />
+						<locstring name="screen_name" value="348" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Panther PzKpfw V Ausf G" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -106,7 +106,7 @@
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_west_german_panther_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="11051482" />
-						<locstring name="screen_name_short" value="11051483" />
+						<locstring name="screen_name_short" value="347" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -128,8 +128,8 @@
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051186" />
-						<string name="selection_group" value="Panther_g" />
+						<locstring name="screen_name" value="346" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Panther PzKpfw V Ausf G" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -162,7 +162,7 @@
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_west_german_panther_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
 						<locstring name="brief_text" value="11051482" />
-						<locstring name="screen_name_short" value="11051483" />
+						<locstring name="screen_name_short" value="345" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -184,8 +184,8 @@
 						<string name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11051186" />
-						<string name="selection_group" value="Panther_g" />
+						<locstring name="screen_name" value="343" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<string name="selection_group" value="Panther PzKpfw V Ausf G" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
@@ -217,8 +217,8 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_vehicle_west_german_panther_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="11051482" />
-						<locstring name="screen_name_short" value="11051483" />
+						<locstring name="brief_text" value="344" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+						<locstring name="screen_name_short" value="342" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />
 						<bool name="show_in_build_log" value="True" />
@@ -241,7 +241,7 @@
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
 						<locstring name="screen_name" value="310" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-						<string name="selection_group" value="Panther_g" />
+						<string name="selection_group" value="Panther PzKpfw V Ausf G" />
 						<group name="speaker_generic">
 							<string name="code_1" value="" />
 							<string name="code_2" value="" />
