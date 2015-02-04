@@ -33,7 +33,7 @@
 			<locstring name="extra_text" value="139" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<locstring name="help_text" value="140" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<string name="hotkey_name" value="A" />
-			<string name="icon_name" value="Icons_commander_portrait_oberkommand_west_commander_05" />
+			<string name="icon_name" value="ModIcons_82ae9fa5997e4dcdaac301f29d6d356d_ui_docicons_russianartydoc" />
 			<bool name="reveal_for_decryption" value="True" />
 			<locstring name="screen_name" value="141" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<locstring name="brief_text" value="138" mod="82ae9fa5997e4dcdaac301f29d6d356d" />

@@ -1002,9 +1002,8 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\west_german\always_on_ability\fallschrimjaeger_camo" />
+				<instance_reference name="ability" value="abilities\west_german\always_on_ability\fallschrimjaeger_camo_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\west_gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\fallschin_drop_re" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\prone_ability_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\deploy_at_weapon_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\blendkorper_2h_waffen_elite_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
@@ -1030,6 +1029,34 @@
 				<locstring name="screen_name" value="11071801" />
 			</group>
 			<list name="paradrop_requirements">
+				<template_reference name="required" value="requirements\required_near_entity">
+					<enum name="alliance_requirement" value="ally" />
+					<float name="radius_requirement" value="35" />
+					<instance_reference name="entity_pbg" value="" />
+					<enum name="reason" value="usage_and_display" />
+					<locstring name="ui_name" value="0" />
+					<list name="near_entity_requirement">
+						<template_reference name="required" value="requirements\required_unit_type">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="unit_type" value="airborne_reinforcement" />
+							<template_reference name="qualify_option" value="options\none">
+							</template_reference>
+							<bool name="search_load_out" value="False" />
+							<bool name="owned_by_player_only" value="False" />
+						</template_reference>
+						<template_reference name="required" value="requirements\required_ownership">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<enum name="ownership_type" value="ally" />
+						</template_reference>
+						<template_reference name="required" value="requirements\required_constructionstate">
+							<enum name="reason" value="usage" />
+							<locstring name="ui_name" value="0" />
+							<bool name="do_construction_completion_check" value="True" />
+						</template_reference>
+					</list>
+				</template_reference>
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_retreat_ext">
@@ -1150,6 +1177,14 @@
 						<group name="construction_item">
 							<instance_reference name="ebp" value="ebps\gameplay\buildable_campfire_mp" />
 							<int name="ui_position" value="0" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\west_german\buildings\defensive_structures\schu_mine_42_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<int name="ui_position" value="11" />
+						</group>
+						<group name="construction_item">
+							<instance_reference name="ebp" value="ebps\races\aef\buildings\defensive_structures\airborne_beacon_mp" />
+							<int name="ui_position" value="12" />
 						</group>
 					</list>
 					<enum name="construction_type" value="tp_construction_soviet_engineer_basic" />
