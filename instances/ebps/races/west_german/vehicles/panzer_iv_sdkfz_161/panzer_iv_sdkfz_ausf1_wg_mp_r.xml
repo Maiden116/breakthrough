@@ -1,12 +1,5 @@
 <instance description="standard german tank&#xA;Multiplayer Clone." template="ebps">
 	<list name="extensions">
-		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
-			<string name="alternate_sua" value="" />
-			<bool name="always_revealed_in_fow" value="False" />
-			<file name="animator" value="armies\german\vehicles\panzer_iv\panzer_iv" />
-			<bool name="is_visible_in_game" value="True" />
-			<float name="precise_size" value="-1" />
-		</template_reference>
 		<template_reference name="exts" value="ebpextensions\sim_entity_ext">
 			<bool name="is_in_spatial_bucket" value="True" />
 			<float name="rotate_snap" value="360" />
@@ -1262,6 +1255,13 @@
 			<bool name="require_standing" value="True" />
 			<bool name="use_simbox_range" value="True" />
 			<bool name="use_simbox_range_plus_spots" value="True" />
+		</template_reference>
+		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
+			<string name="alternate_sua" value="" />
+			<bool name="always_revealed_in_fow" value="False" />
+			<file name="animator" value="armies\german\vehicles\panzer_iv\panzer_iv" />
+			<bool name="is_visible_in_game" value="True" />
+			<float name="precise_size" value="-1" />
 		</template_reference>
 	</list>
 	<uniqueid name="pbgid" value="1073742071" />
