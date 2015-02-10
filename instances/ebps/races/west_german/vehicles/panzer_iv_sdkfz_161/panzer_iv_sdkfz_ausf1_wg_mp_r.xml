@@ -1259,7 +1259,7 @@
 		<template_reference name="exts" value="ebpextensions\entity_blueprint_ext">
 			<string name="alternate_sua" value="" />
 			<bool name="always_revealed_in_fow" value="False" />
-			<file name="animator" value="armies\german\vehicles\panzer_iv\panzer_iv" />
+			<file name="animator" value="armies\west_german\vehicles\panzer_iv_sdkfz_ausf_i\panzer_iv_sdkfz_ausf_i" />
 			<bool name="is_visible_in_game" value="True" />
 			<float name="precise_size" value="-1" />
 		</template_reference>
