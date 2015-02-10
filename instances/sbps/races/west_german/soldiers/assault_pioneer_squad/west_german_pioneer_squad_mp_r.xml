@@ -7,7 +7,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="0" />
+						<locstring name="extra_text" value="490" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="0" />
 						<string name="hotkey_name" value="S" />
@@ -49,7 +49,7 @@
 						</group>
 						<string name="portrait_name_summer" value="Icons_portraits_unit_west_german_assault_pioneer_s_portrait" />
 						<float name="minimap_texture_scale" value="1" />
-						<locstring name="brief_text" value="0" />
+						<locstring name="brief_text" value="489" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<locstring name="screen_name_short" value="0" />
 						<enum name="map_rotation_type_override" value="no_override" />
 						<bool name="decoratable" value="True" />

@@ -58,12 +58,6 @@
 				</list>
 				<uniqueid name="id" value="1073747420" />
 			</template_reference>
-			<template_reference name="action" value="action\slot_item_remove">
-				<bool name="fire_and_forget" value="False" />
-				<bool name="random" value="False" />
-				<instance_reference name="slot_item" value="slot_item\west_german\small_arms\obersoldaten_mg34_lmg_moving_no_prone_mp" />
-				<uniqueid name="id" value="1073747421" />
-			</template_reference>
 			<template_reference name="action" value="action\slot_item_add">
 				<instance_reference name="slot_item" value="slot_item\west_german\small_arms\mp44_infared_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<bool name="permanent" value="True" />
