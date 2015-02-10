@@ -98,7 +98,7 @@
 				<bool name="is_present" value="True" />
 				<float name="max_completed" value="100" />
 				<float name="min_completed" value="1" />
-				<instance_reference name="upgrade_name" value="upgrade\west_german\doctrine\luftwaffe" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="upgrade_name" value="upgrade\west_german\doctrine\dummy" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</template_reference>
 			<template_reference name="required" value="requirements\required_resource">
 				<enum name="reason" value="usage" />
