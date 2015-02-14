@@ -167,7 +167,7 @@
 						<template_reference name="ui_info" value="tables\ui_info">
 							<locstring name="screen_name" value="11051851" />
 							<locstring name="help_text" value="11051850" />
-							<string name="icon_name" value="Icons_units_unit_soviet_officer" />
+							<icon name="icon_name" value="Icons_units_unit_soviet_officer" />
 							<string name="hotkey_name" value="" />
 						</template_reference>
 						<uniqueid name="id" value="1073745132" />
@@ -338,7 +338,7 @@
 						<template_reference name="ui_info" value="tables\ui_info">
 							<locstring name="screen_name" value="11051851" />
 							<locstring name="help_text" value="11051850" />
-							<string name="icon_name" value="Icons_units_unit_soviet_officer" />
+							<icon name="icon_name" value="Icons_units_unit_soviet_officer" />
 							<string name="hotkey_name" value="" />
 						</template_reference>
 						<uniqueid name="id" value="1073745139" />
@@ -509,7 +509,7 @@
 						<template_reference name="ui_info" value="tables\ui_info">
 							<locstring name="screen_name" value="11051851" />
 							<locstring name="help_text" value="11051850" />
-							<string name="icon_name" value="Icons_units_unit_soviet_officer" />
+							<icon name="icon_name" value="Icons_units_unit_soviet_officer" />
 							<string name="hotkey_name" value="" />
 						</template_reference>
 						<uniqueid name="id" value="1073745146" />
