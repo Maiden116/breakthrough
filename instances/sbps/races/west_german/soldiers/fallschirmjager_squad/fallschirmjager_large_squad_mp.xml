@@ -1008,6 +1008,8 @@
 				<instance_reference name="ability" value="abilities\global\toggle_ability\deploy_at_weapon_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\smoke_grenade_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\dispatch_ability\paradrops_wg_anti_tank_gun_re" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\wg_air_dropped_medical_supplies_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\west_german\modal_ability\accessory_weapons\panzerfaust_wg_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">
