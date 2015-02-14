@@ -7,7 +7,7 @@
 				<group name="race_data">
 					<group name="info">
 						<bool name="allow_spawner_production" value="False" />
-						<locstring name="extra_text" value="11051545" />
+						<locstring name="extra_text" value="493" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<bool name="has_speech_code" value="True" />
 						<locstring name="help_text" value="11051548" />
 						<string name="hotkey_name" value="W" />
