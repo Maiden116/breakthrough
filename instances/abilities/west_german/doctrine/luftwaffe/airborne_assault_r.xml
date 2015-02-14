@@ -24,13 +24,13 @@
 									<float name="highlight_b" value="25" />
 									<float name="highlight_a" value="200" />
 									<bool name="self_only" value="False" />
-									<uniqueid name="id" value="1073748172" />
+									<uniqueid name="id" value="1073749484" />
 									<int name="priority" value="500" />
 								</template_reference>
 								<template_reference name="action" value="action\blip_action">
 									<enum name="blip_type" value="sector_artillery" />
 									<float name="duration" value="0" />
-									<uniqueid name="id" value="1073748173" />
+									<uniqueid name="id" value="1073749485" />
 								</template_reference>
 								<template_reference name="action" value="action\overwatch_action">
 									<group name="area_info">
@@ -86,14 +86,14 @@
 											<int name="number_aircraft" value="1" />
 											<bool name="search_attack_target" value="False" />
 											<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_attack_west_germans_squad" />
-											<uniqueid name="id" value="1073748174" />
+											<uniqueid name="id" value="1073749486" />
 											<template_reference name="ui_help_text" value="tables\help_text_phrase">
 												<int name="phrase_order" value="0" />
 												<locstring name="phrase" value="0" />
 											</template_reference>
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073748175" />
+									<uniqueid name="id" value="1073749487" />
 								</template_reference>
 								<template_reference name="action" value="action\overwatch_action">
 									<group name="area_info">
@@ -154,24 +154,24 @@
 													<int name="number_aircraft" value="1" />
 													<bool name="search_attack_target" value="False" />
 													<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_anti_tank_squad" />
-													<uniqueid name="id" value="1073748176" />
+													<uniqueid name="id" value="1073749488" />
 													<template_reference name="ui_help_text" value="tables\help_text_phrase">
 														<int name="phrase_order" value="0" />
 														<locstring name="phrase" value="0" />
 													</template_reference>
 												</template_reference>
 											</list>
-											<uniqueid name="id" value="1073748177" />
+											<uniqueid name="id" value="1073749489" />
 											<bool name="can_prevent_refund" value="True" />
 										</template_reference>
 									</list>
-									<uniqueid name="id" value="1073748178" />
+									<uniqueid name="id" value="1073749490" />
 								</template_reference>
 							</list>
-							<uniqueid name="id" value="1073748179" />
+							<uniqueid name="id" value="1073749491" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073748180" />
+					<uniqueid name="id" value="1073749492" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 				<template_reference name="action" value="action\delay">
@@ -209,14 +209,14 @@
 							<int name="number_aircraft" value="1" />
 							<bool name="search_attack_target" value="False" />
 							<instance_reference name="aircraft_squad_name" value="sbps\races\west_german\vehicles\planes\ju52_paratrooper_plane_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-							<uniqueid name="id" value="1073748181" />
+							<uniqueid name="id" value="1073749493" />
 							<template_reference name="ui_help_text" value="tables\help_text_phrase">
 								<int name="phrase_order" value="0" />
 								<locstring name="phrase" value="0" />
 							</template_reference>
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073748182" />
+					<uniqueid name="id" value="1073749494" />
 					<bool name="can_prevent_refund" value="True" />
 				</template_reference>
 				<template_reference name="action" value="action\air_strike_action">
@@ -259,7 +259,7 @@
 					<int name="number_aircraft" value="1" />
 					<bool name="search_attack_target" value="False" />
 					<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_air_cap_squad" />
-					<uniqueid name="id" value="1073748183" />
+					<uniqueid name="id" value="1073749495" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
 						<locstring name="phrase" value="0" />

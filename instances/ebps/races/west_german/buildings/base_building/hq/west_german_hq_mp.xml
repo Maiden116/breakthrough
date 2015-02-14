@@ -462,6 +462,16 @@
 					<instance_reference name="entity" value="" />
 					<instance_reference name="squad" value="sbps\races\german\vehicles\opel_blitz\opel_blitz_squad_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="21" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\west_german\soldiers\field_officer_squad\field_luft_officer_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
+				<group name="spawn_item">
+					<int name="ui_position" value="22" />
+					<instance_reference name="entity" value="" />
+					<instance_reference name="squad" value="sbps\races\west_german\soldiers\field_officer_squad\terror_luft_officer_squad_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				</group>
 			</list>
 			<list name="bonus_xp_from_hold_list">
 			</list>
