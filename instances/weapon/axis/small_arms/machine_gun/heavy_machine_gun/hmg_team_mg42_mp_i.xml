@@ -1,9 +1,9 @@
 <instance description="" template="weapon">
 	<group name="weapon_bag">
 		<group name="accuracy">
-			<float name="near" value="0.8" />
-			<float name="far" value="0.6" />
-			<float name="mid" value="0.7" />
+			<float name="near" value="11" />
+			<float name="far" value="11" />
+			<float name="mid" value="11" />
 		</group>
 		<group name="aim">
 			<group name="fire_aim_time">
@@ -428,9 +428,9 @@
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_setfacing" value="ui_setfacing\weapon_default" />
 		<group name="penetration">
-			<float name="near" value="4" />
-			<float name="far" value="4" />
-			<float name="mid" value="4" />
+			<float name="near" value="100" />
+			<float name="far" value="100" />
+			<float name="mid" value="100" />
 		</group>
 		<group name="ui_map_colour">
 			<int name="red" value="0" />

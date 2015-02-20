@@ -85,7 +85,7 @@
 											</template_reference>
 											<int name="number_aircraft" value="1" />
 											<bool name="search_attack_target" value="False" />
-											<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_attack_west_germans_squad" />
+											<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_attack_west_germans_squad_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 											<uniqueid name="id" value="1073749486" />
 											<template_reference name="ui_help_text" value="tables\help_text_phrase">
 												<int name="phrase_order" value="0" />
@@ -153,7 +153,7 @@
 													</template_reference>
 													<int name="number_aircraft" value="1" />
 													<bool name="search_attack_target" value="False" />
-													<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_anti_tank_squad" />
+													<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_anti_tank_squad_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 													<uniqueid name="id" value="1073749488" />
 													<template_reference name="ui_help_text" value="tables\help_text_phrase">
 														<int name="phrase_order" value="0" />

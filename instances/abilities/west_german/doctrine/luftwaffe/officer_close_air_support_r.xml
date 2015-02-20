@@ -16,12 +16,6 @@
 							<string name="function_name" value="AE_AirstrikeEvent" />
 							<uniqueid name="id" value="1073749506" />
 						</template_reference>
-						<template_reference name="action" value="action\trigger_dca_action">
-							<string name="dca_action_name" value="UI\Airstrike_Warning_Smoke" />
-							<float name="duration" value="5" />
-							<bool name="is_terrain_only" value="True" />
-							<uniqueid name="id" value="1073749507" />
-						</template_reference>
 						<template_reference name="action" value="action\delay">
 							<float name="delay" value="4" />
 							<float name="delay_min" value="0" />
@@ -70,7 +64,7 @@
 									</template_reference>
 									<int name="number_aircraft" value="1" />
 									<bool name="search_attack_target" value="True" />
-									<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_anti_tank_squad" />
+									<instance_reference name="aircraft_squad_name" value="sbps\races\german\vehicles\stuka\stuka_ground_anti_tank_squad_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 									<uniqueid name="id" value="1073749508" />
 									<template_reference name="ui_help_text" value="tables\help_text_phrase">
 										<int name="phrase_order" value="0" />
