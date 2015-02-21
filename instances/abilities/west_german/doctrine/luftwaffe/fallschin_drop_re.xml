@@ -205,7 +205,7 @@
 			<locstring name="screen_name_short" value="0" />
 		</group>
 		<locstring name="ui_usage_txt" value="0" />
-		<bool name="validate_actions" value="True" />
+		<bool name="validate_actions" value="False" />
 		<list name="global_self_actions">
 		</list>
 		<list name="requirements">
@@ -252,16 +252,16 @@
 		<int name="ui_position" value="33" />
 		<bool name="ui_mini_map_capture" value="True" />
 		<bool name="facing_ignore_during_active" value="False" />
-		<instance_reference name="ui_range" value="ui_reticule\ability_range_default" />
-		<instance_reference name="ui_reticule" value="" />
-		<float name="ui_reticule_radius_min" value="3.5" />
-		<float name="ui_reticule_radius_max" value="3.5" />
+		<instance_reference name="ui_range" value="" />
+		<instance_reference name="ui_reticule" value="ui_reticule\ability_target_paradrop" />
+		<float name="ui_reticule_radius_min" value="60" />
+		<float name="ui_reticule_radius_max" value="60" />
 		<enum name="pending_ability_out_of_range_behaviour" value="ignore_range" />
 		<enum name="ui_group" value="group_primary" />
 		<string name="ui_targetable_sm_key" value="" />
-		<string name="ui_targetable_on_key" value="" />
-		<string name="ui_targetable_off_key" value="" />
-		<enum name="ui_targetable_receiver" value="local" />
+		<string name="ui_targetable_on_key" value="ui/entity_selection_highlight_flash_enemy" />
+		<string name="ui_targetable_off_key" value="ui/entity_flash_off" />
+		<enum name="ui_targetable_receiver" value="query_action" />
 		<enum name="ui_combine_type" value="intersection" />
 		<enum name="ui_group_cast_type" value="single" />
 		<enum_table name="ui_modal_highlight">

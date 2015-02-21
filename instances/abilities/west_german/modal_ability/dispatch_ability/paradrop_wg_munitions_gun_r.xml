@@ -156,8 +156,8 @@
 			<string name="cursor_nonmodal_good" value="" />
 		</group>
 		<group name="ui_info">
-			<locstring name="extra_text" value="0" />
-			<locstring name="help_text" value="0" />
+			<locstring name="extra_text" value="525" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+			<locstring name="help_text" value="526" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<string name="hotkey_name" value="" />
 			<icon name="icon_name" value="Icons_commander_cmdr_german_air_dropped_resources" />
 			<string name="overlay_name" value="" />
