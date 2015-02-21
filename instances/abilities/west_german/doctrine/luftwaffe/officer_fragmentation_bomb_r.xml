@@ -165,7 +165,7 @@
 		<bool name="ui_mini_map_capture" value="True" />
 		<bool name="facing_ignore_during_active" value="False" />
 		<instance_reference name="ui_range" value="ui_reticule\ability_range_default" />
-		<instance_reference name="ui_reticule" value="ui_reticule\ability_target_commander" />
+		<instance_reference name="ui_reticule" value="ui_reticule\ability_target_recon_sweep" />
 		<float name="ui_reticule_radius_min" value="16" />
 		<float name="ui_reticule_radius_max" value="16" />
 		<enum name="pending_ability_out_of_range_behaviour" value="chase" />
@@ -185,7 +185,7 @@
 		</list>
 		<template_reference name="targeted_ability_option" value="options\none">
 		</template_reference>
-		<enum name="ui_direction_requirement" value="nondirectional" />
+		<enum name="ui_direction_requirement" value="directional" />
 		<instance_reference name="cursor_ghost_ebp" value="" />
 		<bool name="can_cast_whilst_constructing" value="False" />
 		<list name="requirements_self_recharge">
