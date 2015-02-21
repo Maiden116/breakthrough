@@ -277,8 +277,8 @@
 			<template_reference name="target_special_validation" value="type_ability_target_type\all">
 			</template_reference>
 		</group>
-		<float name="toggled_recharge_time_off" value="5" />
-		<float name="toggled_recharge_time_on" value="5" />
+		<float name="toggled_recharge_time_off" value="10" />
+		<float name="toggled_recharge_time_on" value="-1" />
 		<group name="ui_cursor">
 			<string name="cursor_bad" value="modal_ability_cancel" />
 			<string name="cursor_good" value="modal_ability" />
@@ -299,7 +299,7 @@
 			<locstring name="screen_name_short" value="0" />
 		</group>
 		<locstring name="ui_usage_txt" value="0" />
-		<bool name="validate_actions" value="True" />
+		<bool name="validate_actions" value="False" />
 		<list name="global_self_actions">
 		</list>
 		<list name="requirements">
@@ -309,7 +309,7 @@
 				<list name="requirements">
 					<template_reference name="requirement" value="requirements\required_any_in_list">
 						<enum name="reason" value="usage_and_display" />
-						<locstring name="ui_name" value="0" />
+						<locstring name="ui_name" value="511" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<list name="requirements">
 							<template_reference name="requirement" value="requirements\required_slot_item">
 								<enum name="reason" value="usage" />

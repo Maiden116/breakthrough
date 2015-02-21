@@ -838,7 +838,7 @@
 				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\officer_air_recon_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\officer_close_air_support_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\officer_fragmentation_bomb_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\west_german\timed_ability\west_german_sprint_mp" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\west_german\timed_ability\west_german_sprint_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\modal_ability\grenades\west_gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\stuka_wg_bombing_strike_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\west_german\doctrine\luftwaffe\tow_airfield_stuka_bombing_run_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
