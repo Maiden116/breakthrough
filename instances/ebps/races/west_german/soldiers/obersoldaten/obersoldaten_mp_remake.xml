@@ -954,8 +954,8 @@
 		<template_reference name="exts" value="ebpextensions\cold_system_ext">
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\upgrade_ext">
-			<bool name="must_be_in_supply" value="False" />
-			<float name="number_of_standard_slots" value="0" />
+			<bool name="must_be_in_supply" value="True" />
+			<float name="number_of_standard_slots" value="-1" />
 			<list name="standard_upgrades">
 			</list>
 		</template_reference>

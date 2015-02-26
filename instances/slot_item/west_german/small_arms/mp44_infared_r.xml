@@ -8,7 +8,7 @@
 		<float name="hardpoint" value="1" />
 		<bool name="has_speech_code" value="True" />
 		<bool name="is_entity_user" value="False" />
-		<float name="item_uses" value="1" />
+		<float name="item_uses" value="0" />
 		<enum name="owner_type" value="squad" />
 		<icon name="package_icon" value="" />
 		<float name="recharge_time" value="0" />

@@ -166,7 +166,7 @@
 		<bool name="facing_ignore_during_active" value="False" />
 		<instance_reference name="ui_range" value="" />
 		<instance_reference name="ui_reticule" value="ui_reticule\ability_target_paradrop" />
-		<float name="ui_reticule_radius_min" value="5" />
+		<float name="ui_reticule_radius_min" value="10" />
 		<float name="ui_reticule_radius_max" value="25" />
 		<enum name="pending_ability_out_of_range_behaviour" value="chase" />
 		<enum name="ui_group" value="group_primary" />

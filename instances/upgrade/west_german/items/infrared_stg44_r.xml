@@ -21,10 +21,10 @@
 				<float name="command" value="0" />
 				<float name="fuel" value="0" />
 				<float name="manpower" value="0" />
-				<float name="munition" value="90" />
+				<float name="munition" value="0" />
 				<float name="popcap" value="0" />
 			</group>
-			<float name="time_seconds" value="45" />
+			<float name="time_seconds" value="1" />
 		</group>
 		<bool name="ui_event_cue" value="True" />
 		<enum name="ui_group" value="unit_upgrade_panel" />
@@ -63,11 +63,6 @@
 				<bool name="permanent" value="True" />
 				<uniqueid name="id" value="1073747422" />
 			</template_reference>
-			<template_reference name="action" value="action\slot_item_add">
-				<instance_reference name="slot_item" value="slot_item\west_german\small_arms\mp44_infared_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<bool name="permanent" value="True" />
-				<uniqueid name="id" value="1073747423" />
-			</template_reference>
 		</list>
 		<list name="requirements">
 			<template_reference name="required" value="requirements\required_in_territory">
@@ -77,6 +72,20 @@
 				<bool name="is_secured" value="False" />
 				<bool name="is_secured_by_checkpoint" value="False" />
 				<bool name="not_in_transition" value="False" />
+			</template_reference>
+			<template_reference name="required" value="requirements\required_slot_item_size">
+				<enum name="reason" value="usage_and_display" />
+				<locstring name="ui_name" value="0" />
+				<float name="required_free_slot_size" value="1" />
+			</template_reference>
+			<template_reference name="required" value="requirements\required_slot_item">
+				<enum name="reason" value="usage" />
+				<locstring name="ui_name" value="0" />
+				<bool name="check_item_on_entity" value="False" />
+				<bool name="display_requirement" value="True" />
+				<float name="max_owned" value="0" />
+				<float name="min_owned" value="0" />
+				<instance_reference name="slot_item" value="slot_item\west_german\small_arms\mp44_infared_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</template_reference>
 		</list>
 		<icon name="ui_kicker_icon_name" value="" />
