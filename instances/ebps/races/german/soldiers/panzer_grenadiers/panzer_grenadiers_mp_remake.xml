@@ -15,11 +15,8 @@
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\ability_ext">
 			<list name="abilities">
-				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\panzer_grenadier_bundled_grenade_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\blinding_grenade" />
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect_deep_snow_camo" />
-				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\german_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\global\army_item_abilities\army_item_global_cover_training_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="exts" value="ebpextensions\action_apply_ext">
@@ -477,7 +474,7 @@
 								<float name="z" value="0" />
 							</group>
 							<enum name="type" value="default" />
-							<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\sub_machine_gun\mp44_smg_mp_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<instance_reference name="weapon" value="weapon\axis\small_arms\machine_gun\sub_machine_gun\mp40_i" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						</group>
 					</list>
 					<bool name="receives_attack_commands" value="False" />

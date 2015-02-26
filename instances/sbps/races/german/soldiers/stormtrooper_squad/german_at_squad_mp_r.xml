@@ -574,13 +574,10 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\hold_fire_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_in_cover_auto_camouflage_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\stormtrooper_assault_ambush_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\stormtrooper_tank_detection_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\global\sniper_in_cover_auto_camouflage_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\smoke_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\german\timed_ability\german_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">

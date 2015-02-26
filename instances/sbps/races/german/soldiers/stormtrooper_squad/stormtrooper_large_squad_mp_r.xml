@@ -9,14 +9,14 @@
 						<bool name="allow_spawner_production" value="False" />
 						<locstring name="extra_text" value="11052712" />
 						<bool name="has_speech_code" value="True" />
-						<locstring name="help_text" value="11052711" />
+						<locstring name="help_text" value="539" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="hotkey_name" value="G" />
 						<icon name="icon_name" value="Icons_units_unit_german_stormtroopers" />
 						<bool name="minimap_team_only" value="False" />
 						<icon name="minimap_texture" value="" />
 						<instance_reference name="modal_ability" value="" />
 						<bool name="reveal_for_decryption" value="True" />
-						<locstring name="screen_name" value="11052710" />
+						<locstring name="screen_name" value="540" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 						<string name="selection_group" value="Stormtroopers" />
 						<group name="speaker_generic">
 							<string name="code_1" value="xs" />
@@ -173,10 +173,10 @@
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
-			<float name="number_of_slots" value="1" />
+			<float name="number_of_slots" value="2" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\german\items\panzershreck_atw_item_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="upgrade" value="upgrade\german\items\stormtrooper_assault_package_mp" />
+				<instance_reference name="upgrade" value="upgrade\german\items\m44_x2_upgrade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
@@ -605,15 +605,11 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\global\toggle_ability\hold_fire_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\soviet\always_on_ability\sniper_in_cover_auto_camouflage_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\stormtrooper_assault_ambush_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\stormtrooper_tank_detection_mp" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\smoke_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\deploy_at_weapon_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\german\timed_ability\german_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\global\sniper_in_cover_auto_camouflage_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_capture_strategic_point_ext">

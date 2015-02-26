@@ -185,11 +185,9 @@
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_upgrade_ext">
-			<float name="number_of_slots" value="-1" />
+			<float name="number_of_slots" value="1" />
 			<list name="upgrades">
 				<instance_reference name="upgrade" value="upgrade\german\items\panzershreck_atw_item_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="upgrade" value="upgrade\german\commander\ability\light_infantry_panzergren_package" />
-				<instance_reference name="upgrade" value="upgrade\german\commander\ability\ambush_camou_package" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_action_apply_ext">
@@ -630,13 +628,9 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_ability_ext">
 			<list name="abilities">
 				<instance_reference name="ability" value="abilities\global\cold\blizzard_effect" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\jaeger_interrogation" />
-				<instance_reference name="ability" value="abilities\german\always_on_ability\commander_ability\ambush_camouflage_upgrade" />
-				<instance_reference name="ability" value="abilities\german\toggle_ability\commander_ability\ambush_camo_hold_fire_mp" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\commander_ability\german_hulldown_ability" />
-				<instance_reference name="ability" value="abilities\german\modal_ability\infantry_medkits_mp" />
-				<instance_reference name="ability" value="abilities\german\timed_ability\retreat_to_forward_hq" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\smoke_grenade_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\german\modal_ability\grenades\gernan_grenade_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+				<instance_reference name="ability" value="abilities\german\timed_ability\german_sprint_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\global\toggle_ability\deploy_at_weapon_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			</list>
 		</template_reference>
