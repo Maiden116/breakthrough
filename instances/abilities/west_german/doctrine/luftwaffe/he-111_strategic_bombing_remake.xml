@@ -8,60 +8,6 @@
 			<list name="start_self_actions">
 			</list>
 			<list name="start_target_actions">
-				<template_reference name="action" value="action\trigger_dca_action">
-					<string name="dca_action_name" value="UI\Airstrike_Warning_Smoke" />
-					<float name="duration" value="10" />
-					<bool name="is_terrain_only" value="True" />
-					<uniqueid name="id" value="1073749660" />
-				</template_reference>
-				<template_reference name="action" value="action\delay">
-					<float name="delay" value="5" />
-					<float name="delay_min" value="0" />
-					<bool name="progress_bar" value="False" />
-					<bool name="randomize" value="False" />
-					<list name="delayed_actions">
-						<template_reference name="action" value="action\trigger_dca_action">
-							<string name="dca_action_name" value="UI\Airstrike_Warning_Smoke" />
-							<float name="duration" value="10" />
-							<bool name="is_terrain_only" value="True" />
-							<uniqueid name="id" value="1073749661" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073749662" />
-					<bool name="can_prevent_refund" value="True" />
-				</template_reference>
-				<template_reference name="action" value="action\delay">
-					<float name="delay" value="10" />
-					<float name="delay_min" value="0" />
-					<bool name="progress_bar" value="False" />
-					<bool name="randomize" value="False" />
-					<list name="delayed_actions">
-						<template_reference name="action" value="action\trigger_dca_action">
-							<string name="dca_action_name" value="UI\Airstrike_Warning_Smoke" />
-							<float name="duration" value="10" />
-							<bool name="is_terrain_only" value="True" />
-							<uniqueid name="id" value="1073749663" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073749664" />
-					<bool name="can_prevent_refund" value="True" />
-				</template_reference>
-				<template_reference name="action" value="action\delay">
-					<float name="delay" value="15" />
-					<float name="delay_min" value="0" />
-					<bool name="progress_bar" value="False" />
-					<bool name="randomize" value="False" />
-					<list name="delayed_actions">
-						<template_reference name="action" value="action\trigger_dca_action">
-							<string name="dca_action_name" value="UI\Airstrike_Warning_Smoke" />
-							<float name="duration" value="10" />
-							<bool name="is_terrain_only" value="True" />
-							<uniqueid name="id" value="1073749665" />
-						</template_reference>
-					</list>
-					<uniqueid name="id" value="1073749666" />
-					<bool name="can_prevent_refund" value="True" />
-				</template_reference>
 				<template_reference name="action" value="action\delay">
 					<float name="delay" value="20" />
 					<float name="delay_min" value="0" />

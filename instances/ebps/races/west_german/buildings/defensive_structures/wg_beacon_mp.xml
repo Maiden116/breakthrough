@@ -192,7 +192,7 @@
 			<bool name="has_speech_code" value="True" />
 			<locstring name="help_text" value="11056085" />
 			<string name="hotkey_name" value="B" />
-			<icon name="icon_name" value="Icons_buildings_building_german_bunker" />
+			<icon name="icon_name" value="Icons_abilities_ability_aef_construct_radio_beacon" />
 			<enum name="kill_type" value="building" />
 			<float name="minimap_color_a" value="255" />
 			<float name="minimap_color_b" value="227" />
