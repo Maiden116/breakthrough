@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<display:MovieClip xmlns:fx='http://ns.adobe.com/mxml/2009' xmlns:display='flash.display.*'>
+	<fx:Script>
+		<![CDATA[
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/airbornedoc.png')]
+		public static var airbornedoc:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/russianartydoc.png')]
+		public static var russianartydoc:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/russiantankdoc.png')]
+		public static var russiantankdoc:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/shockdoc.png')]
+		public static var shockdoc:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/tankdoc.png')]
+		public static var tankdoc:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/wgarty.png')]
+		public static var wgarty:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/wgluft.png')]
+		public static var wgluft:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/wgth.png')]
+		public static var wgth:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/wharty.png')]
+		public static var wharty:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/whassault.png')]
+		public static var whassault:Class;
+		[Embed(source='C:/CoH 2 Modding/breakthrough/data/ui/docicons/whtanks.png')]
+		public static var whtanks:Class;
+		]]>
+	</fx:Script>
+</display:MovieClip>
