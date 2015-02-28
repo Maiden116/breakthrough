@@ -665,7 +665,6 @@
 				<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrops_anti_tank_gun_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\aef\modal_ability\dispatch_ability\paradrops_howitzer_gun_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				<instance_reference name="ability" value="abilities\aef\doctrine\airborne\combat_paratroopers_paradrop_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
-				<instance_reference name="ability" value="abilities\aef\modal_ability\pathfinder_plant_beacon" />
 			</list>
 		</template_reference>
 		<template_reference name="squadexts" value="sbpextensions\squad_veterancy_ext">

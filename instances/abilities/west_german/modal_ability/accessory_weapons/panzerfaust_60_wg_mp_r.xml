@@ -15,7 +15,7 @@
 					<bool name="randomize" value="False" />
 					<list name="delayed_actions">
 						<template_reference name="action" value="action\use_accessory_weapon">
-							<instance_reference name="accessory_weapon_item" value="slot_item\west_german\ballistic_weapon\infantry_at_weapon\panzerfaust_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+							<instance_reference name="accessory_weapon_item" value="slot_item\west_german\ballistic_weapon\infantry_at_weapon\panzerfaust_60_mp_r" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 							<instance_reference name="decrement_accessory_item" value="" />
 							<bool name="entity_target_only" value="False" />
 							<bool name="force_squad_to_target" value="False" />
@@ -48,7 +48,7 @@
 			<float name="command" value="0" />
 			<float name="fuel" value="0" />
 			<float name="manpower" value="0" />
-			<float name="munition" value="35" />
+			<float name="munition" value="0" />
 			<float name="popcap" value="0" />
 		</group>
 		<string name="cursor_ghost_blueprint" value="" />
@@ -120,14 +120,14 @@
 		</group>
 		<group name="ui_info">
 			<locstring name="extra_text" value="11071976" />
-			<locstring name="help_text" value="11053304" />
+			<locstring name="help_text" value="561" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<string name="hotkey_name" value="F" />
 			<icon name="icon_name" value="Icons_abilities_ability_german_panzerfaust" />
 			<string name="overlay_name" value="" />
 			<bool name="reveal_for_decryption" value="False" />
-			<locstring name="screen_name" value="11053303" />
+			<locstring name="screen_name" value="556" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<icon name="icon_alternate_name" value="" />
-			<locstring name="brief_text" value="0" />
+			<locstring name="brief_text" value="560" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 			<locstring name="help_text_alternate" value="0" />
 			<locstring name="screen_name_alternate" value="0" />
 			<locstring name="screen_name_short" value="0" />

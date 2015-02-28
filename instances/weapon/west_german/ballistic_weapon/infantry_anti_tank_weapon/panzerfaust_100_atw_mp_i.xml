@@ -299,7 +299,7 @@
 										<template_reference name="action" value="action\trigger_critical_action">
 											<float name="remove_at_health" value="1" />
 											<instance_reference name="critical" value="critical\vehicle_damage_engine" />
-											<uniqueid name="id" value="1073742482" />
+											<uniqueid name="id" value="1073749715" />
 										</template_reference>
 									</list>
 									<int name="weight" value="95" />
@@ -309,16 +309,16 @@
 										<template_reference name="action" value="action\trigger_critical_action">
 											<float name="remove_at_health" value="1" />
 											<instance_reference name="critical" value="critical\vehicle_destroy_engine" />
-											<uniqueid name="id" value="1073742483" />
+											<uniqueid name="id" value="1073749716" />
 										</template_reference>
 									</list>
 									<int name="weight" value="5" />
 								</group>
 							</list>
-							<uniqueid name="id" value="1073742484" />
+							<uniqueid name="id" value="1073749717" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073742485" />
+					<uniqueid name="id" value="1073749718" />
 					<bool name="fire_and_forget_non_global" value="False" />
 					<template_reference name="ui_help_text" value="tables\help_text_phrase">
 						<int name="phrase_order" value="0" />
@@ -386,12 +386,12 @@
 			<instance_reference name="projectile" value="ebps\projectile\panzerfaust_mp" />
 		</group>
 		<group name="range">
-			<float name="max" value="20" />
+			<float name="max" value="35" />
 			<float name="min" value="0" />
 			<group name="distance">
-				<float name="near" value="-1" />
-				<float name="far" value="-1" />
-				<float name="mid" value="-1" />
+				<float name="near" value="0" />
+				<float name="far" value="35" />
+				<float name="mid" value="17.5" />
 			</group>
 		</group>
 		<group name="reload">
@@ -492,5 +492,5 @@
 			<int name="alpha" value="0" />
 		</group>
 	</group>
-	<uniqueid name="pbgid" value="1073741847" />
+	<uniqueid name="pbgid" value="1073742210" />
 </instance>

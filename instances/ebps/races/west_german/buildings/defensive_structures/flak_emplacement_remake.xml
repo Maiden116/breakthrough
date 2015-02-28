@@ -175,7 +175,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\received_damage_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073749321" />
+					<uniqueid name="id" value="1073749727" />
 				</template_reference>
 			</list>
 			<list name="materials">
@@ -405,7 +405,7 @@
 					<float name="scale_x" value="6" />
 					<float name="scale_y" value="6" />
 					<bool name="undoable" value="False" />
-					<uniqueid name="id" value="1073749322" />
+					<uniqueid name="id" value="1073749728" />
 				</template_reference>
 				<template_reference name="action" value="action\apply_modifiers_action">
 					<float name="duration" value="0" />
@@ -421,7 +421,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\received_damage_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073749323" />
+					<uniqueid name="id" value="1073749729" />
 				</template_reference>
 			</list>
 		</template_reference>
@@ -484,7 +484,21 @@
 					<bool name="is_present" value="True" />
 					<float name="max_completed" value="100" />
 					<float name="min_completed" value="1" />
-					<instance_reference name="upgrade_name" value="upgrade\west_german\doctrine\luftwaffe" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
+					<instance_reference name="upgrade_name" value="upgrade\west_german\commander\passive\heavy_fortifications" />
+				</template_reference>
+				<template_reference name="required" value="requirements\required_resource">
+					<enum name="reason" value="usage" />
+					<locstring name="ui_name" value="11053019" />
+					<template_reference name="resource" value="tables\resource_table">
+						<float name="action" value="0" />
+						<float name="command" value="2" />
+						<float name="fuel" value="0" />
+						<float name="manpower" value="0" />
+						<float name="munition" value="0" />
+						<float name="soviet_progression" value="0" />
+						<float name="soviet_227" value="0" />
+						<float name="popcap" value="0" />
+					</template_reference>
 				</template_reference>
 			</list>
 		</template_reference>
@@ -540,7 +554,7 @@
 				<template_reference name="action" value="action\retreat_action">
 					<instance_reference name="entity_type_to_retreat_to" value="" />
 					<enum name="retreat_type" value="withdraw_to_edge" />
-					<uniqueid name="id" value="1073749324" />
+					<uniqueid name="id" value="1073749730" />
 					<float name="refund_percent_after_retreat" value="0" />
 				</template_reference>
 				<template_reference name="action" value="action\apply_modifiers_action">
@@ -557,7 +571,7 @@
 							<instance_reference name="tooltip" value="modifier_tooltip\sight_radius_modifier" />
 						</template_reference>
 					</list>
-					<uniqueid name="id" value="1073749325" />
+					<uniqueid name="id" value="1073749731" />
 				</template_reference>
 			</list>
 			<list name="role_list">
@@ -579,5 +593,5 @@
 			<float name="destroy_on_abandon_health_threshold" value="-1" />
 		</template_reference>
 	</list>
-	<uniqueid name="pbgid" value="1073742093" />
+	<uniqueid name="pbgid" value="1073742114" />
 </instance>

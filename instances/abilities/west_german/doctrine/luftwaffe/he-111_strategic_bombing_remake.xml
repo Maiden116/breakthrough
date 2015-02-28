@@ -264,7 +264,7 @@
 		</list>
 		<template_reference name="targeted_ability_option" value="options\none">
 		</template_reference>
-		<enum name="ui_direction_requirement" value="nondirectional" />
+		<enum name="ui_direction_requirement" value="directional" />
 		<instance_reference name="cursor_ghost_ebp" value="" />
 		<bool name="can_cast_whilst_constructing" value="False" />
 		<list name="requirements_self_recharge">
