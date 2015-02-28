@@ -384,7 +384,7 @@
 		<template_reference name="squadexts" value="sbpextensions\squad_loadout_ext">
 			<list name="unit_list">
 				<group name="loadout_data">
-					<float name="num" value="5" />
+					<float name="num" value="10" />
 					<instance_reference name="type" value="ebps\races\west_german\soldiers\fallschirmjager\fallschirmjager_mp_remake" mod="82ae9fa5997e4dcdaac301f29d6d356d" />
 				</group>
 			</list>
